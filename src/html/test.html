@@ -30,18 +30,15 @@
 </head>
 <body>
 
-<div class="a1">
-    <div class="a2">
-        <div class="a3"  style="background-color: yellow">aa</div>
-        <div class="a4"></div>
-    </div>
-    <div class="test"></div>
+<div>
+
+    <p>aaa</p>
 </div>
 <script>
-    const obj = document.querySelector('.a3');
-    let test = document.querySelector('.test');
-    test.outerHTML = '<p>555</p>'
-    // const test = document.querySelector('')
+    $(function () {
+        $('div').append($('<button class="hover">点击</button>'));
+        console.log($('button').hasClass('hover'));
+    })
 </script>
 </body>
 </html>

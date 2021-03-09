@@ -25,14 +25,17 @@ export default  function () {
             'id':'quxiang',
             data: qx,
             width: 717.789,
-            x: 424.472
+            x: 424.472,
+            length: 1
         }
         const wuquxiang = {
             'id':'wuquxiang',
             data: [[wqx_day1,wqx_day2],[wqx_mon1,wqx_mon2]],
             total: [day_total,mon_total],
             width: 717.789,
-            x: 424.472
+            x: 424.472,
+            length: 1
+
         }
         tiaoXinTu(quxiang);
         tiaoXingDuiJi(wuquxiang);

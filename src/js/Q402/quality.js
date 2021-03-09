@@ -69,7 +69,7 @@ export default function () {
             width: 1439.288,
             data: list1,
             titles: ['记录状态','机组号','试验时间','班次号','班别号','批次号','1#乳化槽-PH值'],
-            order: [1,1,1,1,1,1,1],
+            order: [1,1,2,1,1,1,1],
             $ele: $svg.find('#jianhuayan')
         });
     })();

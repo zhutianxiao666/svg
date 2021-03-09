@@ -1,6 +1,4 @@
-import
-
-{$svg} from "../common/init";
+import {$svg} from "../common/init";
 import {getData,getUnitCode} from "../common/common";
 import mingxi from "../common/mingxi";
 
@@ -29,10 +27,13 @@ export default function () {
         FR.doHyperlink(event||window.event, [{"data":`var as=arguments; return FR.tc(function(){FR.doHyperlinkByGet4Reportlet({"url":"/webroot/decision/view/form?viewlet=硅钢/断带明细.cpt","para":{"__pi__":true,"UNIT_CODE":"${getUnitCode()}","type":"当前月"},"target":"_dialog","feature":{"width":1300,"height":800,"isCenter":true,"title":""},"title":"网络报表1"})}, this, as)`,"name":"网络报表1"}], true);
     });
     // 库存
-    $svg.find('#kuqu').click(function () {
-        console.log('库存明细');
-        FR.doHyperlink(event||window.event, [{"data":`var as=arguments; return FR.tc(function(){FR.doHyperlinkByGet4Reportlet({"url":"/webroot/decision/view/form?viewlet=硅钢/库存明细.cpt","para":{"__pi__":true,"STOCK_NO":"${$(this).attr('STOCK_NO')}","NEXT_UNIT_NO":"Q002","ST_NO_ROLL_TYPE":"${$(this).attr('ST_NO_ROLL_TYPE')}"},"target":"_dialog","feature":{"width":1300,"height":800,"isCenter":true,"title":""},"title":"网络报表1"})}, this, as)`,"name":"网络报表1"}], true);
+    $svg.find('#kuqu .hover').click(function () {
+
+        FR.doHyperlink(event||window.event, [{"data":`var as=arguments; return FR.tc(function(){FR.doHyperlinkByGet4Reportlet({"url":"/webroot/decision/view/form?viewlet=硅钢/库存明细.cpt","para":{"__pi__":true,"STOCK_NO":"${$(this).attr('data-stock-no')}","NEXT_UNIT_NO":"Q002","ST_NO_ROLL_TYPE":"${$(this).attr('data-st-no')}"},"target":"_dialog","feature":{"width":1300,"height":800,"isCenter":true,"title":""},"title":"网络报表1"})}, this, as)`,"name":"网络报表1"}], true);
     });
+    // $svg.find('#kuqu').on('click',function (event) {
+    //
+    // });
     // 成材率
     $svg.find('#wanbanchengcailv,#zaobanchengcailv,#zongtichengcailv').click(function () {
         console.log('成材率');
@@ -71,11 +72,7 @@ export default function () {
     });
     // 来料异常
 
-    /*
-    * `select (CASE WHEN UNIT_CODE = 'Q216' THEN (plan_no||'(联动)') ELSE plan_no END)||'Q_Q'||in_mat_no||'Q_Q'||hold_code||'Q_Q'||hold_defect||'Q_Q'||other_defect||'-*-' as 来料异常  from IMSIJ4.TIMSIJ4GC
-            where UNIT_CODE='${getUnitCode('Q502')}'  or (UNIT_CODE='Q216' and SPARE_ITEM_1='${getUnitCode('Q502')}')
-            order by UNIT_CODE,MAT_SEQ_NO`
-    */
+
 
     $svg.find('#lailiaoyichang .mingxi').click(function () {
         mingxi({
@@ -106,7 +103,6 @@ export default function () {
             sqlStr:`SELECT REC_STATUS||'Q_Q'|| UNIT_NO||'Q_Q'|| TEST_TIME||'Q_Q'|| SHIFT_NO||'Q_Q'|| GRP_NO||'Q_Q'|| LOT_NO||'Q_Q'|| EMUL_PH_1||'Q_Q'|| EMUL_CON_1||'Q_Q'|| EMUL_SAP_1||'Q_Q'|| EMUL_FFA_1||'Q_Q'|| EMUL_TFE_1||'Q_Q'|| EMUL_CL_1||'Q_Q'|| EMUL_OIL_1||'Q_Q'|| EMUL_ASH_1||'Q_Q'|| EMUL_ESI_1||'Q_Q'|| EMUL_CLEAN_1||'Q_Q'|| EMUL_CLEANFE_1||'Q_Q'|| EM_CLEANOIL_1||'-*-' as 检化验
             FROM TCMRS32
             WHERE UNIT_NO = '${getUnitCode()}'
-             
              AND TEST_TIME > to_char(current date - 2 months,'yyyymmdd')
              order by test_time desc`,
             title:['记录状态','机组号','试验时间','班次号','班别号','批次号','1#乳化槽-PH值','1#乳化槽-电导率','1#乳化槽-皂化值','1#乳化槽-游离脂肪酸','1#乳化槽-总铁','1#乳化槽-氯离子','1#乳化槽-油浓度','1#乳化槽-灰份','1#乳化槽-ESI','1#乳化槽-清洗剂浓度','1#乳化槽-清洗剂中铁分含量','1#乳化槽-清洗剂油浓度'],
@@ -116,16 +112,16 @@ export default function () {
     // 轧辊
     // 一中间
     $svg.find('#yizhongjian').click(function () {
-        FR.doHyperlink(event||window.event, [{"data":`var as=arguments; return FR.tc(function(){FR.doHyperlinkByGet4Reportlet({"url":"/webroot/decision/view/form?viewlet=%252F%25E7%25A1%2585%25E9%2592%25A2%252F%25E5%25BC%25B9%25E5%2587%25BA%25E6%2598%258E%25E7%25BB%2586%252F%25E8%25BD%25A7%25E8%25BE%258A%25E8%25B6%258B%25E5%258A%25BF.frm","para":{"__pi__":true,"unit_code":"${getUnitCode('Q402')}","RLTY":"一中间"},"target":"_dialog","feature":{"width":1500,"height":800,"isCenter":true,"title":""},"title":"网络报表1"})}, this, as)`,"name":"网络报表1"}], true)
+        FR.doHyperlink(event||window.event, [{"data":`var as=arguments; return FR.tc(function(){FR.doHyperlinkByGet4Reportlet({"url":"/webroot/decision/view/form?viewlet=%252F%25E7%25A1%2585%25E9%2592%25A2%252F%25E5%25BC%25B9%25E5%2587%25BA%25E6%2598%258E%25E7%25BB%2586%252F%25E8%25BD%25A7%25E8%25BE%258A%25E8%25B6%258B%25E5%258A%25BF.frm","para":{"__pi__":true,"unit_code":"${getUnitCode('Q402')}","item_value_content":"一中间"},"target":"_dialog","feature":{"width":1500,"height":800,"isCenter":true,"title":""},"title":"网络报表1"})}, this, as)`,"name":"网络报表1"}], true)
     });
 
     // 二中间
     $svg.find('#erzhongjian').click(function () {
-        FR.doHyperlink(event||window.event, [{"data":`var as=arguments; return FR.tc(function(){FR.doHyperlinkByGet4Reportlet({"url":"/webroot/decision/view/form?viewlet=%252F%25E7%25A1%2585%25E9%2592%25A2%252F%25E5%25BC%25B9%25E5%2587%25BA%25E6%2598%258E%25E7%25BB%2586%252F%25E8%25BD%25A7%25E8%25BE%258A%25E8%25B6%258B%25E5%258A%25BF.frm","para":{"__pi__":true,"unit_code":"${getUnitCode('Q402')}","RLTY":"二中间"},"target":"_dialog","feature":{"width":1500,"height":800,"isCenter":true,"title":""},"title":"网络报表1"})}, this, as)`,"name":"网络报表1"}], true)
+        FR.doHyperlink(event||window.event, [{"data":`var as=arguments; return FR.tc(function(){FR.doHyperlinkByGet4Reportlet({"url":"/webroot/decision/view/form?viewlet=%252F%25E7%25A1%2585%25E9%2592%25A2%252F%25E5%25BC%25B9%25E5%2587%25BA%25E6%2598%258E%25E7%25BB%2586%252F%25E8%25BD%25A7%25E8%25BE%258A%25E8%25B6%258B%25E5%258A%25BF.frm","para":{"__pi__":true,"unit_code":"${getUnitCode('Q402')}","item_value_content":"二中间"},"target":"_dialog","feature":{"width":1500,"height":800,"isCenter":true,"title":""},"title":"网络报表1"})}, this, as)`,"name":"网络报表1"}], true)
     });
 
     // 支撑辊
     $svg.find('#zhichenggun').click(function () {
-        FR.doHyperlink(event||window.event, [{"data":`var as=arguments; return FR.tc(function(){FR.doHyperlinkByGet4Reportlet({"url":"/webroot/decision/view/form?viewlet=%252F%25E7%25A1%2585%25E9%2592%25A2%252F%25E5%25BC%25B9%25E5%2587%25BA%25E6%2598%258E%25E7%25BB%2586%252F%25E8%25BD%25A7%25E8%25BE%258A%25E8%25B6%258B%25E5%258A%25BF.frm","para":{"__pi__":true,"unit_code":"${getUnitCode('Q402')}","RLTY":"支撑辊"},"target":"_dialog","feature":{"width":1500,"height":800,"isCenter":true,"title":""},"title":"网络报表1"})}, this, as)`,"name":"网络报表1"}], true)
+        FR.doHyperlink(event||window.event, [{"data":`var as=arguments; return FR.tc(function(){FR.doHyperlinkByGet4Reportlet({"url":"/webroot/decision/view/form?viewlet=%252F%25E7%25A1%2585%25E9%2592%25A2%252F%25E5%25BC%25B9%25E5%2587%25BA%25E6%2598%258E%25E7%25BB%2586%252F%25E8%25BD%25A7%25E8%25BE%258A%25E8%25B6%258B%25E5%258A%25BF.frm","para":{"__pi__":true,"unit_code":"${getUnitCode('Q402')}","item_value_content":"支撑辊"},"target":"_dialog","feature":{"width":1500,"height":800,"isCenter":true,"title":""},"title":"网络报表1"})}, this, as)`,"name":"网络报表1"}], true)
     });
 };

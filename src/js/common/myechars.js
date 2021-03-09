@@ -1,10 +1,11 @@
 import {$svg} from "./init";
-import {getTd, Q_QArr, Q_QObj, textCenter} from "./common";
+import {getTd, Q_QArr , textCenter} from "./common";
 import zhexiantu from "./myechars/zhexiantu";
 import yingguangtiao from "./myechars/yingguangtiao";
+import zhuZhuangTu from "@/js/common/myechars/zhuZhuangTu";
 
 // 条形图
-const tiaoXinTu = function ({x,id,data,width,shift_group}) {
+const tiaoXinTu = function ({x,id,data,width,shift_group,length}) {
     // 获取元素
     const $ele = $svg.find('#' + id);
     data = data.map(function (value) {
@@ -18,7 +19,7 @@ const tiaoXinTu = function ({x,id,data,width,shift_group}) {
         // 控制柱子宽度
         $ele.find(`.rect[data-index="${index}"]`).attr('width',value / max * width);
         // 控制数字
-        $ele.find(`.num[data-index="${index}"]`).text(Number(value).toFixed(2)).attr('x', x * 1 + value / max * width + 20);
+        $ele.find(`.num[data-index="${index}"]`).text(Number(value).toFixed(length || 2)).attr('x', x * 1 + value / max * width + 20);
 
     });
     // 修改班组
@@ -39,75 +40,6 @@ const tiaoXinTu = function ({x,id,data,width,shift_group}) {
             break;
     }
     $ele.find('.shift_group').text(str);
-};
-// 柱状图
-const zhuZhuangTu = function ({margin,order1,order2,width,data,x,y,height,color,textY,$ele,dataType}) {
-    margin = margin || 0.3;
-    const length1 = order1.length ;                                 // 分类1
-    const length2 = order2.length ;                                 // 分类2
-    const width0 = width / ( length1 + margin);                     // 每个分取的宽度（包含左右边距）
-    const width1 = width0 * (1 - margin);                           // 区域宽度（不包含左右边距）
-    const width2 = width1 * ( length2 > 1 ? 0.7 : 1 ) / length2  ;  // 柱子的实际宽度
-    const margin1 = width0 * margin ;                               // 大边距
-    const margin2 = length2 >1 ? width1 * 0.3 / (length2 - 1) : 0;  // 小边距
-    const list = [];
-    // 循环数组
-    const rectArr = [];
-    if (dataType == '竖表') {
-        const {obj : objData,max} =  Q_QObj(data);
-
-        order1.forEach((value,index) => {
-            let str = '<g>'
-            order2.forEach((value1, index1) => {
-                str += `<g>
-                            <rect x="${x + index  * width0 + margin1 + index1 * width2 + index1 * margin2}" y="${y - (objData[value][value1] || 0 ) / max * height}" width="${width2}" height="${(objData[value][value1] || 0) / max * height}" fill="${color[index1]}" ></rect>                    
-                            <text x="${x + index  * width0 + margin1 + index1 * width2 + index1 * margin2 + width2 / 2}" y="${y - (objData[value][value1] || 0) / max * height - 10 }" font-size="28.8" style="font-family: 'AgencyFB-Reg'">${ objData[value][value1] ? Number(objData[value][value1] ).toFixed(2) : 0}</text>
-                        </g>`
-            });
-            str += `
-               <g>
-                    <rect x="${margin1 + index * width0 +x}" y="${textY - 48  }" width="${width1}" height="50" fill="#036EB8" ></rect>
-                    <text x="${margin1 + width1 / 2 + index * width0 + x}" y="${textY}" font-family="AgencyFB-Reg" font-size="48" fill="white">${order1[index]}</text>
-                </g>
-            </g>`;
-            rectArr.push(str);
-        });
-
-    }else {
-        data = typeof data == 'string' ? Q_QArr(data) : data;
-        data.forEach(value => {
-            list.push(...value);
-        });
-        const max = Math.max(...list);
-
-        data.forEach((value , index) => {
-            let str = '<g>';
-            value.forEach((value1 , index1) => {
-                str += `<g>
-                            <rect x="${x + index  * width0 + margin1 + index1 * width2 + index1 * margin2}" y="${y - value1 / max * height}" width="${width2}" height="${value1 / max * height}" fill="${color[index1]}" >
-                            </rect>
-                            <text x="${x + index  * width0 + margin1 + index1 * width2 + index1 * margin2 + width2 / 2}" y="${y - value1 / max * height - 10 }" font-size="28.8" style="font-family: 'AgencyFB-Reg'">${Number(value1).toFixed(2)}</text>
-                   </g>`;
-            });
-            str += `
-            <g>
-                <rect x="${margin1 + index * width0 +x}" y="${textY - 48  }" width="${width1}" height="50" fill="#036EB8" ></rect>
-                <text x="${margin1 + width1 / 2 + index * width0 + x}" y="${textY}" font-family="AgencyFB-Reg" font-size="48" fill="white">${order1[index]}</text>
-            </g>
-        </g>`;
-            rectArr.push(str);
-        });
-    }
-    if (typeof $ele == 'string') {
-        $ele = $svg.find($ele);
-    };
-
-    if ($ele[0]) {
-        $ele.html(rectArr.join(''))
-    };
-    $ele.find('text').each((index ,value ) => {
-        textCenter($(value));
-    });
 };
 
 // 表格文字
@@ -372,8 +304,8 @@ const tiaoXingDuiJi = function (obj) {
         $ele.find(`.rect[data-index="${index}"][order="1"]`).attr('x',($ele.find(`.rect[data-index="${index}"][order="0"]`).attr('x') * 1 + value[0] / max * obj.width));
         $ele.find(`.rect[data-index="${index}"][order="1"]`).attr('width',value[1] / max * obj.width);
         // 控制数字
-        $ele.find(`.num[data-index="${index}"][order="0"]`).text(Number(value[0]).toFixed(2)).attr('x',obj.x * 1 + value[0] / max * obj.width + value[1] / max * obj.width + 20);
-        $ele.find(`.num[data-index="${index}"][order="1"]`).text(Number(value[1]).toFixed(2)).attr('x',obj.x * 1 + value[0] / max * obj.width + value[1] / max * obj.width + 30 + $ele.find(`.num[data-index="${index}"][order="0"]`)[0].getBBox().width);
+        $ele.find(`.num[data-index="${index}"][order="0"]`).text(Number(value[0]).toFixed(obj.length || 2)).attr('x',obj.x * 1 + value[0] / max * obj.width + value[1] / max * obj.width + 20);
+        $ele.find(`.num[data-index="${index}"][order="1"]`).text(Number(value[1]).toFixed(obj.length || 2)).attr('x',obj.x * 1 + value[0] / max * obj.width + value[1] / max * obj.width + 30 + $ele.find(`.num[data-index="${index}"][order="0"]`)[0].getBBox().width);
 
     });
     // 修改班组

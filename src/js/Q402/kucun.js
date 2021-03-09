@@ -58,4 +58,5 @@ export default function () {
         margin:0.3,
         textY:779.3438
     });
+
 }
