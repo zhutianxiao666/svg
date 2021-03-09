@@ -1,0 +1,860 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="3840"
+	 height="2160" viewBox="0 0 3840 2160" enable-background="new 0 0 3840 2160" xml:space="preserve" style="visibility: hidden;">
+<g id="shengchan">
+	<rect x="40" y="49.475" fill="none" stroke="#004E93" stroke-width="0.25" stroke-miterlimit="10" width="2110" height="790"/>
+	<g id="fanhuijuan">
+		
+			<rect x="1399.998" y="524.038" fill="none" stroke="#004E93" stroke-width="0.25" stroke-miterlimit="10" width="720.002" height="290"/>
+		<g>
+			<text transform="matrix(1 0 0 1 1920 767.8975)" fill="#403F41" font-family="'微软雅黑'" font-size="36">吨</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 1644.6201 776.333)" fill="#036EB8" font-family="'AgencyFB-Bold'" font-size="90" class="total">9999.99</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 1479.4727 763.3232)" fill="#403F41" font-family="'微软雅黑'" font-size="36">通过量</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 1830.3945 670.8311)" fill="#403F41" font-family="'微软雅黑'" font-size="36">min</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 1644.6201 677.7393)" fill="#920783" font-family="'AgencyFB-Bold'" font-size="90" class="time">9999</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 1445.873 666.0313)" fill="#403F41" font-family="'微软雅黑'" font-size="36">运行时间</text>
+		</g>
+		
+			<rect x="1399.998" y="524.038" fill="#D9F0FF" stroke="#004E93" stroke-width="0.25" stroke-miterlimit="10" width="720.002" height="70"/>
+		<g>
+			<text transform="matrix(1 0 0 1 1442.4893 567.6143)" fill="#004E93" font-family="'微软雅黑'" font-size="36">返回卷</text>
+		</g>
+	</g>
+	<g id="shijiankaidonglv">
+		
+			<path opacity="0.9" fill="none" stroke="#C9CACA" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+			M2073.663,335.357c0,79.525-64.479,144.003-144.004,144.003c-79.523,0-143.996-64.478-143.996-144.003
+			c0-79.533,64.473-143.999,143.996-143.999C2009.185,191.358,2073.663,255.824,2073.663,335.357z"/>
+		
+			<path opacity="0.9" fill="none" stroke="#00913A" stroke-width="20" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+			M1929.659,191.358c79.525,0,144.004,64.466,144.004,143.999c0,79.525-64.479,144.003-144.004,144.003" class="path"/>
+		<g>
+			<text transform="matrix(1 0 0 1 1841.4248 403.0117)" fill="#403F41" font-family="'微软雅黑'" font-size="36">时间开动率</text>
+		</g>
+		<g>
+			<text x="1921.2441" y="348.7578" fill="#006934" font-family="'AgencyFB-Bold'" font-size="90" class="num">99.99%</text>
+		</g>
+	</g>
+	<g id="sudufuhelv">
+		
+			<path opacity="0.9" fill="none" stroke="#C9CACA" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+			M1695.673,330.308c0,79.525-64.477,144.002-144.003,144.002c-79.523,0-143.996-64.477-143.996-144.002
+			c0-79.529,64.473-143.998,143.996-143.998C1631.196,186.31,1695.673,250.778,1695.673,330.308z"/>
+		
+			<path opacity="0.9" fill="none" stroke="#0075D8" stroke-width="20" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+			M1551.67,186.31c79.526,0,144.003,64.469,144.003,143.998c0,79.525-64.477,144.002-144.003,144.002
+			c-45.036,0-85.238-20.682-111.644-53.048" class="path"/>
+		<g>
+			<text transform="matrix(1 0 0 1 1463.0576 403.0117)" fill="#403F41" font-family="'微软雅黑'" font-size="36">速度符合率</text>
+		</g>
+		<g>
+			<text  x="1548.3901" y="350.7988" fill="#036EB8" font-family="'AgencyFB-Bold'" font-size="90" class="num">99.99%</text>
+		</g>
+	</g>
+	<g id="chanliang" class="hover">
+		
+			<rect x="77.001" y="165.631" fill="none" stroke="#004E93" stroke-width="0.25" stroke-miterlimit="10" width="1280" height="650"/>
+		<g id="wanban">
+			<g>
+				<g>
+					<text y="763.8447"  fill="#231815" font-family="'AgencyFB-Reg'" font-size="48" class="num" data-index="1">9999.99</text>
+				</g>
+				<rect x="772.624" y="729.926" fill="#00A29A" width="373.971" height="36" class="rect" data-index="1"/>
+				<g>
+					<text transform="matrix(1 0 0 1 674.0347 763.8164)" fill="#403F41" font-family="'微软雅黑'" font-size="36">本月</text>
+				</g>
+				<g>
+					<text y="702.9482"  fill="#231815" font-family="'AgencyFB-Reg'" font-size="48" class="num" data-index="0">999.99</text>
+				</g>
+				<rect x="772.624" y="670.517" fill="#0075D8" width="70.246" height="36" class="rect" data-index="0"/>
+				<g>
+					<text transform="matrix(1 0 0 1 674.0347 702.9434)" fill="#403F41" font-family="'微软雅黑'" font-size="36">昨日</text>
+				</g>
+			</g>
+			<g>
+				<g>
+					<path fill="none" stroke="#331E90" stroke-miterlimit="10" d="M532.108,770.222c-2.75,0-5-2.25-5-5v-90c0-2.75,2.25-5,5-5h90
+						c2.75,0,5,2.25,5,5v90c0,2.75-2.25,5-5,5H532.108z"/>
+				</g>
+				<g>
+					<text transform="matrix(0.9 0 0 1 587.9087 730.3789)" fill="#331E90" font-family="'MicrosoftYaHei-Bold'" font-size="36" class="shift_group">乙</text>
+				</g>
+				<g>
+					<path fill="#331E90" d="M532.663,770.222c-2.75,0-5-2.25-5-5v-90c0-2.75,2.25-5,5-5h40c2.75,0,5,2.25,5,5v90c0,2.75-2.25,5-5,5
+						H532.663z"/>
+				</g>
+				<g>
+					<text transform="matrix(0.9 0 0 1 536.1694 710.4678)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'MicrosoftYaHei-Bold'" font-size="33.6">晚</tspan><tspan x="0" y="40.32" fill="#FFFFFF" font-family="'MicrosoftYaHei-Bold'" font-size="33.6">班</tspan></text>
+				</g>
+			</g>
+		</g>
+		<line fill="none" stroke="#D0D2D3" stroke-miterlimit="10" x1="528.663" y1="636.076" x2="1282.495" y2="636.076"/>
+		<g id="zaoban">
+			<g>
+
+				<g>
+					<text x="0" y="599.7432" fill="#231815" font-family="'AgencyFB-Reg'" font-size="48" class="num" data-index="1">9999.99</text>
+				</g>
+				<rect x="772.624" y="565.825" fill="#00A29A" width="373.971" height="36" class="rect" data-index="1"/>
+				<g>
+					<text transform="matrix(1 0 0 1 674.0347 595.0742)" fill="#403F41" font-family="'微软雅黑'" font-size="36">本月</text>
+				</g>
+				<g>
+					<text  y="538.8467" fill="#231815" font-family="'AgencyFB-Reg'" font-size="48" class="num" data-index="0">999.99</text>
+				</g>
+				<rect x="772.624" y="506.415" fill="#0075D8" width="70.246" height="36" class="rect" data-index="0"/>
+				<g>
+					<text transform="matrix(1 0 0 1 674.0347 534.2012)"  fill="#403F41" font-family="'微软雅黑'" font-size="36">昨日</text>
+				</g>
+			</g>
+			<g>
+				<g>
+					<path fill="none" stroke="#F4A017" stroke-miterlimit="10" d="M532.108,606.415c-2.75,0-5-2.25-5-5v-90c0-2.75,2.25-5,5-5h90
+						c2.75,0,5,2.25,5,5v90c0,2.75-2.25,5-5,5H532.108z"/>
+				</g>
+				<g>
+					<text transform="matrix(0.9 0 0 1 587.9087 566.8643)" fill="#F39800" font-family="'MicrosoftYaHei-Bold'" font-size="36" class="shift_group">甲</text>
+				</g>
+				<g>
+					<path fill="#F4A017" d="M532.663,606.415c-2.75,0-5-2.25-5-5v-90c0-2.75,2.25-5,5-5h40c2.75,0,5,2.25,5,5v90c0,2.75-2.25,5-5,5
+						H532.663z"/>
+				</g>
+				<g>
+					<text transform="matrix(0.9 0 0 1 536.1694 546.6611)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'MicrosoftYaHei-Bold'" font-size="36">早</tspan><tspan x="0" y="43.2" fill="#FFFFFF" font-family="'MicrosoftYaHei-Bold'" font-size="36">班</tspan></text>
+				</g>
+			</g>
+		</g>
+		<g id="xiaoshichanliang">
+			<g>
+				<path fill="#0075D8" d="M280.621,774.913c-76.094,0-137.998-61.906-137.998-138c0-76.095,61.904-138,137.998-138
+					c76.095,0,138.002,61.905,138.002,138C418.623,713.007,356.716,774.913,280.621,774.913z M280.621,506.52
+					c-71.898,0-130.393,58.494-130.393,130.394s58.494,130.395,130.393,130.395c71.901,0,130.396-58.495,130.396-130.395
+					S352.522,506.52,280.621,506.52z"/>
+			</g>
+			<g>
+				<path fill="#0075D8" d="M293.855,525.071c51.129,5.842,91.808,46.521,97.645,97.648h7.667
+					c-5.904-55.332-49.981-99.407-105.312-105.313V525.071z"/>
+				<path fill="#0075D8" d="M170.853,622.72c5.839-51.132,46.521-91.81,97.649-97.648v-7.665
+					c-55.33,5.901-99.41,49.98-105.314,105.313H170.853z"/>
+				<path fill="#0075D8" d="M391.5,648.071c-5.837,51.128-46.516,91.807-97.645,97.646v7.666
+					c55.33-5.905,99.407-49.982,105.312-105.313H391.5z"/>
+				<path fill="#0075D8" d="M268.502,745.72c-51.129-5.839-91.811-46.517-97.649-97.648h-7.665
+					c5.904,55.333,49.984,99.41,105.314,105.313V745.72z"/>
+			</g>
+			<g>
+				<text transform="matrix(1 0 0 1 209.7642 699.0713)" fill="#403F41" font-family="'微软雅黑'" font-size="32.7034">小时产量</text>
+			</g>
+			<text  x="280.1709" y="659.4766" fill="#0075D8" font-family="'AgencyFB-Bold'" font-size="86.4" class="text">99.99</text>
+		</g>
+		
+			<line fill="none" stroke="#D0D2D3" stroke-width="2" stroke-miterlimit="10" x1="104.495" y1="458.467" x2="1304.495" y2="458.467"/>
+
+
+		<g id="dangyuewanclv">
+			<path fill="#D6F2DD" stroke="#00A29A" stroke-width="0.25" stroke-miterlimit="10" d="M1314.427,396.412
+				c0,13.808-11.898,25-26.574,25h-226.855c-14.676,0-26.57-11.192-26.57-25l0,0c0-13.808,11.895-25,26.57-25h226.855
+				C1302.528,371.412,1314.427,382.604,1314.427,396.412L1314.427,396.412z"/>
+			<g>
+				<text transform="matrix(1 0 0 1 1079.6279 407.7939)" fill="#403F41" font-family="'微软雅黑'" font-size="36">当月完成率</text>
+			</g>
+			<g>
+				<text transform="matrix(1 0 0 1 1062.5137 346.8545)" fill="#00A29A" font-family="'AgencyFB-Bold'" font-size="90" class="text">99.99%</text>
+			</g>
+		</g>
+		<g id="dangyuechanliang">
+			<path fill="#D6F2DD" stroke="#00A29A" stroke-width="0.25" stroke-miterlimit="10" d="M1004.211,396.412
+				c0,13.808-11.896,25-26.573,25H750.782c-14.677,0-26.571-11.192-26.571-25l0,0c0-13.808,11.895-25,26.571-25h226.855
+				C992.314,371.412,1004.211,382.604,1004.211,396.412L1004.211,396.412z"/>
+			<g>
+				<text transform="matrix(1 0 0 1 765.7402 407.7939)" fill="#403F41" font-family="'微软雅黑'" font-size="36">当月总产量</text>
+			</g>
+			<g>
+				<text transform="matrix(1 0 0 1 736.2002 346.8545)" fill="#00A29A" font-family="'AgencyFB-Bold'" font-size="90" class="text">9999.99</text>
+			</g>
+		</g>
+		<g id="zuorichanliang">
+			<path fill="#CAE6F4" stroke="#036EB8" stroke-width="0.25" stroke-miterlimit="10" d="M393.001,396.412
+				c0,13.808-11.896,25-26.573,25H139.572c-14.677,0-26.571-11.192-26.571-25l0,0c0-13.808,11.895-25,26.571-25h226.855
+				C381.104,371.412,393.001,382.604,393.001,396.412L393.001,396.412z"/>
+			<g>
+				<text transform="matrix(1 0 0 1 163.002 407.7939)" fill="#403F41" font-family="'微软雅黑'" font-size="36">昨日总产量</text>
+			</g>
+			<g>
+				<text transform="matrix(1 0 0 1 150.1094 346.8545)" fill="#036EB8" font-family="'AgencyFB-Bold'" font-size="90" class="text">999.99</text>
+			</g>
+		</g>
+		<g id="zuorichanliang_1_">
+			<path fill="#CAE6F4" stroke="#036EB8" stroke-width="0.25" stroke-miterlimit="10" d="M692.663,396.412
+				c0,13.808-11.896,25-26.573,25H439.234c-14.677,0-26.571-11.192-26.571-25l0,0c0-13.808,11.895-25,26.571-25h226.855
+				C680.766,371.412,692.663,382.604,692.663,396.412L692.663,396.412z"/>
+			<g>
+				<text transform="matrix(1 0 0 1 462.6636 407.7939)" fill="#403F41" font-family="'微软雅黑'" font-size="36">今日晚班量</text>
+			</g>
+			<g>
+				<text transform="matrix(1 0 0 1 449.771 346.8545)" fill="#036EB8" font-family="'AgencyFB-Bold'" font-size="90" class="text">999.99</text>
+			</g>
+		</g>
+		
+			<rect x="77.001" y="165.631" fill="#D9F0FF" stroke="#004E93" stroke-width="0.25" stroke-miterlimit="10" width="1280" height="70"/>
+		<text transform="matrix(1 0 0 1 1225.3467 210.0293)" fill="#595757" font-family="'微软雅黑'" font-size="24">单位：吨</text>
+		<g>
+			<text transform="matrix(1 0 0 1 116.6484 210.0303)" fill="#004E93" font-family="'微软雅黑'" font-size="36">产量</text>
+		</g>
+		
+			<line fill="none" stroke="#D0D2D3" stroke-width="2" stroke-miterlimit="10" x1="466.957" y1="500.034" x2="466.957" y2="780.034"/>
+	</g>
+	<rect x="40" y="49.854" fill="#D9F0FF" stroke="#004E93" stroke-width="0.25" stroke-miterlimit="10" width="2110" height="95"/>
+	<g>
+		<text transform="matrix(1 0 0 1 133.9883 113.7471)" fill="#004E93" font-family="'MicrosoftYaHei-Bold'" font-size="42">生产</text>
+	</g>
+	<rect x="76.001" y="82.816" fill="#004E93" width="36" height="36"/>
+</g>
+<g id="chengcailv">
+	<rect x="2173.23" y="49.475" fill="none" stroke="#004E93" stroke-width="0.25" stroke-miterlimit="10" width="500" height="790"/>
+	<g id="wanbanchengcailv_1_">
+		<g>
+			<text transform="matrix(1 0 0 1 2419.1494 657.5723)"><tspan x="0" y="0" fill="#00A29A" font-family="'AgencyFB-Bold'" font-size="72" class="out">85%</tspan><tspan x="0.914" y="72" fill="#0075D8" font-family="'AgencyFB-Bold'" font-size="72" class="in">70%</tspan></text>
+		</g>
+		<path fill="none" stroke="#0075D8" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+			M2264.622,721.405c0-87.6,71.01-158.61,158.607-158.61c32.85,0,63.365,9.984,88.678,27.089" class="in"/>
+		
+			<path opacity="0.9" fill="none" stroke="#C9CACA" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+			M2228.958,723.103c0-107.292,86.977-194.269,194.271-194.269c107.293,0,194.273,86.977,194.273,194.269"/>
+		<path fill="none" stroke="#33B5AE" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+			M2228.958,723.103c0-107.292,86.977-194.269,194.271-194.269c60.354,0,114.281,27.52,149.912,70.696" class="out"/>
+		<g>
+			<g>
+				<path fill="none" stroke="#331E90" stroke-miterlimit="10" d="M2342.338,806.913c-2.75,0-5-2.25-5-5v-46.665c0-2.75,2.25-5,5-5
+					h174.704c2.75,0,5,2.25,5,5v46.665c0,2.75-2.25,5-5,5H2342.338z"/>
+			</g>
+			<g>
+				<text transform="matrix(0.9 0 0 1 2467.7344 791.4224)" fill="#331E90" font-family="'MicrosoftYaHei-Bold'" font-size="36" class="shift_group">甲</text>
+			</g>
+			<g>
+				<path fill="#331E90" d="M2342.893,806.913c-2.75,0-5-2.25-5-5v-46.665c0-2.75,2.25-5,5-5h102.338c2.75,0,5,2.25,5,5v46.665
+					c0,2.75-2.25,5-5,5H2342.893z"/>
+			</g>
+			<g>
+				<text transform="matrix(0.9 0 0 1 2364.1875 790.4224)" fill="#FFFFFF" font-family="'MicrosoftYaHei-Bold'" font-size="36">晚班</text>
+			</g>
+		</g>
+	</g>
+	<g id="zaobanchengcailv_2_">
+		<g>
+			<text transform="matrix(1 0 0 1 2419.1494 308.6172)"><tspan x="0" y="0" fill="#00A29A" font-family="'AgencyFB-Bold'" font-size="72" class="out">85%</tspan><tspan x="0.914" y="72" fill="#0075D8" font-family="'AgencyFB-Bold'" font-size="72" class="in">70%</tspan></text>
+		</g>
+		<path fill="none" stroke="#0075D8" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+			M2264.622,372.451c0-87.601,71.01-158.611,158.607-158.611c32.85,0,63.365,9.984,88.678,27.089" class="in"/>
+		
+			<path opacity="0.9" fill="none" stroke="#C9CACA" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+			M2228.958,374.147c0-107.292,86.977-194.269,194.271-194.269c107.293,0,194.273,86.977,194.273,194.269"/>
+		<path fill="none" stroke="#33B5AE" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+			M2228.958,374.147c0-107.292,86.977-194.269,194.271-194.269c60.354,0,114.281,27.521,149.912,70.697" class="out"/>
+		<g>
+			<g>
+				<path fill="none" stroke="#F4A017" stroke-miterlimit="10" d="M2342.338,468.318c-2.75,0-5-2.25-5-5v-46.665c0-2.75,2.25-5,5-5
+					h174.704c2.75,0,5,2.25,5,5v46.665c0,2.75-2.25,5-5,5H2342.338z"/>
+			</g>
+			<g>
+				<text transform="matrix(0.9 0 0 1 2467.7344 452.8281)" fill="#F39800" font-family="'MicrosoftYaHei-Bold'" font-size="36" class="shift_group">甲</text>
+			</g>
+			<g>
+				<path fill="#F4A017" d="M2342.893,468.318c-2.75,0-5-2.25-5-5v-46.665c0-2.75,2.25-5,5-5h102.338c2.75,0,5,2.25,5,5v46.665
+					c0,2.75-2.25,5-5,5H2342.893z"/>
+			</g>
+			<g>
+				<text transform="matrix(0.9 0 0 1 2364.1875 451.8281)" fill="#FFFFFF" font-family="'MicrosoftYaHei-Bold'" font-size="36">早班</text>
+			</g>
+		</g>
+	</g>
+	
+		<rect x="2173.23" y="49.975" fill="#D9F0FF" stroke="#004E93" stroke-width="0.25" stroke-miterlimit="10" width="500" height="95"/>
+	<g>
+		<text transform="matrix(1 0 0 1 2463.9863 107.3975)" fill="#595757" font-family="'微软雅黑'" font-size="24">日实绩</text>
+	</g>
+	<rect x="2437.689" y="90.597" fill="#0075D8" width="19.199" height="19.2"/>
+	<g>
+		<text transform="matrix(1 0 0 1 2573.4961 107.3975)" fill="#595757" font-family="'微软雅黑'" font-size="24">月累计</text>
+	</g>
+	<rect x="2547.197" y="90.597" fill="#00A29A" width="19.201" height="19.2"/>
+	<g>
+		<text transform="matrix(1 0 0 1 2259.7764 111.3477)" fill="#004E93" font-family="'MicrosoftYaHei-Bold'" font-size="42">成材率</text>
+	</g>
+	<rect x="2204.294" y="80.417" fill="#004E93" width="36" height="36"/>
+</g>
+<g id="kucun">
+	
+		<rect x="2694.014" y="49.475" fill="none" stroke="#004E93" stroke-width="0.25" stroke-miterlimit="10" width="1100" height="790"/>
+		<g class="content">
+
+		</g>
+	
+		<rect x="2694.014" y="49.975" fill="#D9F0FF" stroke="#004E93" stroke-width="0.25" stroke-miterlimit="10" width="1100" height="95"/>
+	<g>
+		<text transform="matrix(1 0 0 1 3386.2891 107.3975)" fill="#595757" font-family="'微软雅黑'" font-size="24">Q518</text>
+	</g>
+	<rect x="3359.992" y="90.597" fill="#0075D8" width="19.199" height="19.2"/>
+	<g>
+		<text transform="matrix(1 0 0 1 3521.7969 107.3975)" fill="#595757" font-family="'微软雅黑'" font-size="24">Q018</text>
+	</g>
+	<rect x="3495.5" y="90.597" fill="#2EA7E0" width="19.201" height="19.2"/>
+	<g>
+		<text transform="matrix(1 0 0 1 3650.8262 107.3975)" fill="#595757" font-family="'微软雅黑'" font-size="24">过度卷</text>
+	</g>
+	<rect x="3624.529" y="90.597" fill="#9FA0A0" width="19.199" height="19.2"/>
+	<g>
+		<text transform="matrix(1 0 0 1 2784.6191 111.3477)" fill="#004E93" font-family="'MicrosoftYaHei-Bold'" font-size="42">库存</text>
+	</g>
+	<rect x="2729.186" y="80.417" fill="#004E93" width="36" height="36"/>
+</g>
+<g id="zhiliang">
+	
+		<rect x="40" y="869.157" fill="none" stroke="#004E93" stroke-width="0.25" stroke-miterlimit="10" width="2110" height="1230.001"/>
+	<g id="teshuyaoqiu">
+		<rect x="1200" y="1688.179" fill="none" stroke="#004E93" stroke-width="0.25" stroke-miterlimit="10" width="910" height="360"/>
+		
+			<rect x="1208.383" y="1783.229" fill="white" stroke="#004E93" stroke-width="0.25" stroke-miterlimit="10" width="890" height="245"/>
+		<g>
+			<text transform="matrix(1 0 0 1 1208.383 2006.252)" class="text" data-index="2" ><tspan x="0" y="0" fill="#6E6E6E" font-family="'微软雅黑'" font-size="32">7485</tspan><tspan x="75.063" y="0" fill="#6E6E6E" font-family="'微软雅黑'" font-size="32" letter-spacing="68">	</tspan><tspan x="153.449" y="0" fill="#6E6E6E" font-family="'微软雅黑'" font-size="32"> 52         11889881900       11889881900 </tspan></text>
+		</g>
+		
+			<rect x="1208.383" y="1903.658" fill="#DBEFFF" stroke="#004E93" stroke-width="0.25" stroke-miterlimit="10" width="890" height="60"/>
+		<g>
+			<text transform="matrix(1 0 0 1 1208.383 1947.6123)" class="text" data-index="1"><tspan x="0" y="0" fill="#6E6E6E" font-family="'微软雅黑'" font-size="32">7485</tspan><tspan x="75.063" y="0" fill="#6E6E6E" font-family="'微软雅黑'" font-size="32" letter-spacing="68">	</tspan><tspan x="153.449" y="0" fill="#6E6E6E" font-family="'微软雅黑'" font-size="32"> 52         11889881900       11889881900</tspan></text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 1208.383 1887.0635)" class="text" data-index="0"><tspan x="0" y="0" fill="#6E6E6E" font-family="'微软雅黑'" font-size="32">7485</tspan><tspan x="75.063" y="0" fill="#6E6E6E" font-family="'微软雅黑'" font-size="32" letter-spacing="68">	</tspan><tspan x="153.449" y="0" fill="#6E6E6E" font-family="'微软雅黑'" font-size="32"> 52         11889881900       11889881900</tspan></text>
+		</g>
+		
+			<rect x="1208.383" y="1783.229" fill="#DBEFFF" stroke="#004E93" stroke-width="0.25" stroke-miterlimit="10" width="890" height="60"/>
+		<g>
+			<text transform="matrix(1 0 0 1 1241.5122 1826.1426)" fill="#0075D8" font-family="'微软雅黑'" font-size="32" class="title">  计划号      顺序号         入口材料号            出口材料号</text>
+		</g>
+		
+			<rect x="1200" y="1688.179" fill="#D9F0FF" stroke="#004E93" stroke-width="0.25" stroke-miterlimit="10" width="910" height="70"/>
+		<g>
+			<text transform="matrix(1.0532 0 0 1 1980.3262 1738.8535)" fill="#0075D8" font-family="'微软雅黑'" font-size="36" class="hover mingxi">明细</text>
+			<path fill="none" stroke="#0075D8" stroke-miterlimit="10" d="M2089.223,1745.964c0,1.782-1.268,3.227-2.832,3.227h-144.338
+				c-1.563,0-2.83-1.444-2.83-3.227v-43.547c0-1.782,1.268-3.227,2.83-3.227h144.338c1.564,0,2.832,1.444,2.832,3.227V1745.964z"/>
+		</g>
+		<path fill="#0075D8" stroke="#0075D8" stroke-width="0.25" stroke-miterlimit="10" d="M1485.828,1705.959
+			c0-4.188-3.312-7.581-7.397-7.581h-265.206c-4.083,0-7.397,3.394-7.397,7.581v52.419h280V1705.959z"/>
+		<g>
+			<text transform="matrix(1.0532 0 0 1 1259.104 1741.0664)" fill="#FFFFFF" font-family="'微软雅黑'" font-size="36">特殊要求</text>
+		</g>
+	</g>
+	<g id="yichangtixing">
+		
+			<rect x="84.698" y="1688.179" fill="none" stroke="#004E93" stroke-width="0.25" stroke-miterlimit="10" width="1100" height="360"/>
+		
+			<rect x="96.081" y="1780.229" fill="white" stroke="#004E93" stroke-width="0.25" stroke-miterlimit="10" width="1080" height="245"/>
+		<g>
+			<text transform="matrix(1 0 0 1 100 2003.252)" class="text" data-index="2"><tspan x="0" y="0" fill="#6E6E6E" font-family="'微软雅黑'" font-size="32">7485</tspan><tspan x="75.063" y="0" fill="#6E6E6E" font-family="'微软雅黑'" font-size="32" letter-spacing="68">	</tspan><tspan x="153.449" y="0" fill="#6E6E6E" font-family="'微软雅黑'" font-size="32">    10836838600          11889881900           ACZ4</tspan></text>
+		</g>
+			<rect x="96.081" y="1900.658" fill="#DBEFFF" stroke="#004E93" stroke-width="0.25" stroke-miterlimit="10" width="1080" height="60"/>
+		<g>
+			<text transform="matrix(1 0 0 1 100 1944.6123)" class="text" data-index="1"><tspan x="0" y="0" fill="#6E6E6E" font-family="'微软雅黑'" font-size="32">7485</tspan><tspan x="75.063" y="0" fill="#6E6E6E" font-family="'微软雅黑'" font-size="32" letter-spacing="68">	</tspan><tspan x="153.449" y="0" fill="#6E6E6E" font-family="'微软雅黑'" font-size="32">    10836838600          11889881900           ACZ4</tspan></text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 100 1881.9277)" class="text" data-index="0"><tspan x="0" y="0" fill="#6E6E6E" font-family="'微软雅黑'" font-size="32">7485</tspan><tspan x="75.063" y="0" fill="#6E6E6E" font-family="'微软雅黑'" font-size="32" letter-spacing="68">	</tspan><tspan x="153.449" y="0" fill="#6E6E6E" font-family="'微软雅黑'" font-size="32">    10836838600          11889881900           ACZ4</tspan></text>
+		</g>
+			<rect x="96.081" y="1780.229" fill="#DBEFFF" stroke="#004E93" stroke-width="0.25" stroke-miterlimit="10" width="1080" height="60"/>
+		<g>
+			<text transform="matrix(1 0 0 1 135.0332 1823.1426)" fill="#0075D8" font-family="'微软雅黑'" font-size="32" class="title" ></text>
+		</g>
+		
+			<rect x="84.698" y="1688.179" fill="#D9F0FF" stroke="#004E93" stroke-width="0.25" stroke-miterlimit="10" width="1100" height="70"/>
+		<g>
+			<text transform="matrix(1.0532 0 0 1 1048.7598 1738.8535)" fill="#0075D8" font-family="'微软雅黑'" font-size="36" class="hover mingxi">明细</text>
+			<path fill="none" stroke="#0075D8" stroke-miterlimit="10" d="M1157.657,1745.964c0,1.782-1.268,3.227-2.831,3.227h-144.338
+				c-1.563,0-2.831-1.444-2.831-3.227v-43.547c0-1.782,1.268-3.227,2.831-3.227h144.338c1.563,0,2.831,1.444,2.831,3.227V1745.964z"
+				/>
+		</g>
+		<path fill="#0075D8" stroke="#0075D8" stroke-width="0.25" stroke-miterlimit="10" d="M370.526,1705.959
+			c0-4.188-3.312-7.581-7.397-7.581H97.923c-4.083,0-7.397,3.394-7.397,7.581v52.419h280V1705.959z"/>
+		<g>
+			<text transform="matrix(1.0532 0 0 1 143.8018 1741.0664)" fill="#FFFFFF" font-family="'微软雅黑'" font-size="36">异常提醒</text>
+		</g>
+	</g>
+	<g id="chengpinjihualiang_1_">
+		<g id="dangyuechanliang_4_">
+			<path fill="#D6F2DD" stroke="#00A29A" stroke-width="0.25" stroke-miterlimit="10" d="M2054.826,1293.127
+				c0,13.811-11.684,25-26.099,25h-222.807c-14.413,0-26.095-11.189-26.095-25l0,0c0-13.806,11.682-25,26.095-25h222.807
+				C2043.143,1268.127,2054.826,1279.321,2054.826,1293.127L2054.826,1293.127z"/>
+			<g>
+				<text transform="matrix(1 0 0 1 1854.8535 1304.5107)" fill="#403F41" font-family="'微软雅黑'" font-size="36">月累计</text>
+			</g>
+			<g>
+				<text transform="matrix(1 0 0 1 1795.3145 1232.2998)" fill="#00A29A" font-family="'AgencyFB-Bold'" font-size="90" class="text">9999.99</text>
+			</g>
+		</g>
+		<g id="dangyuechanliang_3_">
+			<path fill="#E1C6FD" stroke="#006934" stroke-width="0.25" stroke-miterlimit="10" d="M2054.826,1539.588
+				c0,13.811-11.684,25-26.099,25h-222.807c-14.413,0-26.095-11.189-26.095-25l0,0c0-13.806,11.682-25,26.095-25h222.807
+				C2043.143,1514.588,2054.826,1525.782,2054.826,1539.588L2054.826,1539.588z"/>
+			<g>
+				<text transform="matrix(1 0 0 1 1866.8535 1550.9717)" fill="#403F41" font-family="'微软雅黑'" font-size="36">年累计</text>
+			</g>
+			<g>
+				<text transform="matrix(1 0 0 1 1795.3145 1478.7588)" fill="#920783" font-family="'AgencyFB-Bold'" font-size="90" class="text">9999.99</text>
+			</g>
+		</g>
+		
+			<rect x="1729" y="1021.956" fill="#D9F0FF" stroke="#004E93" stroke-width="0.25" stroke-miterlimit="10" width="380" height="70"/>
+		
+			<rect x="1729" y="1021.956" fill="none" stroke="#004E93" stroke-width="0.25" stroke-miterlimit="10" width="380" height="609.999"/>
+		<g>
+			<text transform="matrix(1 0 0 1 1748.8525 1068.4482)" fill="#004E93" font-family="'微软雅黑'" font-size="36">成品计划量</text>
+		</g>
+	</g>
+	<g id="fangxinglv_1_">
+		<path fill="#F6D5A8" stroke="#C27000" stroke-width="0.25" stroke-miterlimit="10" d="M1616.489,1597.925
+			c0,13.811-11.633,25-25.979,25h-328.048c-14.346,0-25.973-11.189-25.973-25l0,0c0-13.807,11.627-25,25.973-25h328.048
+			C1604.856,1572.925,1616.489,1584.118,1616.489,1597.925L1616.489,1597.925z"/>
+
+		<path fill="#F6D5A8" stroke="#C27000" transform="translate(0,-330)" stroke-width="0.25" stroke-miterlimit="10" d="M1616.489,1597.925    c0,13.811-11.633,25-25.979,25h-328.048c-14.346,0-25.973-11.189-25.973-25l0,0c0-13.807,11.627-25,25.973-25h328.048    C1604.856,1572.925,1616.489,1584.118,1616.489,1597.925L1616.489,1597.925z"></path>
+
+		<g id="fangxinglv_1_month" class="hover">
+			<g>
+			   <text transform="matrix(1 0 0 1 1269.6973 1279.2432)" fill="#403F41" font-family="'微软雅黑'" font-size="36">放行率 / 放行量(月)</text>
+			</g>
+			<g>
+				<text transform="matrix(1 0 0 1 1423.8066 1142.5635)"><tspan x="0" y="0" fill="#00A29A" font-family="'AgencyFB-Bold'" font-size="72" class="numTop">85%</tspan><tspan x="0" y="72" fill="#0075D8" font-family="'AgencyFB-Bold'" font-size="72" class="numBottom">9999.99</tspan></text>
+			</g>
+				<path fill="none" stroke="#BBBDBF" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+				M1246.038,1190.703c0-99.413,80.587-179.999,179.999-179.999s180,80.586,180,179.999"/>
+			
+				<path fill="none" stroke="#33B5AE" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+				M1246.038,1190.703c0-99.413,80.587-179.999,179.999-179.999c55.92,0,105.886,25.498,138.9,65.502" class="path"/>
+		</g>
+		<g id="fangxinglv_1_year">
+			<g>
+				<text transform="matrix(1 0 0 1 1423.8066 1472.4531)"><tspan x="0" y="0" fill="#00A29A" font-family="'AgencyFB-Bold'" font-size="72" class="numTop">85%</tspan><tspan x="0" y="72" fill="#0075D8" font-family="'AgencyFB-Bold'" font-size="72" class="numBottom">9999.99</tspan></text>
+			</g>
+				<path fill="none" stroke="#BBBDBF" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+				M1246.038,1520.593c0-99.41,80.587-180,179.999-180s180,80.59,180,180"/>
+			
+				<path fill="none" stroke="#33B5AE" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+				M1246.038,1520.593c0-99.41,80.587-180,179.999-180c55.92,0,105.886,25.5,138.9,65.504" class="path"/>
+			<g>
+				<text transform="matrix(1 0 0 1 1269.6973 1610.3086)" fill="#403F41" font-family="'微软雅黑'" font-size="36">放行率 / 放行量(年)</text>
+			</g>
+		</g>
+	</g>
+	
+		<line fill="none" stroke="#D0D2D3" stroke-width="2" stroke-miterlimit="10" x1="1146.35" y1="1023.103" x2="1146.35" y2="1623.104"/>
+	<g id="CPfuhelv_1_" class="hover">
+		<path fill="#DDF2CB" stroke="#006934" stroke-width="0.25" stroke-miterlimit="10" d="M513.988,1597.925
+			c0,13.811-11.632,25-25.978,25h-328.05c-14.346,0-25.973-11.189-25.973-25l0,0c0-13.807,11.627-25,25.973-25h328.05
+			C502.356,1572.925,513.988,1584.118,513.988,1597.925L513.988,1597.925z"/>
+		<g>
+			<text transform="matrix(1 0 0 1 246.4844 1610.3086)" fill="#403F41" font-family="'微软雅黑'" font-size="36">CP符合率</text>
+		</g>
+		<g class="wanban">
+			<g>
+				<g>
+					<path fill="none" stroke="#331E90" stroke-miterlimit="10" d="M238.607,1546.854c-2.75,0-5-2.25-5-5v-46.666c0-2.75,2.25-5,5-5
+						h174.704c2.75,0,5,2.25,5,5v46.666c0,2.75-2.25,5-5,5H238.607z"/>
+				</g>
+				<g>
+					<text transform="matrix(0.9 0 0 1 364.0029 1531.3633)" fill="#331E90" font-family="'MicrosoftYaHei-Bold'" font-size="36" class="shift_group">甲</text>
+				</g>
+				<g>
+					<path fill="#331E90" d="M239.162,1546.854c-2.75,0-5-2.25-5-5v-46.666c0-2.75,2.25-5,5-5H341.5c2.75,0,5,2.25,5,5v46.666
+						c0,2.75-2.25,5-5,5H239.162z"/>
+				</g>
+				<g>
+					<text transform="matrix(0.9 0 0 1 260.4561 1530.3633)" fill="#FFFFFF" font-family="'MicrosoftYaHei-Bold'" font-size="36">晚班</text>
+				</g>
+			</g>
+			<g>
+				<g>
+					<text transform="matrix(1 0 0 1 321.5688 1408.7012)"><tspan x="0" y="0" fill="#00A29A" font-family="'AgencyFB-Bold'" font-size="63.5074" class="out">85%</tspan><tspan x="0" y="63.508" fill="#0075D8" font-family="'AgencyFB-Bold'" font-size="63.5074" class="in">70%</tspan></text>
+				</g>
+
+				<path fill="none" stroke="#0075D8" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+				M193.916,1449.777c0-71.594,58.031-129.63,129.621-129.63c26.847,0,51.786,8.162,72.471,22.141" class="in"/>
+
+				<path fill="none" stroke="#BBBDBF" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+				M164.769,1451.163c0-87.685,71.081-158.77,158.768-158.77c87.687,0,158.77,71.085,158.77,158.77"/>
+
+				<path fill="none" stroke="#33B5AE" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+				M164.769,1451.163c0-87.685,71.081-158.77,158.768-158.77c49.323,0,93.396,22.492,122.515,57.778" class="out"/>
+			</g>
+		</g>
+		<g class="zaoban">
+			<g>
+			<g>
+				<path fill="none" stroke="#F4A017" stroke-miterlimit="10" d="M246.358,1267.192c-2.75,0-5-2.25-5-5v-46.666c0-2.75,2.25-5,5-5
+					h174.704c2.75,0,5,2.25,5,5v46.666c0,2.75-2.25,5-5,5H246.358z"/>
+			</g>
+				<g>
+				<text transform="matrix(0.9 0 0 1 371.7544 1251.7021)" fill="#F39800" font-family="'MicrosoftYaHei-Bold'" font-size="36" class="shift_group">甲</text>
+			</g>
+				<g>
+				<path fill="#F4A017" d="M246.913,1267.192c-2.75,0-5-2.25-5-5v-46.666c0-2.75,2.25-5,5-5h102.338c2.75,0,5,2.25,5,5v46.666
+					c0,2.75-2.25,5-5,5H246.913z"/>
+			</g>
+				<g>
+				<text transform="matrix(0.9 0 0 1 268.2075 1250.7021)" fill="#FFFFFF" font-family="'MicrosoftYaHei-Bold'" font-size="36">早班</text>
+			</g>
+		</g>
+			<g>
+			<g>
+				<text transform="matrix(1 0 0 1 321.5688 1128.8789)"><tspan x="0" y="0" fill="#00A29A" font-family="'AgencyFB-Bold'" font-size="63.5074" class="out">85%</tspan><tspan x="0" y="63.508" fill="#0075D8" font-family="'AgencyFB-Bold'" font-size="63.5074" class="in">70%</tspan></text>
+			</g>
+
+				<path fill="none" stroke="#0075D8" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+				M193.916,1169.952c0-71.592,58.031-129.626,129.621-129.626c26.847,0,51.786,8.161,72.471,22.141" class="in"/>
+
+				<path fill="none" stroke="#BBBDBF" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+				M164.769,1171.34c0-87.687,71.081-158.767,158.768-158.767c87.687,0,158.77,71.081,158.77,158.767"/>
+
+				<path fill="none" stroke="#33B5AE" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+				M164.769,1171.34c0-87.687,71.081-158.767,158.768-158.767c49.323,0,93.396,22.49,122.515,57.776" class="out"/>
+		</g>
+		</g>
+	</g>
+	
+		<line fill="none" stroke="#D0D2D3" stroke-width="2" stroke-miterlimit="10" x1="586.072" y1="1023.103" x2="586.072" y2="1623.104"/>
+	<g id="xianhuowanchenglv_1_" class="hover">
+		<path fill="#CAE6F4" stroke="#036EB8" stroke-width="0.25" stroke-miterlimit="10" d="M1046.75,1597.925
+			c0,13.811-11.632,25-25.979,25H692.724c-14.346,0-25.974-11.189-25.974-25l0,0c0-13.807,11.627-25,25.974-25h328.047
+			C1035.118,1572.925,1046.75,1584.118,1046.75,1597.925L1046.75,1597.925z"/>
+		<g>
+			<text transform="matrix(1 0 0 1 767.0923 1610.3086)" fill="#403F41" font-family="'微软雅黑'" font-size="36">现货发生率</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 853.5435 1472.4531)"><tspan x="0" y="0" fill="#00A29A" font-family="'AgencyFB-Bold'" font-size="72" class="out">85%</tspan><tspan x="0" y="72" fill="#0075D8" font-family="'AgencyFB-Bold'" font-size="72" class="in">70%</tspan></text>
+		</g>
+		<path fill="none" stroke="#0075D8" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+			M708.82,1519.022c0-81.168,65.791-146.965,146.954-146.965c30.437,0,58.711,9.254,82.162,25.102" class="in"/>
+		<path fill="none" stroke="#BBBDBF" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+			M675.775,1520.593c0-99.41,80.586-180,179.999-180c99.412,0,180.001,80.59,180.001,180"/>
+		<path fill="none" stroke="#33B5AE" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+			M675.775,1520.593c0-99.41,80.586-180,179.999-180c55.919,0,105.885,25.5,138.898,65.504" class="out"/>
+	</g>
+
+
+	<g id="quexiangaipanlv_1_" class="hover">
+		<path fill="#CAE6F4" stroke="#036EB8" stroke-width="0.25" stroke-miterlimit="10" d="M1046.75,1267.859
+			c0,13.806-11.631,25-25.979,25H692.724c-14.346,0-25.974-11.194-25.974-25l0,0c0-13.806,11.627-25,25.974-25h328.048
+			C1035.119,1242.859,1046.75,1254.054,1046.75,1267.859L1046.75,1267.859z"/>
+		<g>
+			<text transform="matrix(1 0 0 1 767.0923 1279.2432)" fill="#403F41" font-family="'微软雅黑'" font-size="36">缺陷改判率</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 853.5435 1142.5635)"><tspan x="0" y="0" fill="#00A29A" font-family="'AgencyFB-Bold'" font-size="72" class="out">85%</tspan><tspan x="0" y="72" fill="#0075D8" font-family="'AgencyFB-Bold'" font-size="72" class="in">70%</tspan></text>
+		</g>
+		<path fill="none" stroke="#0075D8" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+			M708.82,1189.129c0-81.165,65.791-146.96,146.954-146.96c30.437,0,58.711,9.252,82.162,25.102" class="in"/>
+		<path fill="none" stroke="#BBBDBF" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+			M675.775,1190.703c0-99.413,80.586-179.999,179.999-179.999c99.412,0,180.001,80.586,180.001,179.999"/>
+		<path fill="none" stroke="#33B5AE" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+			M675.775,1190.703c0-99.413,80.586-179.999,179.999-179.999c55.919,0,105.885,25.498,138.898,65.502" class="out"/>
+	</g>
+
+	<rect x="40" y="867.612" fill="#D9F0FF" stroke="#004E93" stroke-width="0.25" stroke-miterlimit="10" width="2110" height="95"/>
+	<g>
+		<text transform="matrix(1 0 0 1 1730.8174 932.1455)" fill="#595757" font-family="'微软雅黑'" font-size="24">日实绩</text>
+	</g>
+	<rect x="1704.519" y="913.876" fill="#0075D8" width="19.199" height="19.199"/>
+	<g>
+		<text transform="matrix(1 0 0 1 1866.3252 932.1455)" fill="#595757" font-family="'微软雅黑'" font-size="24">月累计</text>
+	</g>
+	<rect x="1840.026" y="913.876" fill="#00A29A" width="19.201" height="19.199"/>
+	<text transform="matrix(1 0 0 1 1992.3311 932.1436)" fill="#595757" font-family="'微软雅黑'" font-size="24">单位：吨</text>
+	<g>
+		<text transform="matrix(1 0 0 1 133.9883 932.8623)" fill="#004E93" font-family="'MicrosoftYaHei-Bold'" font-size="42">质量</text>
+	</g>
+	<rect x="76.001" y="901.93" fill="#004E93" width="36" height="35.999"/>
+</g>
+<g id="nenghao">
+	
+		<rect x="2173.23" y="867.612" fill="none" stroke="#004E93" stroke-width="0.25" stroke-miterlimit="10" width="1020" height="575"/>
+	<g id="wanbannenghao_2_">
+		<g>
+			<g>
+				<text x="3024.8037" y="1367.9482" fill="#231815" font-family="'AgencyFB-Reg'" font-size="48" class="num" data-index="1">9999.99</text>
+			</g>
+			<rect x="2522.767" y="1334.029" fill="#00A29A" width="461.277" height="36" class="rect" data-index="1"/>
+			<g>
+				<text transform="matrix(1 0 0 1 2424.1768 1363.2783)" fill="#403F41" font-family="'微软雅黑'" font-size="36">本月</text>
+			</g>
+			<g>
+				<text x="2686.2432" y="1307.0518" fill="#231815" font-family="'AgencyFB-Reg'" font-size="48" class="num" data-index="0">999.99</text>
+			</g>
+			<rect x="2522.767" y="1274.619" fill="#0075D8" width="148.885" height="36" class="rect" data-index="0"/>
+			<g>
+				<text transform="matrix(1 0 0 1 2424.1768 1302.4053)" fill="#403F41" font-family="'微软雅黑'" font-size="36">昨日</text>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path fill="none" stroke="#331E90" stroke-miterlimit="10" d="M2269.622,1374.404c-2.75,0-5-2.25-5-5v-90c0-2.75,2.25-5,5-5h90
+					c2.75,0,5,2.25,5,5v90c0,2.75-2.25,5-5,5H2269.622z"/>
+			</g>
+			<g>
+				<text transform="matrix(0.9 0 0 1 2325.4238 1334.5615)" fill="#331E90" font-family="'MicrosoftYaHei-Bold'" font-size="36" class="shift_group">乙</text>
+			</g>
+			<g>
+				<path fill="#331E90" d="M2270.177,1374.404c-2.75,0-5-2.25-5-5v-90c0-2.75,2.25-5,5-5h40c2.75,0,5,2.25,5,5v90
+					c0,2.75-2.25,5-5,5H2270.177z"/>
+			</g>
+			<g>
+				<text transform="matrix(0.9 0 0 1 2273.6836 1314.6504)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'MicrosoftYaHei-Bold'" font-size="33.6">晚</tspan><tspan x="0" y="40.319" fill="#FFFFFF" font-family="'MicrosoftYaHei-Bold'" font-size="33.6">班</tspan></text>
+			</g>
+		</g>
+	</g>
+	
+		<line fill="none" stroke="#D0D2D3" stroke-width="2" stroke-miterlimit="10" x1="2222.294" y1="1205.135" x2="3169.134" y2="1205.135"/>
+	<g id="zaobannenghao_2_">
+		<g>
+			<g>
+				<text  x="3024.8037" y="1134.7021" fill="#231815" font-family="'AgencyFB-Reg'" font-size="48" class="num" data-index="1">9999.99</text>
+			</g>
+			<rect x="2522.767" y="1100.782" fill="#00A29A" width="461.277" height="36" class="rect" data-index="1"/>
+			<g>
+				<text transform="matrix(1 0 0 1 2424.1768 1130.0342)" fill="#403F41" font-family="'微软雅黑'" font-size="36">本月</text>
+			</g>
+			<g>
+				<text x="2686.2432" y="1073.8057" fill="#231815" font-family="'AgencyFB-Reg'" font-size="48" class="num" data-index="0">999.99</text>
+			</g>
+			<rect x="2522.767" y="1041.374" fill="#0075D8" width="148.885" height="36" class="rect" data-index="0"/>
+			<g>
+				<text transform="matrix(1 0 0 1 2424.1768 1069.1611)" fill="#403F41" font-family="'微软雅黑'" font-size="36">昨日</text>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path fill="none" stroke="#F4A017" stroke-miterlimit="10" d="M2269.622,1138.318c-2.75,0-5-2.25-5-5v-90c0-2.75,2.25-5,5-5h90
+					c2.75,0,5,2.25,5,5v90c0,2.75-2.25,5-5,5H2269.622z"/>
+			</g>
+			<g>
+				<text transform="matrix(0.9 0 0 1 2325.4238 1098.7676)" fill="#F39800" font-family="'MicrosoftYaHei-Bold'" font-size="36" class="shift_group">甲</text>
+			</g>
+			<g>
+				<path fill="#F4A017" d="M2270.177,1138.318c-2.75,0-5-2.25-5-5v-90c0-2.75,2.25-5,5-5h40c2.75,0,5,2.25,5,5v90
+					c0,2.75-2.25,5-5,5H2270.177z"/>
+			</g>
+			<g>
+				<text transform="matrix(0.9 0 0 1 2273.6836 1078.5645)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'MicrosoftYaHei-Bold'" font-size="36">早</tspan><tspan x="0" y="43.2" fill="#FFFFFF" font-family="'MicrosoftYaHei-Bold'" font-size="36">班</tspan></text>
+			</g>
+		</g>
+	</g>
+	
+		<rect x="2173.23" y="867.612" fill="#D9F0FF" stroke="#004E93" stroke-width="0.25" stroke-miterlimit="10" width="1020" height="95"/>
+	<g>
+		<text transform="matrix(1 0 0 1 2952.1768 929.8916)" fill="#595757" font-family="'微软雅黑'" font-size="24">日实绩</text>
+	</g>
+	<rect x="2925.878" y="911.622" fill="#0075D8" width="19.201" height="19.199"/>
+	<g>
+		<text transform="matrix(1 0 0 1 3087.6846 929.8916)" fill="#595757" font-family="'微软雅黑'" font-size="24">月累计</text>
+	</g>
+	<rect x="3061.388" y="911.622" fill="#00A29A" width="19.199" height="19.199"/>
+	<g>
+		<text transform="matrix(1 0 0 1 2259.7764 933.3857)" fill="#004E93" font-family="'MicrosoftYaHei-Bold'" font-size="42">能耗</text>
+	</g>
+	<rect x="2204.294" y="900.055" fill="#004E93" width="36" height="35.999"/>
+</g>
+<g id="jixiao">
+	<g id="wanbanjixiao">
+		<g>
+			<text transform="matrix(1 0 0 1 3466.9355 1352.0293)"><tspan x="0" y="0" fill="#00A29A" font-family="'AgencyFB-Bold'" font-size="90">80 </tspan><tspan x="102.788" y="0" opacity="0.9" fill="#0075D8" font-family="'AgencyFB-Bold'" font-size="90">/100</tspan></text>
+		</g>
+		<g>
+			<g>
+				<path fill="none" stroke="#331E90" stroke-miterlimit="10" d="M3299.289,1370.201c-2.75,0-5-2.25-5-5v-90c0-2.75,2.25-5,5-5h90
+					c2.75,0,5,2.25,5,5v90c0,2.75-2.25,5-5,5H3299.289z"/>
+			</g>
+			<g>
+				<text transform="matrix(0.9 0 0 1 3355.0898 1330.3584)" fill="#331E90" font-family="'MicrosoftYaHei-Bold'" font-size="36">乙</text>
+			</g>
+			<g>
+				<path fill="#331E90" d="M3299.844,1370.201c-2.75,0-5-2.25-5-5v-90c0-2.75,2.25-5,5-5h40c2.75,0,5,2.25,5,5v90
+					c0,2.75-2.25,5-5,5H3299.844z"/>
+			</g>
+			<g>
+				<text transform="matrix(0.9 0 0 1 3303.3516 1310.4473)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'MicrosoftYaHei-Bold'" font-size="33.6">晚</tspan><tspan x="0" y="40.319" fill="#FFFFFF" font-family="'MicrosoftYaHei-Bold'" font-size="33.6">班</tspan></text>
+			</g>
+		</g>
+	</g>
+	
+		<rect x="3215.695" y="867.612" fill="none" stroke="#004E93" stroke-width="0.25" stroke-miterlimit="10" width="580" height="575"/>
+	<g id="zaobanjixiao">
+		<g>
+			<text transform="matrix(1 0 0 1 3466.9355 1124.7822)"><tspan x="0" y="0" fill="#00A29A" font-family="'AgencyFB-Bold'" font-size="90">80 </tspan><tspan x="102.788" y="0" opacity="0.9" fill="#0075D8" font-family="'AgencyFB-Bold'" font-size="90">/100</tspan></text>
+		</g>
+		<g>
+			<g>
+				<path fill="none" stroke="#F4A017" stroke-miterlimit="10" d="M3299.289,1139.014c-2.75,0-5-2.25-5-5v-90c0-2.75,2.25-5,5-5h90
+					c2.75,0,5,2.25,5,5v90c0,2.75-2.25,5-5,5H3299.289z"/>
+			</g>
+			<g>
+				<text transform="matrix(0.9 0 0 1 3355.0898 1099.4629)" fill="#F39800" font-family="'MicrosoftYaHei-Bold'" font-size="36">甲</text>
+			</g>
+			<g>
+				<path fill="#F4A017" d="M3299.844,1139.014c-2.75,0-5-2.25-5-5v-90c0-2.75,2.25-5,5-5h40c2.75,0,5,2.25,5,5v90
+					c0,2.75-2.25,5-5,5H3299.844z"/>
+			</g>
+			<g>
+				<text transform="matrix(0.9 0 0 1 3303.3516 1079.2598)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'MicrosoftYaHei-Bold'" font-size="36">早</tspan><tspan x="0" y="43.2" fill="#FFFFFF" font-family="'MicrosoftYaHei-Bold'" font-size="36">班</tspan></text>
+			</g>
+		</g>
+	</g>
+	
+		<rect x="3215.695" y="867.612" fill="#D9F0FF" stroke="#004E93" stroke-width="0.25" stroke-miterlimit="10" width="580" height="95"/>
+	<g>
+		<text transform="matrix(1 0 0 1 3305.4785 933.3857)" fill="#004E93" font-family="'MicrosoftYaHei-Bold'" font-size="42">绩效</text>
+	</g>
+	<rect x="3243.994" y="902.454" fill="#004E93" width="36" height="36"/>
+	
+		<line fill="none" stroke="#D0D2D3" stroke-width="2" stroke-miterlimit="10" x1="3280.439" y1="1204.283" x2="3758.764" y2="1204.283"/>
+</g>
+<g id="tingji">
+	
+		<rect x="2173.23" y="1471.857" fill="none" stroke="#004E93" stroke-width="0.25" stroke-miterlimit="10" width="1020" height="630"/>
+	<g id="guzhangshijian_1_">
+		<path fill="#FFC9CB" stroke="#A40B5D" stroke-width="0.25" stroke-miterlimit="10" d="M3129.994,1982.791
+			c0,13.811-11.631,25-25.979,25h-328.049c-14.348,0-25.973-11.189-25.973-25l0,0c0-13.803,11.625-25,25.973-25h328.049
+			C3118.363,1957.791,3129.994,1968.988,3129.994,1982.791L3129.994,1982.791z"/>
+		<g>
+			<text transform="matrix(1 0 0 1 2831.9941 1993.6367)" fill="#403F41" font-family="'微软雅黑'" font-size="36">故障停机时间</text>
+		</g>
+		<g>
+			<g>
+				<text transform="matrix(1 0 0 1 2843.834 1873.8779)" >
+					<tspan fill="#A40B5D" font-family="'AgencyFB-Bold'" font-size="90" id="guzhangtingjishijian">9999</tspan>
+					<tspan fill="#403F41" font-family="'微软雅黑'" font-size="36">min</tspan>
+				</text>
+			</g>
+			<g>
+				<text transform="matrix(1 0 0 1 2737.584 1868.1787)" fill="#403F41" font-family="'微软雅黑'" font-size="36">本月</text>
+			</g>
+		</g>
+		<g>
+			<g>
+				<text transform="matrix(1 0 0 1 2857.3809 1710.0811)">
+					<tspan fill="#A40B5D" font-family="'AgencyFB-Bold'" font-size="90" id="guzhangtingjicishu">999</tspan>
+					<tspan fill="#403F41" font-family="'微软雅黑'" font-size="36">次</tspan>
+				</text>
+			</g>
+			<g>
+				<text transform="matrix(1 0 0 1 2737.584 1703.4814)" fill="#403F41" font-family="'微软雅黑'" font-size="36">本月</text>
+			</g>
+		</g>
+	</g>
+	
+		<line fill="none" stroke="#D0D2D3" stroke-width="2" stroke-miterlimit="10" x1="2671.651" y1="1646.764" x2="2671.651" y2="2030.764"/>
+	<g id="tingjishijian_1_" class="hover">
+		<path fill="#FFC9CB" stroke="#A40B5D" stroke-width="0.25" stroke-miterlimit="10" d="M2613.229,1982.791
+			c0,13.811-11.633,25-25.98,25h-328.045c-14.348,0-25.975-11.189-25.975-25l0,0c0-13.803,11.627-25,25.975-25h328.045
+			C2601.597,1957.791,2613.229,1968.988,2613.229,1982.791L2613.229,1982.791z"/>
+		<g>
+			<text transform="matrix(1 0 0 1 2315.2295 1993.6367)" fill="#403F41" font-family="'微软雅黑'" font-size="36">降速次数/时间</text>
+		</g>
+
+		<g>
+			<text transform="matrix(1 0 0 1 2298.0986 1925.2021)">
+				<tspan fill="#A40B5D" font-family="'AgencyFB-Bold'" font-size="90" id="jiangsucishu">10</tspan>
+				<tspan fill="#403F41" font-family="'微软雅黑'" font-size="36">次</tspan>
+				<tspan fill="#A40B5D" font-family="'AgencyFB-Bold'" font-size="90" id="jiangsushijian">10</tspan>
+				<tspan fill="#403F41" font-family="'微软雅黑'" font-size="36">min</tspan>
+			</text>
+		</g>
+	</g>
+	<g id="tingjicishu_1_" class="hover">
+		<path fill="#FFC9CB" stroke="#A40B5D" stroke-width="0.25" stroke-miterlimit="10" d="M2613.229,1753.119
+			c0,13.807-11.633,25-25.98,25h-328.045c-14.348,0-25.975-11.193-25.975-25l0,0c0-13.807,11.627-25,25.975-25h328.045
+			C2601.597,1728.119,2613.229,1739.313,2613.229,1753.119L2613.229,1753.119z"/>
+		<g>
+			<text transform="matrix(1 0 0 1 2315.2295 1763.9639)" fill="#403F41" font-family="'微软雅黑'" font-size="36">停机次数/时间</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 2300.8369 1697.6377)" >
+				<tspan fill="#A40B5D" font-family="'AgencyFB-Bold'" font-size="90" id="zhengtitingjicishu" >99</tspan>
+				<tspan fill="#403F41" font-family="'微软雅黑'" font-size="36">次</tspan>
+				<tspan fill="#A40B5D" font-family="'AgencyFB-Bold'" font-size="90" id="zhengtitingjishijian" >99</tspan>
+				<tspan fill="#403F41" font-family="'微软雅黑'" font-size="36">min</tspan>
+			</text>
+		</g>
+	</g>
+	
+		<rect x="2173.23" y="1471.857" fill="#D9F0FF" stroke="#004E93" stroke-width="0.25" stroke-miterlimit="10" width="1020" height="96"/>
+	<g>
+		<text transform="matrix(1.0532 0 0 1 3059.4863 1532.5205)" fill="#0075D8" font-family="'微软雅黑'" font-size="36" class="hover mingxi">明细</text>
+		<path fill="none" stroke="#0075D8" stroke-miterlimit="10" d="M3172.383,1541.631c0,1.782-1.268,3.227-2.832,3.227h-144.338
+			c-1.563,0-2.83-1.444-2.83-3.227v-43.547c0-1.782,1.268-3.227,2.83-3.227h144.338c1.564,0,2.832,1.444,2.832,3.227V1541.631z"/>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 2259.7764 1536.292)" fill="#004E93" font-family="'MicrosoftYaHei-Bold'" font-size="42">设备停机</text>
+	</g>
+	<rect x="2204.294" y="1501.436" fill="#004E93" width="36" height="36"/>
+</g>
+<g id="anniu">
+	<g id="jizuyuebao_1_">
+		<rect x="3216.621" y="1911.158" fill="#00C5AA" width="580" height="190"/>
+		<g>
+			<text transform="matrix(1 0 0 1 3420.2227 2067.0791)" fill="#FFFFFF" font-family="'MicrosoftYaHei-Bold'" font-size="42">机组月报</text>
+		</g>
+		<path fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" d="M3444.521,1942.939h101.707
+			c-0.688,1.934-1.361,3.863-2.023,5.797h-96.998v56.191h112.088v-23.727c1.111-2.656,2.189-5.34,3.225-8.023l0.043,0.023
+			l1.586-4.313l0.189-0.535c0.115,0.02,0.232,0.055,0.348,0.07v39.402v2.891h-2.691h-117.473h-2.701v-2.891v-61.992v-2.895H3444.521
+			L3444.521,1942.939z M3455.438,1978.439v4.285h54.184v-4.285H3455.438L3455.438,1978.439z M3455.438,1966.256v4.289h73.504v-4.289
+			H3455.438L3455.438,1966.256z M3455.438,1954.084v4.281h73.504v-4.281H3455.438L3455.438,1954.084z M3567.521,1939.799
+			c0.473-1.742,0.793-3.375,0.975-4.84l3.375,1.309c-2.424,5.145-9.537,20.488-8.965,22.379c0.846,2.762,3.182,2.723,3.182,2.723
+			l0.639-3.422c0,0-0.738,0.094-0.871-0.332c-0.264-0.898,9.541-21.477,9.564-21.531l0.801-1.672l-1.641-0.652l-5.906-2.281
+			c-0.283-9.965-8.498-10.195-13.963,3.527c-3.24,8.117-6.023,16.215-8.461,24.297l13.377,5.176
+			C3562.563,1956.482,3565.201,1948.26,3567.521,1939.799L3567.521,1939.799z M3540.93,1981.025l-2.975,3.879l1.531,10.297
+			l1.35,0.516l2.092-6.246c-0.674-0.555-0.957-1.547-0.652-2.449c0.381-1.145,1.551-1.73,2.604-1.316
+			c1.057,0.41,1.596,1.66,1.221,2.797c-0.305,0.895-1.104,1.465-1.955,1.449l-2.09,6.254l1.432,0.543l6.998-6.445l0.283-5.461
+			L3540.93,1981.025L3540.93,1981.025z M3558.93,1966.377l-13.254-5.121c-1.771,5.988-3.346,11.984-4.783,17.953
+			c3.682,1.43,7.361,2.855,11.057,4.289C3554.424,1977.904,3556.754,1972.201,3558.93,1966.377L3558.93,1966.377z
+			 M3500.242,1996.619l2.137,3.078c0.023-0.016,8.672-9.629,8.604-8.254c-0.025,0.48-0.873,1.457-1.613,2.266
+			c-0.932,1.063-1.742,1.973-1.789,3.184c-0.045,1.605,0.818,2.57,3.223,2.668c2.063,0.063,4.053-0.625,5.867-1.266
+			c1.359-0.465,2.578-0.898,3.178-0.852c0.232,0.77,0.832,1.199,1.738,1.344c0.865,0.156,1.84-0.238,2.9-0.66l0.529-0.215
+			l-0.066,0.313h-0.01c-0.416,1.898-0.699,3.168-0.334,4.223c0.563,1.59,1.604,2.016,3.459,1.262
+			c1.453-0.574,5.164-0.055,5.18-0.055l0.418-3.832c0,0-2.984-0.438-5.365-0.086c0.047-0.176,0.086-0.387,0.143-0.609h-0.01
+			c0.115-0.512,0.236-1.07,0.361-1.66c0.465-2.277-0.34-3.348-1.844-3.691c-1.146-0.289-2.48,0.25-3.711,0.75
+			c-0.223,0.078-0.424,0.176-0.588,0.246c-1.848-1.969-4.289-1.117-7.098-0.141c-0.918,0.328-1.893,0.676-2.83,0.867
+			c0.916-1.09,1.762-2.355,1.842-3.855C3514.912,1984.646,3500.283,1996.596,3500.242,1996.619z"/>
+	</g>
+	<g id="meirixinxi_1_" class="hover">
+		<rect x="3216.621" y="1689.508" fill="#20B73A" width="580" height="190"/>
+		<g>
+			<text transform="matrix(1 0 0 1 3420.2227 1854.1357)" fill="#FFFFFF" font-family="'MicrosoftYaHei-Bold'" font-size="42">每日信息</text>
+		</g>
+		<g>
+			<path fill="#FFFFFF" d="M3438.496,1713.148v72.105h5.885l13.922,14.078l13.922-14.078h100.648v-72.105H3438.496z
+				 M3568.68,1781.012h-98.197l-1.229,1.238l-10.951,11.082l-12.186-12.32h-3.424v-63.629h125.986V1781.012z"/>
+			<rect x="3456.109" y="1732.133" fill="#FFFFFF" width="99.146" height="4.246"/>
+			<rect x="3456.109" y="1746.766" fill="#FFFFFF" width="99.146" height="4.246"/>
+			<rect x="3456.109" y="1761.391" fill="#FFFFFF" width="76.348" height="4.242"/>
+			<path d="M3532.457,1761.391"/>
+			<rect x="3438.514" y="1713.059" fill="none" width="134.383" height="86.398"/>
+		</g>
+	</g>
+	<g id="banzurenshu_1_">
+		<rect x="3216.621" y="1471.857" fill="#0087F2" width="580" height="190"/>
+		<g>
+			<text transform="matrix(1 0 0 1 3377.0234 1629.9072)" fill="#FFFFFF" font-family="'MicrosoftYaHei-Bold'" font-size="42">当前班组人数</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 3374.2891 1567.8545)"><tspan x="0" y="0" fill="#FFFF00" font-family="'AgencyFB-Bold'" font-size="90">6</tspan><tspan x="83.716" y="0" fill="#FFFFFF" font-family="'AgencyFB-Bold'" font-size="90"> / 6</tspan></text>
+		</g>
+	</g>
+</g>
+	<text id="changeText" style="visibility: hidden">aaaa</text>
+</svg>

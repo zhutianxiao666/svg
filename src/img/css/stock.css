@@ -1,0 +1,20 @@
+.cols{
+    border: 1px solid transparent;
+    float: left;
+    overflow: hidden;
+    box-sizing: border-box;
+}
+.row::after,.row::before{
+    content: '';
+    display: block;
+    clear: both;
+}
+.exsiting{
+    border-color: #cccccc;
+}
+.results{
+    opacity: 1;
+}
+.notResults{
+    opacity: 0.2;
+}

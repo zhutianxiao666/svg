@@ -1,0 +1,1518 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="3840px"
+	 height="2160px" viewBox="0 0 3840 2160" enable-background="new 0 0 3840 2160" xml:space="preserve">
+<g id="shengchan">
+	<rect x="32.966" y="39.446" fill="none" stroke="#004E93" stroke-width="0.25" stroke-miterlimit="10" width="1616" height="804"/>
+	
+		<rect x="32.996" y="38.945" fill="#D9F0FF" stroke="#004E93" stroke-width="0.25" stroke-miterlimit="10" width="1615.94" height="95"/>
+	<g>
+		<text transform="matrix(1 0 0 1 126.9883 102.8389)" fill="#004E93" font-family="'MicrosoftYaHei-Bold'" font-size="42">生产</text>
+	</g>
+	<rect x="69.001" y="71.908" fill="#004E93" width="36" height="36"/>
+	<rect x="1144.797" y="79.688" fill="#F4A017" width="19.199" height="19.199"/>
+	<g>
+		<text transform="matrix(1 0 0 1 1181.6821 96.4893)" fill="#595757" font-family="'MicrosoftYaHei'" font-size="24">甲</text>
+	</g>
+	<rect x="1276.221" y="79.688" fill="#0075D8" width="19.199" height="19.199"/>
+	<g>
+		<text transform="matrix(1 0 0 1 1313.106 96.4893)" fill="#595757" font-family="'MicrosoftYaHei'" font-size="24">乙</text>
+	</g>
+	<g>
+		
+			<rect x="70.001" y="164.729" fill="none" stroke="#004E93" stroke-width="0.25" stroke-miterlimit="10" width="810.643" height="650.923"/>
+		<g id="wanban">
+			<g>
+				<g>
+					<text transform="matrix(1 0 0 1 699.3892 762.9429)" fill="#231815" font-family="'AgencyFB-Reg'" font-size="48">9999.99</text>
+				</g>
+				<rect x="371.987" y="729.024" fill="#0075D8" width="298.36" height="36"/>
+				<g>
+					<text transform="matrix(1 0 0 1 273.3979 762.9146)" fill="#403F41" font-family="'MicrosoftYaHei'" font-size="36">本月</text>
+				</g>
+				<g>
+					<text transform="matrix(1 0 0 1 575.7915 702.0464)" fill="#231815" font-family="'AgencyFB-Reg'" font-size="48">999.99</text>
+				</g>
+				<rect x="371.987" y="669.614" fill="#0075D8" width="173.243" height="36"/>
+				<g>
+					<text transform="matrix(1 0 0 1 273.3979 702.0415)" fill="#403F41" font-family="'MicrosoftYaHei'" font-size="36">当日</text>
+				</g>
+			</g>
+			<g>
+				<g>
+					<path fill="#0075D8" d="M118.789,769.319c-2.75,0-5-2.25-5-5v-90c0-2.75,2.25-5,5-5h51.992c2.75,0,5,2.25,5,5v90
+						c0,2.75-2.25,5-5,5H118.789z"/>
+				</g>
+				<g>
+					<path fill="none" stroke="#0075D8" stroke-miterlimit="10" d="M118.789,769.319c-2.75,0-5-2.25-5-5v-90c0-2.75,2.25-5,5-5
+						h113.984c2.75,0,5,2.25,5,5v90c0,2.75-2.25,5-5,5H118.789z"/>
+				</g>
+				<g>
+					<text transform="matrix(1 0 0 1 125.5303 710.0112)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'MicrosoftYaHei-Bold'" font-size="33.6">晚</tspan><tspan x="0" y="40.32" fill="#FFFFFF" font-family="'MicrosoftYaHei-Bold'" font-size="33.6">班</tspan></text>
+				</g>
+				<g>
+					<text transform="matrix(1 0 0 1 187.5327 730.0137)" fill="#0075D8" font-family="'MicrosoftYaHei-Bold'" font-size="33.6">乙</text>
+				</g>
+			</g>
+		</g>
+		<g id="zaoban">
+			<g>
+				<g>
+					<text transform="matrix(1 0 0 1 699.3892 590.8364)" fill="#231815" font-family="'AgencyFB-Reg'" font-size="48">9999.99</text>
+				</g>
+				<rect x="371.987" y="556.919" fill="#F4A017" width="299.264" height="36"/>
+				<g>
+					<text transform="matrix(1 0 0 1 273.3979 586.1675)" fill="#403F41" font-family="'MicrosoftYaHei'" font-size="36">本月</text>
+				</g>
+				<g>
+					<text transform="matrix(1 0 0 1 575.7915 529.9399)" fill="#231815" font-family="'AgencyFB-Reg'" font-size="48">999.99</text>
+				</g>
+				<rect x="371.987" y="497.509" fill="#F4A017" width="173.768" height="36"/>
+				<g>
+					<text transform="matrix(1 0 0 1 273.3979 525.2944)" fill="#403F41" font-family="'MicrosoftYaHei'" font-size="36">当日</text>
+				</g>
+			</g>
+			<g>
+				<g>
+					<path fill="#F4A017" d="M120.726,597.509c-2.75,0-5-2.25-5-5v-90c0-2.75,2.25-5,5-5h51.023c2.75,0,5,2.25,5,5v90
+						c0,2.75-2.25,5-5,5H120.726z"/>
+				</g>
+				<g>
+					<path fill="none" stroke="#F4A017" stroke-miterlimit="10" d="M120.726,597.509c-2.75,0-5-2.25-5-5v-90c0-2.75,2.25-5,5-5
+						h112.047c2.75,0,5,2.25,5,5v90c0,2.75-2.25,5-5,5H120.726z"/>
+				</g>
+				<g>
+					<text transform="matrix(1 0 0 1 129.5327 536.6934)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'MicrosoftYaHei-Bold'" font-size="36">早</tspan><tspan x="0" y="43.2" fill="#FFFFFF" font-family="'MicrosoftYaHei-Bold'" font-size="36">班</tspan></text>
+				</g>
+				<text transform="matrix(1 0 0 1 187.5327 557.9189)" fill="#F4A017" font-family="'MicrosoftYaHei-Bold'" font-size="36">甲</text>
+			</g>
+		</g>
+		<line fill="none" stroke="#D0D2D3" stroke-width="2" stroke-miterlimit="10" x1="86.908" y1="448.56" x2="863.056" y2="448.56"/>
+		
+			<line fill="none" stroke="#D0D2D3" stroke-width="2" stroke-miterlimit="10" x1="86.908" y1="630.101" x2="863.056" y2="630.101"/>
+		<g id="dangyuechanliang">
+			<path fill="#D6F2DD" stroke="#00A29A" stroke-width="0.25" stroke-miterlimit="10" d="M791.238,387.749
+				c0,13.808-11.896,25-26.573,25H537.809c-14.677,0-26.571-11.192-26.571-25l0,0c0-13.808,11.895-25,26.571-25h226.855
+				C779.341,362.749,791.238,373.941,791.238,387.749L791.238,387.749z"/>
+			<g>
+				<text transform="matrix(1 0 0 1 552.7671 399.1304)" fill="#403F41" font-family="'MicrosoftYaHei'" font-size="36">当月总产量</text>
+			</g>
+			<g>
+				<text transform="matrix(1 0 0 1 529.2271 338.1909)" fill="#00A29A" font-family="'AgencyFB-Bold'" font-size="90">9999.99</text>
+			</g>
+		</g>
+		<g id="zuorichanliang">
+			<path fill="#CAE6F4" stroke="#036EB8" stroke-width="0.25" stroke-miterlimit="10" d="M416.79,387.749
+				c0,13.808-11.896,25-26.573,25H163.361c-14.677,0-26.571-11.192-26.571-25l0,0c0-13.808,11.895-25,26.571-25h226.855
+				C404.893,362.749,416.79,373.941,416.79,387.749L416.79,387.749z"/>
+			<g>
+				<text transform="matrix(1 0 0 1 186.7905 399.1304)" fill="#403F41" font-family="'MicrosoftYaHei'" font-size="36">当日总产量</text>
+			</g>
+			<g>
+				<text transform="matrix(1 0 0 1 173.8979 338.1909)" fill="#036EB8" font-family="'AgencyFB-Bold'" font-size="90">999.99</text>
+			</g>
+		</g>
+		
+			<rect x="70.001" y="164.729" fill="#D9F0FF" stroke="#004E93" stroke-width="0.25" stroke-miterlimit="10" width="810.643" height="70"/>
+		<text transform="matrix(1 0 0 1 474.9819 209.1274)" fill="#595757" font-family="'MicrosoftYaHei'" font-size="24">单位：吨</text>
+		<g>
+			<text transform="matrix(1 0 0 1 109.6484 209.1284)" fill="#004E93" font-family="'MicrosoftYaHei'" font-size="36">产量</text>
+		</g>
+		<rect x="627.096" y="191.63" fill="#F4A017" width="19.199" height="19.199"/>
+		<g>
+			<text transform="matrix(1 0 0 1 663.981 208.4307)" fill="#595757" font-family="'MicrosoftYaHei'" font-size="24">早班</text>
+		</g>
+		<rect x="758.52" y="191.63" fill="#0075D8" width="19.199" height="19.199"/>
+		<g>
+			<text transform="matrix(1 0 0 1 795.4048 208.4307)" fill="#595757" font-family="'MicrosoftYaHei'" font-size="24">晚班</text>
+		</g>
+	</g>
+	<rect x="1403.696" y="79.688" opacity="0.9" fill="#36C2E5" width="19.199" height="19.199"/>
+	<g>
+		<text transform="matrix(1 0 0 1 1440.5806 96.4893)" fill="#595757" font-family="'MicrosoftYaHei'" font-size="24">丙</text>
+	</g>
+	<rect x="1525.113" y="79.688" fill="#EFD95B" width="19.199" height="19.199"/>
+	<g>
+		<text transform="matrix(1 0 0 1 1561.998 96.4893)" fill="#595757" font-family="'MicrosoftYaHei'" font-size="24">丁</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 371.4434 -786.6777)" fill="#403F41" font-family="'MicrosoftYaHei'" font-size="36">0.2及以下薄料比</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 312.8643 -463.5903)" fill="#403F41" font-family="'MicrosoftYaHei'" font-size="36">总体薄料比(0.23及以下)</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 874.1528 -786.6777)" fill="#403F41" font-family="'MicrosoftYaHei'" font-size="36">A3出钢记号</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 856.1528 -464.3994)" fill="#403F41" font-family="'MicrosoftYaHei'" font-size="36">A3出钢记号比</text>
+	</g>
+	
+		<line fill="none" stroke="#D0D2D3" stroke-width="2" stroke-miterlimit="10" x1="760.311" y1="-791.357" x2="760.311" y2="-219.196"/>
+	<g>
+		<path fill="#004DB5" d="M435.416-647.222c0-12.673,3.413-24.563,9.365-34.802l-40.686-24.972
+			c-10.657,17.9-16.348,38.399-16.348,59.773c0,31.289,12.185,60.707,34.311,82.833c8.349,8.349,17.738,15.281,27.873,20.677
+			l22.757-41.964C450.55-597.305,435.416-620.526,435.416-647.222z"/>
+		<path fill="#EFD95B" d="M404.094-706.996l40.686,24.972c8.292-14.268,21.515-25.322,37.319-30.827l-15.243-45.222
+			c-16.68,5.708-31.967,15.188-44.798,28.02C415.045-723.041,409.035-715.297,404.094-706.996z"/>
+		<path opacity="0.9" fill="#F59122" d="M504.887-716.695c37.898,0,68.802,30.506,69.455,68.25l47.628-2.285
+			c-0.875-29.972-12.956-58.026-34.253-79.323c-22.124-22.125-51.542-34.308-82.831-34.308c-13.141,0-25.95,2.157-38.031,6.289
+			l15.243,45.222C489.241-715.337,496.907-716.695,504.887-716.695z"/>
+		<path opacity="0.9" fill="#36C2E5" d="M574.359-647.222c0,38.307-31.167,69.473-69.472,69.473c-11.614,0-22.567-2.868-32.2-7.927
+			l-22.757,41.964c16.724,8.904,35.477,13.631,54.957,13.631c31.292,0,60.707-12.186,82.831-34.308
+			c22.125-22.126,34.311-51.544,34.311-82.833c0-1.172-0.024-2.34-0.058-3.508l-47.628,2.285
+			C574.351-648.037,574.359-647.631,574.359-647.222z"/>
+	</g>
+	<g>
+		<path fill="#004DB5" d="M435.416-317.481c0-12.673,3.413-24.563,9.365-34.802l-40.686-24.972
+			c-10.657,17.9-16.348,38.399-16.348,59.773c0,31.289,12.185,60.707,34.311,82.833c8.349,8.349,17.738,15.281,27.873,20.677
+			l22.757-41.964C450.55-267.564,435.416-290.785,435.416-317.481z"/>
+		<path fill="#EFD95B" d="M404.094-377.255l40.686,24.972c8.292-14.268,21.515-25.322,37.319-30.827l-15.243-45.222
+			c-16.68,5.708-31.967,15.188-44.798,28.02C415.045-393.3,409.035-385.556,404.094-377.255z"/>
+		<path opacity="0.9" fill="#F59122" d="M504.887-386.954c37.898,0,68.802,30.506,69.455,68.25l47.628-2.285
+			c-0.875-29.972-12.956-58.026-34.253-79.323c-22.124-22.125-51.542-34.308-82.831-34.308c-13.141,0-25.95,2.157-38.031,6.289
+			l15.243,45.222C489.241-385.597,496.907-386.954,504.887-386.954z"/>
+		<path opacity="0.9" fill="#36C2E5" d="M574.359-317.481c0,38.307-31.167,69.473-69.472,69.473c-11.614,0-22.567-2.868-32.2-7.927
+			l-22.757,41.964c16.724,8.904,35.477,13.631,54.957,13.631c31.292,0,60.707-12.186,82.831-34.308
+			c22.125-22.126,34.311-51.544,34.311-82.833c0-1.172-0.024-2.34-0.058-3.508l-47.628,2.285
+			C574.351-318.296,574.359-317.89,574.359-317.481z"/>
+	</g>
+	<g>
+		<path fill="#004DB5" d="M899.902-647.222c0-12.673,3.413-24.563,9.365-34.802l-40.686-24.972
+			c-10.657,17.9-16.348,38.399-16.348,59.773c0,31.289,12.185,60.707,34.311,82.833c8.349,8.349,17.738,15.281,27.873,20.677
+			l22.757-41.964C915.037-597.305,899.902-620.526,899.902-647.222z"/>
+		<path fill="#EFD95B" d="M868.581-706.996l40.686,24.972c8.292-14.268,21.515-25.322,37.319-30.827l-15.243-45.222
+			c-16.68,5.708-31.967,15.188-44.798,28.02C879.532-723.041,873.521-715.297,868.581-706.996z"/>
+		<path opacity="0.9" fill="#F59122" d="M969.374-716.695c37.898,0,68.803,30.506,69.455,68.25l47.629-2.285
+			c-0.875-29.972-12.956-58.026-34.254-79.323c-22.123-22.125-51.541-34.308-82.83-34.308c-13.141,0-25.949,2.157-38.031,6.289
+			l15.243,45.222C953.727-715.337,961.393-716.695,969.374-716.695z"/>
+		<path opacity="0.9" fill="#36C2E5" d="M1038.846-647.222c0,38.307-31.167,69.473-69.473,69.473c-11.613,0-22.567-2.868-32.2-7.927
+			l-22.757,41.964c16.724,8.904,35.477,13.631,54.957,13.631c31.291,0,60.707-12.186,82.83-34.308
+			c22.126-22.126,34.312-51.544,34.312-82.833c0-1.172-0.024-2.34-0.058-3.508l-47.629,2.285
+			C1038.836-648.037,1038.846-647.631,1038.846-647.222z"/>
+	</g>
+	<g>
+		<path fill="#004DB5" d="M899.902-317.481c0-12.673,3.413-24.563,9.365-34.802l-40.686-24.972
+			c-10.657,17.9-16.348,38.399-16.348,59.773c0,31.289,12.185,60.707,34.311,82.833c8.349,8.349,17.738,15.281,27.873,20.677
+			l22.757-41.964C915.037-267.564,899.902-290.785,899.902-317.481z"/>
+		<path fill="#EFD95B" d="M868.581-377.255l40.686,24.972c8.292-14.268,21.515-25.322,37.319-30.827l-15.243-45.222
+			c-16.68,5.708-31.967,15.188-44.798,28.02C879.532-393.3,873.521-385.556,868.581-377.255z"/>
+		<path opacity="0.9" fill="#F59122" d="M969.374-386.954c37.898,0,68.803,30.506,69.455,68.25l47.629-2.285
+			c-0.875-29.972-12.956-58.026-34.254-79.323c-22.123-22.125-51.541-34.308-82.83-34.308c-13.141,0-25.949,2.157-38.031,6.289
+			l15.243,45.222C953.727-385.597,961.393-386.954,969.374-386.954z"/>
+		<path opacity="0.9" fill="#36C2E5" d="M1038.846-317.481c0,38.307-31.167,69.473-69.473,69.473c-11.613,0-22.567-2.868-32.2-7.927
+			l-22.757,41.964c16.724,8.904,35.477,13.631,54.957,13.631c31.291,0,60.707-12.186,82.83-34.308
+			c22.126-22.126,34.312-51.544,34.312-82.833c0-1.172-0.024-2.34-0.058-3.508l-47.629,2.285
+			C1038.836-318.296,1038.846-317.89,1038.846-317.481z"/>
+	</g>
+	<g>
+		<g id="fanhuijuan">
+			
+				<rect x="903.657" y="164.729" fill="none" stroke="#004E93" stroke-width="0.25" stroke-miterlimit="10" width="352.969" height="301.277"/>
+			
+				<rect x="903.657" y="164.729" fill="#D9F0FF" stroke="#004E93" stroke-width="0.25" stroke-miterlimit="10" width="352.969" height="44.379"/>
+			<g>
+				<text transform="matrix(1.0707 0 0 1 914.1709 194.7393)" fill="#004E93" font-family="'MicrosoftYaHei'" font-size="22.8231">总体薄料（0.23以下）</text>
+			</g>
+		</g>
+		<g id="bingtu">
+			<g>
+				<path fill="#004DB5" d="M1022.915,339.133c0-10.892,2.934-21.11,8.049-29.91l-34.967-21.461
+					c-9.16,15.384-14.05,33.001-14.05,51.371c0,26.891,10.472,52.173,29.487,71.189c7.176,7.176,15.246,13.134,23.955,17.771
+					l19.559-36.066C1035.923,382.033,1022.915,362.077,1022.915,339.133z"/>
+				<path fill="#EFD95B" d="M995.997,287.762l34.967,21.461c7.127-12.262,18.49-21.762,32.073-26.494l-13.101-38.865
+					c-14.334,4.906-27.473,13.054-38.501,24.082C1005.409,273.972,1000.244,280.628,995.997,287.762z"/>
+				<path opacity="0.9" fill="#F59122" d="M1082.622,279.426c32.57,0,59.13,26.218,59.691,58.656l40.933-1.964
+					c-0.751-25.759-11.134-49.87-29.438-68.172c-19.014-19.016-44.296-29.486-71.187-29.486c-11.294,0-22.302,1.854-32.686,5.404
+					l13.101,38.865C1069.174,280.593,1075.763,279.426,1082.622,279.426z"/>
+				<path opacity="0.9" fill="#36C2E5" d="M1142.328,339.133c0,32.923-26.786,59.708-59.706,59.708
+					c-9.981,0-19.396-2.465-27.674-6.813l-19.559,36.066c14.373,7.653,30.49,11.715,47.232,11.715
+					c26.893,0,52.173-10.474,71.187-29.486c19.015-19.016,29.488-44.298,29.488-71.189c0-1.007-0.021-2.011-0.05-3.014
+					l-40.933,1.964C1142.321,338.433,1142.328,338.782,1142.328,339.133z"/>
+			</g>
+			<g>
+				<text transform="matrix(1.0272 0 0 1 1177.6567 276.5435)" fill="#231815" font-family="'AgencyFB-Reg'" font-size="32.585">9999</text>
+			</g>
+			<g>
+				<text transform="matrix(1.0272 0 0 1 963.0146 258.5493)" fill="#231815" font-family="'AgencyFB-Reg'" font-size="32.585">9999</text>
+			</g>
+			<g>
+				<text transform="matrix(1.0272 0 0 1 930.7817 390.7729)" fill="#231815" font-family="'AgencyFB-Reg'" font-size="32.585">9999</text>
+			</g>
+			<g>
+				<text transform="matrix(1.0272 0 0 1 1168.6577 428.0913)" fill="#231815" font-family="'AgencyFB-Reg'" font-size="32.585">9999</text>
+			</g>
+		</g>
+		<g>
+			<text transform="matrix(1.0532 0 0 1 1205.2051 194.5825)" fill="#0075D8" font-family="'MicrosoftYaHei'" font-size="14.9677">明细</text>
+			<path fill="none" stroke="#0075D8" stroke-miterlimit="10" d="M1250.482,197.539c0,0.741-0.527,1.342-1.177,1.342h-60.012
+				c-0.65,0-1.177-0.601-1.177-1.342v-18.105c0-0.742,0.527-1.342,1.177-1.342h60.012c0.649,0,1.177,0.6,1.177,1.342V197.539z"/>
+		</g>
+		<g>
+			<text transform="matrix(1.0272 0 0 1 1084.9663 344.998)" fill="#231815" font-family="'AgencyFB-Reg'" font-size="32.585">9999.99</text>
+		</g>
+	</g>
+	<g>
+		<g id="fanhuijuan_1_">
+			
+				<rect x="1275.107" y="164.729" fill="none" stroke="#004E93" stroke-width="0.25" stroke-miterlimit="10" width="352.969" height="301.277"/>
+			
+				<rect x="1275.107" y="164.729" fill="#D9F0FF" stroke="#004E93" stroke-width="0.25" stroke-miterlimit="10" width="352.969" height="44.379"/>
+			<g>
+				<text transform="matrix(1.0707 0 0 1 1285.6211 194.7393)" fill="#004E93" font-family="'MicrosoftYaHei'" font-size="22.8231">0.2及以下薄料</text>
+			</g>
+		</g>
+		<g id="bingtu_1_">
+			<g>
+				<path fill="#004DB5" d="M1394.365,339.133c0-10.892,2.934-21.11,8.049-29.91l-34.967-21.461
+					c-9.16,15.384-14.05,33.001-14.05,51.371c0,26.891,10.472,52.173,29.487,71.189c7.176,7.176,15.246,13.134,23.955,17.771
+					l19.559-36.066C1407.373,382.033,1394.365,362.077,1394.365,339.133z"/>
+				<path fill="#EFD95B" d="M1367.447,287.762l34.967,21.461c7.127-12.262,18.49-21.762,32.073-26.494l-13.101-38.865
+					c-14.334,4.906-27.473,13.054-38.501,24.082C1376.859,273.972,1371.694,280.628,1367.447,287.762z"/>
+				<path opacity="0.9" fill="#F59122" d="M1454.072,279.426c32.57,0,59.13,26.218,59.691,58.656l40.933-1.964
+					c-0.751-25.759-11.134-49.87-29.438-68.172c-19.014-19.016-44.296-29.486-71.187-29.486c-11.294,0-22.302,1.854-32.686,5.404
+					l13.101,38.865C1440.625,280.593,1447.213,279.426,1454.072,279.426z"/>
+				<path opacity="0.9" fill="#36C2E5" d="M1513.778,339.133c0,32.923-26.786,59.708-59.706,59.708
+					c-9.981,0-19.396-2.465-27.674-6.813l-19.559,36.066c14.373,7.653,30.49,11.715,47.232,11.715
+					c26.893,0,52.173-10.474,71.187-29.486c19.015-19.016,29.488-44.298,29.488-71.189c0-1.007-0.021-2.011-0.05-3.014
+					l-40.933,1.964C1513.771,338.433,1513.778,338.782,1513.778,339.133z"/>
+			</g>
+			<g>
+				<text transform="matrix(1.0272 0 0 1 1549.1069 276.5435)" fill="#231815" font-family="'AgencyFB-Reg'" font-size="32.585">9999</text>
+			</g>
+			<g>
+				<text transform="matrix(1.0272 0 0 1 1334.4648 258.5493)" fill="#231815" font-family="'AgencyFB-Reg'" font-size="32.585">9999</text>
+			</g>
+			<g>
+				<text transform="matrix(1.0272 0 0 1 1302.2319 390.7729)" fill="#231815" font-family="'AgencyFB-Reg'" font-size="32.585">9999</text>
+			</g>
+			<g>
+				<text transform="matrix(1.0272 0 0 1 1540.1079 428.0913)" fill="#231815" font-family="'AgencyFB-Reg'" font-size="32.585">9999</text>
+			</g>
+		</g>
+		<g>
+			<text transform="matrix(1.0532 0 0 1 1576.6553 194.5825)" fill="#0075D8" font-family="'MicrosoftYaHei'" font-size="14.9677">明细</text>
+			<path fill="none" stroke="#0075D8" stroke-miterlimit="10" d="M1621.933,197.539c0,0.741-0.527,1.342-1.177,1.342h-60.012
+				c-0.65,0-1.177-0.601-1.177-1.342v-18.105c0-0.742,0.527-1.342,1.177-1.342h60.012c0.649,0,1.177,0.6,1.177,1.342V197.539z"/>
+		</g>
+		<g>
+			<text transform="matrix(1.0272 0 0 1 1456.4165 344.999)" fill="#231815" font-family="'AgencyFB-Reg'" font-size="32.585">9999.99</text>
+		</g>
+	</g>
+	<g>
+		<g id="fanhuijuan_3_">
+			
+				<rect x="903.657" y="514.375" fill="none" stroke="#004E93" stroke-width="0.25" stroke-miterlimit="10" width="352.969" height="301.277"/>
+			
+				<rect x="903.657" y="514.375" fill="#D9F0FF" stroke="#004E93" stroke-width="0.25" stroke-miterlimit="10" width="352.969" height="44.379"/>
+			<g>
+				<text transform="matrix(1.0707 0 0 1 914.1709 544.3848)" fill="#004E93" font-family="'MicrosoftYaHei'" font-size="22.8231">总体薄料（0.23以下）</text>
+			</g>
+		</g>
+		<g id="bingtu_3_">
+			<g>
+				<path fill="#004DB5" d="M1022.915,688.779c0-10.892,2.934-21.11,8.049-29.91l-34.967-21.461
+					c-9.16,15.384-14.05,33.001-14.05,51.371c0,26.891,10.472,52.173,29.487,71.189c7.176,7.176,15.246,13.134,23.955,17.771
+					l19.559-36.066C1035.923,731.679,1022.915,711.723,1022.915,688.779z"/>
+				<path fill="#EFD95B" d="M995.997,637.408l34.967,21.461c7.127-12.262,18.49-21.762,32.073-26.494l-13.101-38.865
+					c-14.334,4.906-27.473,13.054-38.501,24.082C1005.409,623.618,1000.244,630.274,995.997,637.408z"/>
+				<path opacity="0.9" fill="#F59122" d="M1082.622,629.072c32.57,0,59.13,26.218,59.691,58.656l40.933-1.964
+					c-0.751-25.759-11.134-49.87-29.438-68.172c-19.014-19.016-44.296-29.486-71.187-29.486c-11.294,0-22.302,1.854-32.686,5.404
+					l13.101,38.865C1069.174,630.239,1075.763,629.072,1082.622,629.072z"/>
+				<path opacity="0.9" fill="#36C2E5" d="M1142.328,688.779c0,32.923-26.786,59.708-59.706,59.708
+					c-9.981,0-19.396-2.465-27.674-6.813l-19.559,36.066c14.373,7.653,30.49,11.715,47.232,11.715
+					c26.893,0,52.173-10.474,71.187-29.486c19.015-19.016,29.488-44.298,29.488-71.189c0-1.007-0.021-2.011-0.05-3.014
+					l-40.933,1.964C1142.321,688.079,1142.328,688.428,1142.328,688.779z"/>
+			</g>
+			<g>
+				<text transform="matrix(1.0272 0 0 1 1177.6567 626.1895)" fill="#231815" font-family="'AgencyFB-Reg'" font-size="32.585">9999</text>
+			</g>
+			<g>
+				<text transform="matrix(1.0272 0 0 1 963.0146 608.1953)" fill="#231815" font-family="'AgencyFB-Reg'" font-size="32.585">9999</text>
+			</g>
+			<g>
+				<text transform="matrix(1.0272 0 0 1 930.7817 740.4189)" fill="#231815" font-family="'AgencyFB-Reg'" font-size="32.585">9999</text>
+			</g>
+			<g>
+				<text transform="matrix(1.0272 0 0 1 1168.6577 777.7373)" fill="#231815" font-family="'AgencyFB-Reg'" font-size="32.585">9999</text>
+			</g>
+		</g>
+		<g>
+			<text transform="matrix(1.0532 0 0 1 1205.2051 544.2285)" fill="#0075D8" font-family="'MicrosoftYaHei'" font-size="14.9677">明细</text>
+			<path fill="none" stroke="#0075D8" stroke-miterlimit="10" d="M1250.482,547.185c0,0.741-0.527,1.342-1.177,1.342h-60.012
+				c-0.65,0-1.177-0.601-1.177-1.342V529.08c0-0.742,0.527-1.342,1.177-1.342h60.012c0.649,0,1.177,0.6,1.177,1.342V547.185z"/>
+		</g>
+		<g>
+			<text transform="matrix(1.0272 0 0 1 1084.9663 696.1445)" fill="#231815" font-family="'AgencyFB-Reg'" font-size="32.585">9999.99</text>
+		</g>
+	</g>
+	<g>
+		<g id="fanhuijuan_2_">
+			
+				<rect x="1275.107" y="514.375" fill="none" stroke="#004E93" stroke-width="0.25" stroke-miterlimit="10" width="352.969" height="301.277"/>
+			
+				<rect x="1275.107" y="514.375" fill="#D9F0FF" stroke="#004E93" stroke-width="0.25" stroke-miterlimit="10" width="352.969" height="44.379"/>
+			<g>
+				<text transform="matrix(1.0707 0 0 1 1285.6211 544.3848)" fill="#004E93" font-family="'MicrosoftYaHei'" font-size="22.8231">0.2及以下薄料</text>
+			</g>
+		</g>
+		<g id="bingtu_2_">
+			<g>
+				<path fill="#004DB5" d="M1394.365,688.779c0-10.892,2.934-21.11,8.049-29.91l-34.967-21.461
+					c-9.16,15.384-14.05,33.001-14.05,51.371c0,26.891,10.472,52.173,29.487,71.189c7.176,7.176,15.246,13.134,23.955,17.771
+					l19.559-36.066C1407.373,731.679,1394.365,711.723,1394.365,688.779z"/>
+				<path fill="#EFD95B" d="M1367.447,637.408l34.967,21.461c7.127-12.262,18.49-21.762,32.073-26.494l-13.101-38.865
+					c-14.334,4.906-27.473,13.054-38.501,24.082C1376.859,623.618,1371.694,630.274,1367.447,637.408z"/>
+				<path opacity="0.9" fill="#F59122" d="M1454.072,629.072c32.57,0,59.13,26.218,59.691,58.656l40.933-1.964
+					c-0.751-25.759-11.134-49.87-29.438-68.172c-19.014-19.016-44.296-29.486-71.187-29.486c-11.294,0-22.302,1.854-32.686,5.404
+					l13.101,38.865C1440.625,630.239,1447.213,629.072,1454.072,629.072z"/>
+				<path opacity="0.9" fill="#36C2E5" d="M1513.778,688.779c0,32.923-26.786,59.708-59.706,59.708
+					c-9.981,0-19.396-2.465-27.674-6.813l-19.559,36.066c14.373,7.653,30.49,11.715,47.232,11.715
+					c26.893,0,52.173-10.474,71.187-29.486c19.015-19.016,29.488-44.298,29.488-71.189c0-1.007-0.021-2.011-0.05-3.014
+					l-40.933,1.964C1513.771,688.079,1513.778,688.428,1513.778,688.779z"/>
+			</g>
+			<g>
+				<text transform="matrix(1.0272 0 0 1 1549.1069 626.1895)" fill="#231815" font-family="'AgencyFB-Reg'" font-size="32.585">9999</text>
+			</g>
+			<g>
+				<text transform="matrix(1.0272 0 0 1 1334.4648 608.1953)" fill="#231815" font-family="'AgencyFB-Reg'" font-size="32.585">9999</text>
+			</g>
+			<g>
+				<text transform="matrix(1.0272 0 0 1 1302.2319 740.4189)" fill="#231815" font-family="'AgencyFB-Reg'" font-size="32.585">9999</text>
+			</g>
+			<g>
+				<text transform="matrix(1.0272 0 0 1 1540.1079 777.7373)" fill="#231815" font-family="'AgencyFB-Reg'" font-size="32.585">9999</text>
+			</g>
+		</g>
+		<g>
+			<text transform="matrix(1.0532 0 0 1 1576.6553 544.2285)" fill="#0075D8" font-family="'MicrosoftYaHei'" font-size="14.9677">明细</text>
+			<path fill="none" stroke="#0075D8" stroke-miterlimit="10" d="M1621.933,547.185c0,0.741-0.527,1.342-1.177,1.342h-60.012
+				c-0.65,0-1.177-0.601-1.177-1.342V529.08c0-0.742,0.527-1.342,1.177-1.342h60.012c0.649,0,1.177,0.6,1.177,1.342V547.185z"/>
+		</g>
+		<g>
+			<text transform="matrix(1.0272 0 0 1 1456.4165 696.1445)" fill="#231815" font-family="'AgencyFB-Reg'" font-size="32.585">9999.99</text>
+		</g>
+	</g>
+</g>
+<g id="chengcailv">
+	
+		<rect x="1674.103" y="39.445" fill="none" stroke="#004E93" stroke-width="0.25" stroke-miterlimit="10" width="437" height="804"/>
+	<g id="wanbanchengcailv_1_">
+		<g>
+			<text transform="matrix(1 0 0 1 1888.7939 615.5933)"><tspan x="0" y="0" fill="#00A29A" font-family="'AgencyFB-Bold'" font-size="64.2725">85%</tspan><tspan x="0.815" y="64.272" fill="#0075D8" font-family="'AgencyFB-Bold'" font-size="64.2725">70%</tspan></text>
+		</g>
+		<path fill="none" stroke="#0075D8" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+			M1750.85,672.575c0-78.198,63.389-141.587,141.585-141.587c29.324,0,56.564,8.913,79.16,24.182"/>
+		
+			<path opacity="0.9" fill="none" stroke="#C9CACA" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+			M1719.014,674.09c0-95.777,77.642-173.418,173.421-173.418c95.778,0,173.423,77.642,173.423,173.418"/>
+		<path fill="none" stroke="#33B5AE" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+			M1719.014,674.09c0-95.777,77.642-173.418,173.421-173.418c53.876,0,102.016,24.566,133.823,63.109"/>
+		<g>
+			<g>
+				<path fill="#331E90" d="M1821.257,748.905c-2.75,0-5-2.25-5-5v-40.583c0-2.75,2.25-5,5-5h72.192c2.75,0,5,2.25,5,5v40.583
+					c0,2.75-2.25,5-5,5H1821.257z"/>
+			</g>
+			<g>
+				<path fill="none" stroke="#331E90" stroke-miterlimit="10" d="M1821.258,748.905c-2.75,0-5-2.25-5-5v-40.583c0-2.75,2.25-5,5-5
+					h123.487c2.75,0,5,2.25,5,5v40.583c0,2.75-2.25,5-5,5H1821.258z"/>
+			</g>
+			<g>
+				<text transform="matrix(1 0 0 1 1824.5459 734.1851)" fill="#FFFFFF" font-family="'MicrosoftYaHei-Bold'" font-size="32.1362">晚班</text>
+			</g>
+			<g>
+				<text transform="matrix(1 0 0 1 1908.3447 734.1851)" fill="#331E90" font-family="'MicrosoftYaHei-Bold'" font-size="32.1362">乙</text>
+			</g>
+		</g>
+	</g>
+	<g id="zaobanchengcailv_2_">
+		<g>
+			<text transform="matrix(1 0 0 1 1888.7939 303.7954)"><tspan x="0" y="0" fill="#00A29A" font-family="'AgencyFB-Bold'" font-size="64.2725">85%</tspan><tspan x="0.815" y="64.272" fill="#0075D8" font-family="'AgencyFB-Bold'" font-size="64.2725">70%</tspan></text>
+		</g>
+		<path fill="none" stroke="#0075D8" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+			M1750.85,360.779c0-78.199,63.389-141.588,141.585-141.588c29.324,0,56.564,8.913,79.16,24.182"/>
+		
+			<path opacity="0.9" fill="none" stroke="#C9CACA" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+			M1719.014,362.293c0-95.777,77.642-173.418,173.421-173.418c95.778,0,173.423,77.642,173.423,173.418"/>
+		<path fill="none" stroke="#33B5AE" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+			M1719.014,362.293c0-95.777,77.642-173.418,173.421-173.418c53.876,0,102.016,24.567,133.823,63.109"/>
+		<g>
+			<g>
+				<path fill="#F4A017" d="M1821.257,446.357c-2.75,0-5-2.25-5-5v-40.583c0-2.75,2.25-5,5-5h72.192c2.75,0,5,2.25,5,5v40.583
+					c0,2.75-2.25,5-5,5H1821.257z"/>
+			</g>
+			<g>
+				<path fill="none" stroke="#F4A017" stroke-miterlimit="10" d="M1821.257,446.357c-2.75,0-5-2.25-5-5v-40.583c0-2.75,2.25-5,5-5
+					h123.041c2.75,0,5,2.25,5,5v40.583c0,2.75-2.25,5-5,5H1821.257z"/>
+			</g>
+			<g>
+				<text transform="matrix(1 0 0 1 1824.5459 431.6367)" fill="#FFFFFF" font-family="'MicrosoftYaHei-Bold'" font-size="32.1362">早班</text>
+			</g>
+			<text transform="matrix(1 0 0 1 1906.6738 431.6367)" fill="#F4A017" font-family="'MicrosoftYaHei-Bold'" font-size="32.1362">甲</text>
+		</g>
+	</g>
+	
+		<rect x="1674.336" y="39.445" fill="#D9F0FF" stroke="#004E93" stroke-width="0.25" stroke-miterlimit="10" width="436.533" height="95"/>
+	<g>
+		<text transform="matrix(1 0 0 1 1917.2905 96.8682)" fill="#595757" font-family="'MicrosoftYaHei'" font-size="24">日实绩</text>
+	</g>
+	<rect x="1890.993" y="80.067" fill="#0075D8" width="19.199" height="19.2"/>
+	<g>
+		<text transform="matrix(1 0 0 1 2026.8008 96.8682)" fill="#595757" font-family="'MicrosoftYaHei'" font-size="24">月累计</text>
+	</g>
+	<rect x="2000.501" y="80.067" fill="#00A29A" width="19.201" height="19.2"/>
+	<g>
+		<text transform="matrix(1 0 0 1 1749.8335 100.8184)" fill="#004E93" font-family="'MicrosoftYaHei-Bold'" font-size="42">成材率</text>
+	</g>
+	<rect x="1694.35" y="69.888" fill="#004E93" width="36" height="36"/>
+</g>
+<g id="kucun">
+	
+		<rect x="2136.167" y="39.445" fill="none" stroke="#004E93" stroke-width="0.25" stroke-miterlimit="10" width="1653" height="804"/>
+	
+		<rect x="2137.25" y="38.945" fill="#D9F0FF" stroke="#004E93" stroke-width="0.25" stroke-miterlimit="10" width="1650.835" height="95"/>
+	<g>
+		<text transform="matrix(1 0 0 1 3473.9951 96.3682)" fill="#595757" font-family="'MicrosoftYaHei'" font-size="24">总量</text>
+	</g>
+	<rect x="3447.702" y="79.567" fill="#0075D8" width="19.199" height="19.2"/>
+	<g>
+		<text transform="matrix(1 0 0 1 3584.3262 96.3682)" fill="#595757" font-family="'MicrosoftYaHei'" font-size="24">取向</text>
+	</g>
+	<rect x="3558.033" y="79.567" fill="#2EA7E0" width="19.201" height="19.2"/>
+	<g>
+		<text transform="matrix(1 0 0 1 3687.0586 96.3682)" fill="#595757" font-family="'MicrosoftYaHei'" font-size="24">无取向</text>
+	</g>
+	<rect x="3660.766" y="79.567" fill="#9FA0A0" width="19.199" height="19.2"/>
+	<g>
+		<text transform="matrix(1 0 0 1 2233.2295 100.3184)" fill="#004E93" font-family="'MicrosoftYaHei-Bold'" font-size="42">库存</text>
+	</g>
+	<rect x="2177.797" y="69.388" fill="#004E93" width="36" height="36"/>
+	<g id="kucun_1_">
+		<g>
+			<g>
+				<path fill="#036EB8" d="M2320.82,431.681c0,4.598-2.698,8.329-6.026,8.329h-97.579c-3.328,0-6.027-3.73-6.027-8.329V400.17
+					c0-4.599,2.699-8.328,6.027-8.328h97.579c3.328,0,6.026,3.729,6.026,8.328V431.681z"/>
+				<text transform="matrix(0.9484 0 0 1 2239.6719 433.0825)" fill="#FFFFFF" font-family="'AgencyFB-Reg'" font-size="46.2413">Q09</text>
+			</g>
+			<rect x="2211.754" y="167.275" fill="#036EB8" width="30.383" height="207.798"/>
+			<g>
+				<text transform="matrix(1.0919 0 0 1 2202.6045 163.9507)" fill="#3E3A39" font-family="'AgencyFB-Reg'" font-size="25.6857">9999</text>
+			</g>
+			<rect x="2255.003" y="285.663" fill="#2EA7E0" width="30.382" height="89.411"/>
+			<g>
+				<text transform="matrix(1.0919 0 0 1 2252.3691 276.6953)" fill="#3E3A39" font-family="'AgencyFB-Reg'" font-size="25.6857">999</text>
+			</g>
+			<rect x="2299.386" y="202.826" fill="#9FA0A0" width="30.384" height="172.248"/>
+			<g>
+				<text transform="matrix(1.0919 0 0 1 2296.1875 197.8667)" fill="#3E3A39" font-family="'AgencyFB-Reg'" font-size="25.6857">999</text>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path fill="#036EB8" d="M2495.014,430.837c0,4.583-2.699,8.3-6.027,8.3h-97.578c-3.329,0-6.027-3.717-6.027-8.3v-31.402
+					c0-4.583,2.698-8.299,6.027-8.299h97.578c3.328,0,6.027,3.716,6.027,8.299V430.837z"/>
+				<text transform="matrix(0.9516 0 0 1 2413.8643 432.2329)" fill="#FFFFFF" font-family="'AgencyFB-Reg'" font-size="46.0811">Q18</text>
+			</g>
+			<rect x="2385.946" y="234.814" fill="#036EB8" width="30.383" height="139.93"/>
+			<g>
+				<text transform="matrix(1.0957 0 0 1 2377.3643 227.0732)" fill="#3E3A39" font-family="'AgencyFB-Reg'" font-size="25.5967">9999</text>
+			</g>
+			<rect x="2429.196" y="285.591" fill="#2EA7E0" width="30.383" height="89.101"/>
+			<g>
+				<text transform="matrix(1.0957 0 0 1 2426.5596 276.6143)" fill="#3E3A39" font-family="'AgencyFB-Reg'" font-size="25.5967">999</text>
+			</g>
+			<rect x="2473.578" y="203.042" fill="#9FA0A0" width="30.384" height="171.65"/>
+			<g>
+				<text transform="matrix(1.0957 0 0 1 2470.377 198.2612)" fill="#3E3A39" font-family="'AgencyFB-Reg'" font-size="25.5967">999</text>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path fill="#036EB8" d="M2669.77,431.681c0,4.598-2.697,8.329-6.027,8.329h-97.576c-3.33,0-6.029-3.73-6.029-8.329V400.17
+					c0-4.599,2.699-8.328,6.029-8.328h97.576c3.33,0,6.027,3.729,6.027,8.328V431.681z"/>
+				<text transform="matrix(0.9484 0 0 1 2588.6211 433.0825)" fill="#FFFFFF" font-family="'AgencyFB-Reg'" font-size="46.2413">Q21</text>
+			</g>
+			<rect x="2560.703" y="167.275" fill="#036EB8" width="30.383" height="207.798"/>
+			<g>
+				<text transform="matrix(1.0919 0 0 1 2551.5547 163.9507)" fill="#3E3A39" font-family="'AgencyFB-Reg'" font-size="25.6857">9999</text>
+			</g>
+			<rect x="2603.953" y="285.663" fill="#2EA7E0" width="30.381" height="89.411"/>
+			<g>
+				<text transform="matrix(1.0919 0 0 1 2601.3184 276.6953)" fill="#3E3A39" font-family="'AgencyFB-Reg'" font-size="25.6857">999</text>
+			</g>
+			<rect x="2648.336" y="236.761" fill="#9FA0A0" width="30.383" height="138.313"/>
+			<g>
+				<text transform="matrix(1.0919 0 0 1 2645.1367 227.3506)" fill="#3E3A39" font-family="'AgencyFB-Reg'" font-size="25.6857">999</text>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path fill="#036EB8" d="M2844.245,430.837c0,4.583-2.698,8.3-6.027,8.3h-97.577c-3.33,0-6.027-3.717-6.027-8.3v-31.402
+					c0-4.583,2.697-8.299,6.027-8.299h97.577c3.329,0,6.027,3.716,6.027,8.299V430.837z"/>
+				<text transform="matrix(0.9516 0 0 1 2763.0986 432.2329)" fill="#FFFFFF" font-family="'AgencyFB-Reg'" font-size="46.0811">Q22</text>
+			</g>
+			<rect x="2735.179" y="212.641" fill="#036EB8" width="30.382" height="162.104"/>
+			<g>
+				<text transform="matrix(1.0957 0 0 1 2726.0293 206.6182)" fill="#3E3A39" font-family="'AgencyFB-Reg'" font-size="25.5967">9999</text>
+			</g>
+			<rect x="2778.429" y="285.591" fill="#2EA7E0" width="30.382" height="89.101"/>
+			<g>
+				<text transform="matrix(1.0957 0 0 1 2775.7939 276.6143)" fill="#3E3A39" font-family="'AgencyFB-Reg'" font-size="25.5967">999</text>
+			</g>
+			<rect x="2822.811" y="203.042" fill="#9FA0A0" width="30.383" height="171.65"/>
+			<g>
+				<text transform="matrix(1.0957 0 0 1 2819.6123 198.2612)" fill="#3E3A39" font-family="'AgencyFB-Reg'" font-size="25.5967">999</text>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path fill="#036EB8" d="M3018.72,431.681c0,4.598-2.697,8.329-6.027,8.329h-97.576c-3.33,0-6.029-3.73-6.029-8.329V400.17
+					c0-4.599,2.699-8.328,6.029-8.328h97.576c3.33,0,6.027,3.729,6.027,8.328V431.681z"/>
+				<text transform="matrix(0.9484 0 0 1 2937.5723 433.0825)" fill="#FFFFFF" font-family="'AgencyFB-Reg'" font-size="46.2413">Q23</text>
+			</g>
+			<rect x="2909.653" y="167.275" fill="#036EB8" width="30.383" height="207.798"/>
+			<g>
+				<text transform="matrix(1.0919 0 0 1 2900.5039 163.9507)" fill="#3E3A39" font-family="'AgencyFB-Reg'" font-size="25.6857">9999</text>
+			</g>
+			<rect x="2952.903" y="285.663" fill="#2EA7E0" width="30.381" height="89.411"/>
+			<g>
+				<text transform="matrix(1.0919 0 0 1 2950.2695 276.6953)" fill="#3E3A39" font-family="'AgencyFB-Reg'" font-size="25.6857">999</text>
+			</g>
+			<rect x="2997.286" y="202.826" fill="#9FA0A0" width="30.383" height="172.248"/>
+			<g>
+				<text transform="matrix(1.0919 0 0 1 2994.0879 197.8667)" fill="#3E3A39" font-family="'AgencyFB-Reg'" font-size="25.6857">999</text>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path fill="#036EB8" d="M3193.197,430.837c0,4.583-2.699,8.3-6.027,8.3h-97.578c-3.33,0-6.027-3.717-6.027-8.3v-31.402
+					c0-4.583,2.697-8.299,6.027-8.299h97.578c3.328,0,6.027,3.716,6.027,8.299V430.837z"/>
+				<text transform="matrix(0.9516 0 0 1 3112.0488 432.2329)" fill="#FFFFFF" font-family="'AgencyFB-Reg'" font-size="46.0811">Q24</text>
+			</g>
+			<rect x="3084.131" y="167.667" fill="#036EB8" width="30.381" height="207.078"/>
+			<g>
+				<text transform="matrix(1.0957 0 0 1 3074.9785 164.7534)" fill="#3E3A39" font-family="'AgencyFB-Reg'" font-size="25.5967">9999</text>
+			</g>
+			<rect x="3127.379" y="285.591" fill="#2EA7E0" width="30.383" height="89.101"/>
+			<g>
+				<text transform="matrix(1.0957 0 0 1 3124.7441 276.6143)" fill="#3E3A39" font-family="'AgencyFB-Reg'" font-size="25.5967">999</text>
+			</g>
+			<rect x="3171.762" y="203.042" fill="#9FA0A0" width="30.383" height="171.65"/>
+			<g>
+				<text transform="matrix(1.0957 0 0 1 3168.5605 198.2612)" fill="#3E3A39" font-family="'AgencyFB-Reg'" font-size="25.5967">999</text>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path fill="#036EB8" d="M3367.67,431.681c0,4.598-2.699,8.329-6.027,8.329h-97.578c-3.328,0-6.027-3.73-6.027-8.329V400.17
+					c0-4.599,2.699-8.328,6.027-8.328h97.578c3.328,0,6.027,3.729,6.027,8.328V431.681z"/>
+				<text transform="matrix(0.9484 0 0 1 3286.5215 433.0825)" fill="#FFFFFF" font-family="'AgencyFB-Reg'" font-size="46.2413">Q29</text>
+			</g>
+			<rect x="3258.604" y="167.275" fill="#036EB8" width="30.383" height="207.798"/>
+			<g>
+				<text transform="matrix(1.0919 0 0 1 3249.4541 163.9507)" fill="#3E3A39" font-family="'AgencyFB-Reg'" font-size="25.6857">9999</text>
+			</g>
+			<rect x="3301.854" y="285.663" fill="#2EA7E0" width="30.381" height="89.411"/>
+			<g>
+				<text transform="matrix(1.0919 0 0 1 3299.2178 276.6953)" fill="#3E3A39" font-family="'AgencyFB-Reg'" font-size="25.6857">999</text>
+			</g>
+			<rect x="3346.234" y="202.826" fill="#9FA0A0" width="30.385" height="172.248"/>
+			<g>
+				<text transform="matrix(1.0919 0 0 1 3343.0361 197.8667)" fill="#3E3A39" font-family="'AgencyFB-Reg'" font-size="25.6857">999</text>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path fill="#036EB8" d="M3542.146,430.837c0,4.583-2.7,8.3-6.028,8.3h-97.577c-3.33,0-6.027-3.717-6.027-8.3v-31.402
+					c0-4.583,2.697-8.299,6.027-8.299h97.577c3.328,0,6.028,3.716,6.028,8.299V430.837z"/>
+				<text transform="matrix(0.9516 0 0 1 3460.998 432.2329)" fill="#FFFFFF" font-family="'AgencyFB-Reg'" font-size="46.0811">Q30</text>
+			</g>
+			<rect x="3433.079" y="167.667" fill="#036EB8" width="30.382" height="207.078"/>
+			<g>
+				<text transform="matrix(1.0957 0 0 1 3423.9287 164.7534)" fill="#3E3A39" font-family="'AgencyFB-Reg'" font-size="25.5967">9999</text>
+			</g>
+			<rect x="3476.328" y="285.591" fill="#2EA7E0" width="30.383" height="89.101"/>
+			<g>
+				<text transform="matrix(1.0957 0 0 1 3473.6934 276.6143)" fill="#3E3A39" font-family="'AgencyFB-Reg'" font-size="25.5967">999</text>
+			</g>
+			<rect x="3520.711" y="203.042" fill="#9FA0A0" width="30.383" height="171.65"/>
+			<g>
+				<text transform="matrix(1.0957 0 0 1 3517.5117 198.2612)" fill="#3E3A39" font-family="'AgencyFB-Reg'" font-size="25.5967">999</text>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path fill="#036EB8" d="M3716.62,430.837c0,4.583-2.699,8.3-6.028,8.3h-97.577c-3.329,0-6.026-3.717-6.026-8.3v-31.402
+					c0-4.583,2.697-8.299,6.026-8.299h97.577c3.329,0,6.028,3.716,6.028,8.299V430.837z"/>
+				<text transform="matrix(0.9516 0 0 1 3635.4717 432.2329)" fill="#FFFFFF" font-family="'AgencyFB-Reg'" font-size="46.0811">Q15</text>
+			</g>
+			<rect x="3607.553" y="167.667" fill="#036EB8" width="30.383" height="207.078"/>
+			<g>
+				<text transform="matrix(1.0957 0 0 1 3598.4033 164.7534)" fill="#3E3A39" font-family="'AgencyFB-Reg'" font-size="25.5967">9999</text>
+			</g>
+			<rect x="3650.803" y="285.591" fill="#2EA7E0" width="30.382" height="89.101"/>
+			<g>
+				<text transform="matrix(1.0957 0 0 1 3648.167 276.6143)" fill="#3E3A39" font-family="'AgencyFB-Reg'" font-size="25.5967">999</text>
+			</g>
+			<rect x="3695.185" y="203.042" fill="#9FA0A0" width="30.383" height="171.65"/>
+			<g>
+				<text transform="matrix(1.0957 0 0 1 3691.9863 198.2612)" fill="#3E3A39" font-family="'AgencyFB-Reg'" font-size="25.5967">999</text>
+			</g>
+		</g>
+	</g>
+	
+		<rect x="2136.167" y="466.006" fill="#D9F0FF" stroke="#004E93" stroke-width="0.25" stroke-miterlimit="10" width="1653" height="48.369"/>
+	<g>
+		<text transform="matrix(1 0 0 1 2176.8613 498.6704)" fill="#004E93" font-family="'MicrosoftYaHei'" font-size="22.8231">库区露点趋势</text>
+	</g>
+	<g id="kuquludianqush">
+		<g>
+			
+				<rect x="2208.092" y="563.66" fill="none" stroke="#DCDDDD" stroke-width="2" stroke-miterlimit="10" width="1528.481" height="219.939"/>
+			
+				<line fill="none" stroke="#DCDDDD" stroke-width="2" stroke-miterlimit="10" x1="2208.092" y1="763.624" x2="3736.573" y2="763.624"/>
+			
+				<line fill="none" stroke="#DCDDDD" stroke-width="2" stroke-miterlimit="10" x1="2208.092" y1="743.595" x2="3736.573" y2="743.595"/>
+			
+				<line fill="none" stroke="#DCDDDD" stroke-width="2" stroke-miterlimit="10" x1="2208.092" y1="723.621" x2="3736.573" y2="723.621"/>
+			
+				<line fill="none" stroke="#DCDDDD" stroke-width="2" stroke-miterlimit="10" x1="2208.092" y1="703.645" x2="3736.573" y2="703.645"/>
+			
+				<line fill="none" stroke="#DCDDDD" stroke-width="2" stroke-miterlimit="10" x1="2208.092" y1="683.617" x2="3736.573" y2="683.617"/>
+			
+				<line fill="none" stroke="#DCDDDD" stroke-width="2" stroke-miterlimit="10" x1="2208.092" y1="663.642" x2="3736.573" y2="663.642"/>
+			
+				<line fill="none" stroke="#DCDDDD" stroke-width="2" stroke-miterlimit="10" x1="2208.092" y1="643.613" x2="3736.573" y2="643.613"/>
+			
+				<line fill="none" stroke="#DCDDDD" stroke-width="2" stroke-miterlimit="10" x1="2208.092" y1="623.638" x2="3736.573" y2="623.638"/>
+			
+				<line fill="none" stroke="#DCDDDD" stroke-width="2" stroke-miterlimit="10" x1="2208.092" y1="603.664" x2="3736.573" y2="603.664"/>
+			
+				<line fill="none" stroke="#DCDDDD" stroke-width="2" stroke-miterlimit="10" x1="2208.092" y1="583.634" x2="3736.573" y2="583.634"/>
+			
+				<line fill="none" stroke="#DCDDDD" stroke-width="2" stroke-miterlimit="10" x1="3694.033" y1="563.66" x2="3694.033" y2="783.599"/>
+			
+				<line fill="none" stroke="#DCDDDD" stroke-width="2" stroke-miterlimit="10" x1="3651.492" y1="563.66" x2="3651.492" y2="783.599"/>
+			
+				<line fill="none" stroke="#DCDDDD" stroke-width="2" stroke-miterlimit="10" x1="3609.324" y1="563.66" x2="3609.324" y2="783.599"/>
+			
+				<line fill="none" stroke="#DCDDDD" stroke-width="2" stroke-miterlimit="10" x1="3566.783" y1="563.66" x2="3566.783" y2="783.599"/>
+			
+				<line fill="none" stroke="#DCDDDD" stroke-width="2" stroke-miterlimit="10" x1="3524.242" y1="563.66" x2="3524.242" y2="783.599"/>
+			
+				<line fill="none" stroke="#DCDDDD" stroke-width="2" stroke-miterlimit="10" x1="3481.702" y1="563.66" x2="3481.702" y2="783.599"/>
+			
+				<line fill="none" stroke="#DCDDDD" stroke-width="2" stroke-miterlimit="10" x1="3439.535" y1="563.66" x2="3439.535" y2="783.599"/>
+			
+				<line fill="none" stroke="#DCDDDD" stroke-width="2" stroke-miterlimit="10" x1="3396.994" y1="563.66" x2="3396.994" y2="783.599"/>
+			
+				<line fill="none" stroke="#DCDDDD" stroke-width="2" stroke-miterlimit="10" x1="3354.452" y1="563.66" x2="3354.452" y2="783.599"/>
+			
+				<line fill="none" stroke="#DCDDDD" stroke-width="2" stroke-miterlimit="10" x1="3311.912" y1="563.66" x2="3311.912" y2="783.599"/>
+			
+				<line fill="none" stroke="#DCDDDD" stroke-width="2" stroke-miterlimit="10" x1="3269.372" y1="563.66" x2="3269.372" y2="783.599"/>
+			
+				<line fill="none" stroke="#DCDDDD" stroke-width="2" stroke-miterlimit="10" x1="3227.204" y1="563.66" x2="3227.204" y2="783.599"/>
+			
+				<line fill="none" stroke="#DCDDDD" stroke-width="2" stroke-miterlimit="10" x1="3184.663" y1="563.66" x2="3184.663" y2="783.599"/>
+			
+				<line fill="none" stroke="#DCDDDD" stroke-width="2" stroke-miterlimit="10" x1="3142.122" y1="563.66" x2="3142.122" y2="783.599"/>
+			
+				<line fill="none" stroke="#DCDDDD" stroke-width="2" stroke-miterlimit="10" x1="3099.582" y1="563.66" x2="3099.582" y2="783.599"/>
+			
+				<line fill="none" stroke="#DCDDDD" stroke-width="2" stroke-miterlimit="10" x1="3057.414" y1="563.66" x2="3057.414" y2="783.599"/>
+			
+				<line fill="none" stroke="#DCDDDD" stroke-width="2" stroke-miterlimit="10" x1="3014.874" y1="563.66" x2="3014.874" y2="783.599"/>
+			
+				<line fill="none" stroke="#DCDDDD" stroke-width="2" stroke-miterlimit="10" x1="2972.332" y1="563.66" x2="2972.332" y2="783.599"/>
+			
+				<line fill="none" stroke="#DCDDDD" stroke-width="2" stroke-miterlimit="10" x1="2929.791" y1="563.66" x2="2929.791" y2="783.599"/>
+			
+				<line fill="none" stroke="#DCDDDD" stroke-width="2" stroke-miterlimit="10" x1="2887.251" y1="563.66" x2="2887.251" y2="783.599"/>
+			
+				<line fill="none" stroke="#DCDDDD" stroke-width="2" stroke-miterlimit="10" x1="2845.084" y1="563.66" x2="2845.084" y2="783.599"/>
+			
+				<line fill="none" stroke="#DCDDDD" stroke-width="2" stroke-miterlimit="10" x1="2802.543" y1="563.66" x2="2802.543" y2="783.599"/>
+			
+				<line fill="none" stroke="#DCDDDD" stroke-width="2" stroke-miterlimit="10" x1="2760.002" y1="563.66" x2="2760.002" y2="783.599"/>
+			
+				<line fill="none" stroke="#DCDDDD" stroke-width="2" stroke-miterlimit="10" x1="2717.461" y1="563.66" x2="2717.461" y2="783.599"/>
+			
+				<line fill="none" stroke="#DCDDDD" stroke-width="2" stroke-miterlimit="10" x1="2675.293" y1="563.66" x2="2675.293" y2="783.599"/>
+			
+				<line fill="none" stroke="#DCDDDD" stroke-width="2" stroke-miterlimit="10" x1="2632.753" y1="563.66" x2="2632.753" y2="783.599"/>
+			
+				<line fill="none" stroke="#DCDDDD" stroke-width="2" stroke-miterlimit="10" x1="2590.213" y1="563.66" x2="2590.213" y2="783.599"/>
+			
+				<line fill="none" stroke="#DCDDDD" stroke-width="2" stroke-miterlimit="10" x1="2547.672" y1="563.66" x2="2547.672" y2="783.599"/>
+			
+				<line fill="none" stroke="#DCDDDD" stroke-width="2" stroke-miterlimit="10" x1="2505.13" y1="563.66" x2="2505.13" y2="783.599"/>
+			
+				<line fill="none" stroke="#DCDDDD" stroke-width="2" stroke-miterlimit="10" x1="2462.963" y1="563.66" x2="2462.963" y2="783.599"/>
+			
+				<line fill="none" stroke="#DCDDDD" stroke-width="2" stroke-miterlimit="10" x1="2420.422" y1="563.66" x2="2420.422" y2="783.599"/>
+			
+				<line fill="none" stroke="#DCDDDD" stroke-width="2" stroke-miterlimit="10" x1="2377.882" y1="563.66" x2="2377.882" y2="783.599"/>
+			
+				<line fill="none" stroke="#DCDDDD" stroke-width="2" stroke-miterlimit="10" x1="2335.341" y1="563.66" x2="2335.341" y2="783.599"/>
+			
+				<line fill="none" stroke="#DCDDDD" stroke-width="2" stroke-miterlimit="10" x1="2293.174" y1="563.66" x2="2293.174" y2="783.599"/>
+			
+				<line fill="none" stroke="#DCDDDD" stroke-width="2" stroke-miterlimit="10" x1="2250.632" y1="563.66" x2="2250.632" y2="783.599"/>
+		</g>
+		<g>
+			<g>
+				
+					<line fill="none" stroke="#D0D2D3" stroke-width="2" stroke-miterlimit="10" x1="2207.091" y1="538.626" x2="2207.091" y2="783.599"/>
+				<g>
+					<polygon fill="#D0D2D3" points="2199.685,544.244 2207.091,541.097 2214.497,544.244 2207.091,526.687 					"/>
+				</g>
+			</g>
+		</g>
+		
+			<line fill="none" stroke="#D0D2D3" stroke-width="2" stroke-miterlimit="10" x1="2207.091" y1="783.599" x2="3745.579" y2="783.599"/>
+		
+			<line fill="none" stroke="#D0D2D3" stroke-width="2" stroke-miterlimit="10" x1="2196.873" y1="563.66" x2="2207.091" y2="563.66"/>
+		
+			<line fill="none" stroke="#D0D2D3" stroke-width="2" stroke-miterlimit="10" x1="2196.873" y1="627.938" x2="2207.091" y2="627.938"/>
+		
+			<line fill="none" stroke="#D0D2D3" stroke-width="2" stroke-miterlimit="10" x1="2196.873" y1="692.216" x2="2207.091" y2="692.216"/>
+		
+			<line fill="none" stroke="#D0D2D3" stroke-width="2" stroke-miterlimit="10" x1="2196.873" y1="756.494" x2="2207.091" y2="756.494"/>
+		<text transform="matrix(1 0 0 1 2182.6816 572.9932)" fill="#727171" font-family="'ArialMT'" font-size="22.8231">0</text>
+		<text transform="matrix(1 0 0 1 2162.6689 635.6602)" fill="#727171" font-family="'ArialMT'" font-size="22.8231">-10</text>
+		<text transform="matrix(1 0 0 1 2162.6689 700.0049)" fill="#727171" font-family="'ArialMT'" font-size="22.8231">-20</text>
+		<text transform="matrix(1 0 0 1 2162.6689 764.6714)" fill="#727171" font-family="'ArialMT'" font-size="22.8231">-30</text>
+		<text transform="matrix(1 0 0 1 2236.3838 812.9937)" fill="#727171" font-family="'ArialMT'" font-size="22.8231">20210111121404</text>
+		<text transform="matrix(1 0 0 1 2558.3271 812.9937)" fill="#727171" font-family="'ArialMT'" font-size="22.8231">20210110040007</text>
+		<text transform="matrix(1 0 0 1 2881.1182 812.9937)" fill="#727171" font-family="'ArialMT'" font-size="22.8231">20210108195513</text>
+		<text transform="matrix(1 0 0 1 3205.6025 812.9937)" fill="#727171" font-family="'ArialMT'" font-size="22.8231">20210107115336</text>
+		<text transform="matrix(1 0 0 1 3528.3926 812.9937)" fill="#727171" font-family="'ArialMT'" font-size="22.8231">20210106001336</text>
+		<path opacity="0.5" fill="#97E2FF" d="M3736.573,619.468c0,0-10.114,35.387-45.051,38.96s-33.437-15.38-94.934,10.597
+			c-61.497,25.976-107.088,12.406-122.509,0c-15.421-12.407-35.421-38.407-65.421-37.407s-75.906-7-89.953-34
+			s-54.816,60.811-54.816,60.811s-17.23,16.189-38.23-10.811s-46.621-64-100.811-2s-86.189,30.805-86.189,30.805
+			s-37.439-71.805-123.72-50.805s-75.304,1-95.792-7s-60.145-39-96.316-14s-52.932,53.811-52.932,53.811s-21.24,75.494-44.24,25.842
+			s-90-45.319-90-45.319s-40.814-2.724-72.907,37.472s-40.093,17.358-40.093,17.358s0-15.554-20-17.358s-68-6.138-86-37.472
+			c-18-31.333-44.805-12.333-44.805-12.333s-3.564,34.621-33.38,31.811s-30.383-19.478-30.383-19.478v-75.29h1528.481V619.468z"/>
+		<path fill="none" stroke="#172A88" stroke-miterlimit="10" d="M3736.572,619.561c0,0-10.114,35.386-45.051,38.96
+			s-33.437-15.38-94.934,10.596c-61.497,25.977-107.088,12.407-122.509,0c-15.421-12.406-35.421-38.406-65.421-37.406
+			s-75.906-7-89.953-34s-54.816,60.811-54.816,60.811s-17.23,16.189-38.23-10.811s-46.621-64-100.811-2
+			c-54.189,62-86.189,30.805-86.189,30.805s-37.439-71.805-123.72-50.805s-75.304,1-95.792-7s-60.145-39-96.316-14
+			s-52.932,53.811-52.932,53.811s-21.24,75.495-44.24,25.842c-23-49.652-90-45.318-90-45.318s-40.814-2.725-72.907,37.471
+			c-32.093,40.196-40.093,17.359-40.093,17.359s0-15.555-20-17.359s-68-6.138-86-37.471c-18-31.334-44.805-12.334-44.805-12.334
+			s-3.564,34.621-33.38,31.811s-30.383-19.477-30.383-19.477"/>
+	</g>
+</g>
+<g id="zhiliang">
+	
+		<rect x="32.966" y="874.335" fill="none" stroke="#004E93" stroke-width="0.25" stroke-miterlimit="10" width="1719" height="1263"/>
+	<g id="zhiliangyiyi">
+		
+			<rect x="913.678" y="1772.841" fill="none" stroke="#004E93" stroke-width="0.25" stroke-miterlimit="10" width="817.486" height="341.159"/>
+		
+			<rect x="922.137" y="1864.892" fill="none" stroke="#004E93" stroke-width="0.25" stroke-miterlimit="10" width="802.623" height="240.507"/>
+		
+			<rect x="922.137" y="1985.319" fill="#DBEFFF" stroke="#004E93" stroke-width="0.25" stroke-miterlimit="10" width="802.623" height="60"/>
+		<g>
+			<text transform="matrix(1 0 0 1 984.1338 1966.5889)" fill="#6E6E6E" font-family="'MicrosoftYaHei'" font-size="32">xxxxxxxxxx                  xxxxxxxxxxxxxxxxxx</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 984.1338 2024.5889)" fill="#6E6E6E" font-family="'MicrosoftYaHei'" font-size="32">xxxxxxxxxx                  xxxxxxxxxxxxxxxxxx</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 984.1338 2086.5889)" fill="#6E6E6E" font-family="'MicrosoftYaHei'" font-size="32">xxxxxxxxxx                  xxxxxxxxxxxxxxxxxx</text>
+		</g>
+		
+			<rect x="922.137" y="1864.892" fill="#DBEFFF" stroke="#004E93" stroke-width="0.25" stroke-miterlimit="10" width="802.623" height="60"/>
+		<g>
+			<text transform="matrix(1 0 0 1 1001.9819 1907.8037)" fill="#0075D8" font-family="'MicrosoftYaHei'" font-size="32">用户描述                       用户异议抱怨</text>
+		</g>
+		
+			<rect x="913.678" y="1772.841" fill="#D9F0FF" stroke="#004E93" stroke-width="0.25" stroke-miterlimit="10" width="817.486" height="70"/>
+		<g>
+			<text transform="matrix(1.0532 0 0 1 1587.8154 1823.5146)" fill="#0075D8" font-family="'MicrosoftYaHei'" font-size="36">明细</text>
+			<path fill="none" stroke="#0075D8" stroke-miterlimit="10" d="M1700.713,1830.626c0,1.781-1.268,3.227-2.831,3.227h-144.338
+				c-1.563,0-2.831-1.445-2.831-3.227v-43.547c0-1.783,1.268-3.227,2.831-3.227h144.338c1.563,0,2.831,1.443,2.831,3.227V1830.626z"
+				/>
+		</g>
+		<path fill="#0075D8" stroke="#0075D8" stroke-width="0.25" stroke-miterlimit="10" d="M1125.13,1790.62
+			c0-4.188-2.432-7.58-5.432-7.58h-194.76c-2.999,0-5.432,3.393-5.432,7.58v52.42h205.625V1790.62z"/>
+		<g>
+			<text transform="matrix(1.0532 0 0 1 942.7632 1825.7275)" fill="#FFFFFF" font-family="'MicrosoftYaHei'" font-size="36">质量异议</text>
+		</g>
+	</g>
+	<g id="jishutongzhidan">
+		
+			<rect x="64.068" y="1772.841" fill="none" stroke="#004E93" stroke-width="0.25" stroke-miterlimit="10" width="817.486" height="341.159"/>
+		
+			<rect x="72.527" y="1864.892" fill="none" stroke="#004E93" stroke-width="0.25" stroke-miterlimit="10" width="802.623" height="240.428"/>
+		
+			<rect x="72.527" y="1985.319" fill="#DBEFFF" stroke="#004E93" stroke-width="0.25" stroke-miterlimit="10" width="802.623" height="60"/>
+		<g>
+			<text transform="matrix(1 0 0 1 194.5615 1966.5889)" fill="#6E6E6E" font-family="'MicrosoftYaHei'" font-size="32">xxxxxxxxxx                    xxxxxxxxxxxxxxxx</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 194.5615 2024.5889)" fill="#6E6E6E" font-family="'MicrosoftYaHei'" font-size="32">xxxxxxxxxx                    xxxxxxxxxxxxxxxx</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 194.5615 2086.5889)" fill="#6E6E6E" font-family="'MicrosoftYaHei'" font-size="32">xxxxxxxxxx                    xxxxxxxxxxxxxxxx</text>
+		</g>
+		
+			<rect x="72.527" y="1864.892" fill="#DBEFFF" stroke="#004E93" stroke-width="0.25" stroke-miterlimit="10" width="802.623" height="60"/>
+		<g>
+			<text transform="matrix(1 0 0 1 202.4033 1907.8037)" fill="#0075D8" font-family="'MicrosoftYaHei'" font-size="32">作业计划号                       计划通知单号</text>
+		</g>
+		
+			<rect x="64.068" y="1772.841" fill="#D9F0FF" stroke="#004E93" stroke-width="0.25" stroke-miterlimit="10" width="817.486" height="70"/>
+		<g>
+			<text transform="matrix(1.0532 0 0 1 738.2056 1823.5146)" fill="#0075D8" font-family="'MicrosoftYaHei'" font-size="36">明细</text>
+			<path fill="none" stroke="#0075D8" stroke-miterlimit="10" d="M851.103,1830.626c0,1.781-1.268,3.227-2.831,3.227H703.934
+				c-1.563,0-2.831-1.445-2.831-3.227v-43.547c0-1.783,1.268-3.227,2.831-3.227h144.338c1.563,0,2.831,1.443,2.831,3.227V1830.626z"
+				/>
+		</g>
+		<path fill="#0075D8" stroke="#0075D8" stroke-width="0.25" stroke-miterlimit="10" d="M307.629,1790.62
+			c0-4.188-2.812-7.58-6.28-7.58H76.176c-3.467,0-6.28,3.393-6.28,7.58v52.42h237.733V1790.62z"/>
+		<g>
+			<text transform="matrix(1.0532 0 0 1 93.1533 1825.7275)" fill="#FFFFFF" font-family="'MicrosoftYaHei'" font-size="36">技术通知单</text>
+		</g>
+	</g>
+	<g id="yonghuteshuxuqiu">
+		
+			<rect x="913.678" y="1401.169" fill="none" stroke="#004E93" stroke-width="0.25" stroke-miterlimit="10" width="817.486" height="341.825"/>
+		
+			<rect x="922.137" y="1493.22" fill="none" stroke="#004E93" stroke-width="0.25" stroke-miterlimit="10" width="802.623" height="240.428"/>
+		
+			<rect x="922.137" y="1613.647" fill="#DBEFFF" stroke="#004E93" stroke-width="0.25" stroke-miterlimit="10" width="802.623" height="60"/>
+		<g>
+			<text transform="matrix(1 0 0 1 996.1968 1594.917)" fill="#6E6E6E" font-family="'MicrosoftYaHei'" font-size="32">xxxx              xxxxxxxx            xxxx         xxxxxx</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 996.1968 1652.917)" fill="#6E6E6E" font-family="'MicrosoftYaHei'" font-size="32">xxxx              xxxxxxxx            xxxx         xxxxxx</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 996.1968 1715.917)" fill="#6E6E6E" font-family="'MicrosoftYaHei'" font-size="32">xxxx              xxxxxxxx            xxxx         xxxxxx</text>
+		</g>
+		
+			<rect x="922.137" y="1493.22" fill="#DBEFFF" stroke="#004E93" stroke-width="0.25" stroke-miterlimit="10" width="802.623" height="60"/>
+		<g>
+			<text transform="matrix(1 0 0 1 944.0005 1536.1318)" fill="#0075D8" font-family="'MicrosoftYaHei'" font-size="32">作业计划号    生产命令顺序号   入口材料号  特殊需求</text>
+		</g>
+		
+			<rect x="913.678" y="1401.169" fill="#D9F0FF" stroke="#004E93" stroke-width="0.25" stroke-miterlimit="10" width="817.486" height="70"/>
+		<g>
+			<text transform="matrix(1.0532 0 0 1 1587.8154 1451.8428)" fill="#0075D8" font-family="'MicrosoftYaHei'" font-size="36">明细</text>
+			<path fill="none" stroke="#0075D8" stroke-miterlimit="10" d="M1700.713,1458.954c0,1.781-1.268,3.227-2.831,3.227h-144.338
+				c-1.563,0-2.831-1.445-2.831-3.227v-43.547c0-1.783,1.268-3.227,2.831-3.227h144.338c1.563,0,2.831,1.443,2.831,3.227V1458.954z"
+				/>
+		</g>
+		<path fill="#0075D8" stroke="#0075D8" stroke-width="0.25" stroke-miterlimit="10" d="M1205,1418.948
+			c0-4.188-3.376-7.58-7.542-7.58h-270.41c-4.164,0-7.542,3.393-7.542,7.58v52.42H1205V1418.948z"/>
+		<g>
+			<text transform="matrix(1.0532 0 0 1 942.7627 1454.0557)" fill="#FFFFFF" font-family="'MicrosoftYaHei'" font-size="36">用户特殊需求</text>
+		</g>
+	</g>
+	<g id="yichangtixing_1_">
+		
+			<rect x="64.277" y="1401.169" fill="none" stroke="#004E93" stroke-width="0.25" stroke-miterlimit="10" width="817.486" height="341.825"/>
+		
+			<rect x="72.736" y="1493.22" fill="none" stroke="#004E93" stroke-width="0.25" stroke-miterlimit="10" width="802.623" height="240.428"/>
+		
+			<rect x="72.736" y="1613.647" fill="#DBEFFF" stroke="#004E93" stroke-width="0.25" stroke-miterlimit="10" width="802.623" height="60"/>
+		<g>
+			<text transform="matrix(1 0 0 1 146.7959 1594.917)" fill="#6E6E6E" font-family="'MicrosoftYaHei'" font-size="32">7485      10836838600    88Z8     [色差]上下表…</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 146.7959 1652.917)" fill="#6E6E6E" font-family="'MicrosoftYaHei'" font-size="32">7485      10836838600    88Z8     [色差]上下表…</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 146.7959 1715.917)" fill="#6E6E6E" font-family="'MicrosoftYaHei'" font-size="32">7485      10836838600    88Z8     [色差]上下表…</text>
+		</g>
+		
+			<rect x="72.736" y="1493.22" fill="#DBEFFF" stroke="#004E93" stroke-width="0.25" stroke-miterlimit="10" width="802.623" height="60"/>
+		<g>
+			<text transform="matrix(1 0 0 1 114.6123 1536.1318)" fill="#0075D8" font-family="'MicrosoftYaHei'" font-size="32">作业计划号    入口材料号   封锁代码       封闭缺陷</text>
+		</g>
+		
+			<rect x="64.277" y="1401.169" fill="#D9F0FF" stroke="#004E93" stroke-width="0.25" stroke-miterlimit="10" width="817.486" height="70"/>
+		<g>
+			<text transform="matrix(1.0532 0 0 1 738.4146 1451.8428)" fill="#0075D8" font-family="'MicrosoftYaHei'" font-size="36">明细</text>
+			<path fill="none" stroke="#0075D8" stroke-miterlimit="10" d="M851.312,1458.954c0,1.781-1.268,3.227-2.831,3.227H704.143
+				c-1.563,0-2.831-1.445-2.831-3.227v-43.547c0-1.783,1.268-3.227,2.831-3.227h144.338c1.563,0,2.831,1.443,2.831,3.227V1458.954z"
+				/>
+		</g>
+		<path fill="#0075D8" stroke="#0075D8" stroke-width="0.25" stroke-miterlimit="10" d="M419.135,1418.948
+			c0-4.188-4.128-7.58-9.221-7.58H79.326c-5.09,0-9.221,3.393-9.221,7.58v52.42h349.03V1418.948z"/>
+		<g>
+			<text transform="matrix(1.0532 0 0 1 93.3623 1454.0557)" fill="#FFFFFF" font-family="'MicrosoftYaHei'" font-size="36">来料质量异常提醒</text>
+		</g>
+	</g>
+	<g id="quexiangaipanlv_1_">
+		<g>
+			<text transform="matrix(1 0 0 1 440.9727 1234.2168)"><tspan x="0" y="0" fill="#00A29A" font-family="'AgencyFB-Bold'" font-size="72">85%</tspan><tspan x="0" y="72" fill="#0075D8" font-family="'AgencyFB-Bold'" font-size="72">70%</tspan></text>
+		</g>
+		<path fill="none" stroke="#0075D8" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+			M296.249,1280.781c0-81.164,65.791-146.959,146.954-146.959c30.437,0,58.711,9.252,82.162,25.102"/>
+		<path fill="none" stroke="#BBBDBF" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+			M263.204,1282.355c0-99.412,80.586-179.998,179.999-179.998c99.412,0,180.001,80.586,180.001,179.998"/>
+		<path fill="none" stroke="#33B5AE" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+			M263.204,1282.355c0-99.412,80.586-179.998,179.999-179.998c55.919,0,105.885,25.498,138.898,65.502"/>
+	</g>
+	
+		<rect x="33" y="874.335" fill="#D9F0FF" stroke="#004E93" stroke-width="0.25" stroke-miterlimit="10" width="1719.644" height="95"/>
+	<g>
+		<text transform="matrix(1 0 0 1 1270.6504 938.8687)" fill="#595757" font-family="'MicrosoftYaHei'" font-size="24">日实绩</text>
+	</g>
+	<rect x="1244.352" y="920.599" fill="#0075D8" width="19.199" height="19.199"/>
+	<g>
+		<text transform="matrix(1 0 0 1 1406.1582 938.8687)" fill="#595757" font-family="'MicrosoftYaHei'" font-size="24">月累计</text>
+	</g>
+	<rect x="1379.859" y="920.599" fill="#00A29A" width="19.201" height="19.199"/>
+	<text transform="matrix(1 0 0 1 1532.1641 938.8667)" fill="#595757" font-family="'MicrosoftYaHei'" font-size="24">单位：吨</text>
+	<g>
+		<text transform="matrix(1 0 0 1 126.9883 939.5854)" fill="#004E93" font-family="'MicrosoftYaHei-Bold'" font-size="42">质量</text>
+	</g>
+	<rect x="69.001" y="908.652" fill="#004E93" width="36" height="35.999"/>
+	
+		<rect x="87.768" y="985.084" fill="#D9F0FF" stroke="#004E93" stroke-width="0.25" stroke-miterlimit="10" width="667.934" height="70"/>
+	<g id="quexiangaipanlv">
+		<text transform="matrix(1 0 0 1 353.2041 1033.6655)" fill="#004E93" font-family="'MicrosoftYaHei'" font-size="36">缺陷改判率</text>
+	</g>
+	<g id="xiaoweijuanfashenglv">
+		
+			<rect x="802.905" y="985.084" fill="#D9F0FF" stroke="#004E93" stroke-width="0.25" stroke-miterlimit="10" width="882.893" height="70"/>
+		<g>
+			<text transform="matrix(1 0 0 1 1130.1147 1033.6655)" fill="#004E93" font-family="'MicrosoftYaHei'" font-size="36">小尾卷发生率</text>
+		</g>
+		<g>
+			<g id="quexiangaipanlv_2_">
+				<g>
+					<text transform="matrix(1 0 0 1 1021.9277 1234.2168)"><tspan x="0" y="0" fill="#00A29A" font-family="'AgencyFB-Bold'" font-size="72">85%</tspan><tspan x="0" y="72" fill="#0075D8" font-family="'AgencyFB-Bold'" font-size="72">70%</tspan></text>
+				</g>
+				
+					<path fill="none" stroke="#0075D8" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+					M877.204,1280.781c0-81.164,65.791-146.959,146.954-146.959c30.437,0,58.711,9.252,82.162,25.102"/>
+				
+					<path fill="none" stroke="#BBBDBF" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+					M844.159,1282.355c0-99.412,80.586-179.998,179.999-179.998c99.412,0,180.001,80.586,180.001,179.998"/>
+				
+					<path fill="none" stroke="#33B5AE" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+					M844.159,1282.355c0-99.412,80.586-179.998,179.999-179.998c55.919,0,105.885,25.498,138.898,65.502"/>
+			</g>
+			<g>
+				<g>
+					<path fill="#F4A017" d="M967.723,1384.805c-2.75,0-5-2.25-5-5v-38.498c0-2.75,2.25-5,5-5h68.804c2.75,0,5,2.25,5,5v38.498
+						c0,2.75-2.25,5-5,5H967.723z"/>
+				</g>
+				<g>
+					<path fill="none" stroke="#F4A017" stroke-miterlimit="10" d="M967.723,1384.805c-2.75,0-5-2.25-5-5v-38.498c0-2.75,2.25-5,5-5
+						h117.557c2.75,0,5,2.25,5,5v38.498c0,2.75-2.25,5-5,5H967.723z"/>
+				</g>
+				<g>
+					
+						<text transform="matrix(1 0 0 1 970.6699 1370.6914)" fill="#FFFFFF" font-family="'MicrosoftYaHei-Bold'" font-size="30.8114">早班</text>
+				</g>
+				
+					<text transform="matrix(1 0 0 1 1049.4131 1370.6914)" fill="#F4A017" font-family="'MicrosoftYaHei-Bold'" font-size="30.8114">甲</text>
+			</g>
+		</g>
+		<g>
+			<g id="quexiangaipanlv_3_">
+				<g>
+					<text transform="matrix(1 0 0 1 1453.1514 1234.2168)"><tspan x="0" y="0" fill="#00A29A" font-family="'AgencyFB-Bold'" font-size="72">85%</tspan><tspan x="0" y="72" fill="#0075D8" font-family="'AgencyFB-Bold'" font-size="72">70%</tspan></text>
+				</g>
+				
+					<path fill="none" stroke="#0075D8" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+					M1308.428,1280.781c0-81.164,65.791-146.959,146.954-146.959c30.437,0,58.711,9.252,82.162,25.102"/>
+				
+					<path fill="none" stroke="#BBBDBF" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+					M1275.383,1282.355c0-99.412,80.586-179.998,179.999-179.998c99.412,0,180.001,80.586,180.001,179.998"/>
+				
+					<path fill="none" stroke="#33B5AE" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+					M1275.383,1282.355c0-99.412,80.586-179.998,179.999-179.998c55.919,0,105.885,25.498,138.898,65.502"/>
+			</g>
+			<g>
+				<g>
+					<path fill="#331E90" d="M1394.359,1381.469c-2.75-0.005-4.996-2.259-4.991-5.009l0.069-40.004
+						c0.005-2.75,2.259-4.996,5.009-4.991l71.253,0.123c2.75,0.005,4.996,2.259,4.991,5.009l-0.069,40.004
+						c-0.005,2.75-2.259,4.996-5.009,4.991L1394.359,1381.469z"/>
+				</g>
+				<g>
+					<path fill="none" stroke="#331E90" stroke-miterlimit="10" d="M1394.36,1381.469c-2.75-0.005-4.996-2.259-4.991-5.009
+						l0.069-40.004c0.005-2.75,2.259-4.996,5.009-4.991l121.96,0.211c2.75,0.005,4.996,2.259,4.991,5.009l-0.069,40.004
+						c-0.005,2.75-2.259,4.996-5.009,4.991L1394.36,1381.469z"/>
+				</g>
+				<g>
+					
+						<text transform="matrix(1 0.0017 -0.0017 1 1397.5781 1366.9229)" fill="#FFFFFF" font-family="'MicrosoftYaHei-Bold'" font-size="31.7687">晚班</text>
+				</g>
+				<g>
+					
+						<text transform="matrix(1 0.0017 -0.0017 1 1480.4189 1367.0664)" fill="#331E90" font-family="'MicrosoftYaHei-Bold'" font-size="31.7687">乙</text>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+<g id="qiebianliangxianshi_1_">
+	
+		<rect x="1775.997" y="874.335" fill="none" stroke="#004E93" stroke-width="0.25" stroke-miterlimit="10" width="700" height="400"/>
+	<g>
+		<path fill="#CAE6F4" d="M1800.74,1241.235c0,6.628,5.373,12,12,12h293.585c6.628,0,12-5.372,12-12v-67.867c0-6.628-5.372-12-12-12
+			H1812.74c-6.627,0-12,5.372-12,12V1241.235z"/>
+		<path fill="none" stroke="#036EB8" stroke-width="0.25" stroke-miterlimit="10" d="M1800.74,1241.235c0,6.628,5.373,12,12,12
+			h293.585c6.628,0,12-5.372,12-12v-67.867c0-6.628-5.372-12-12-12H1812.74c-6.627,0-12,5.372-12,12V1241.235z"/>
+	</g>
+	<g>
+		<path fill="#CAE6F4" d="M2135.224,1241.235c0,6.628,5.372,12,12,12h293.585c6.627,0,12-5.372,12-12v-67.867
+			c0-6.628-5.373-12-12-12h-293.585c-6.628,0-12,5.372-12,12V1241.235z"/>
+		<path fill="none" stroke="#036EB8" stroke-width="0.25" stroke-miterlimit="10" d="M2135.224,1241.235c0,6.628,5.372,12,12,12
+			h293.585c6.627,0,12-5.372,12-12v-67.867c0-6.628-5.373-12-12-12h-293.585c-6.628,0-12,5.372-12,12V1241.235z"/>
+	</g>
+	
+		<line fill="none" stroke="#D0D2D3" stroke-width="2" stroke-miterlimit="10" x1="1784.815" y1="1137.261" x2="2467.505" y2="1137.261"/>
+	<g id="zaobannenghao_2_">
+		<g>
+			<g>
+				<text transform="matrix(1 0 0 1 2284.0488 1095.2539)" fill="#231815" font-family="'AgencyFB-Reg'" font-size="52.8008">9999.99</text>
+			</g>
+			<rect x="1889.986" y="1058.951" fill="#0075D8" width="198.341" height="39.602"/>
+			<rect x="2088.327" y="1058.951" fill="#00A29A" width="184.167" height="39.602"/>
+			<rect x="2041.95" y="993.602" fill="#00A29A" width="113.379" height="39.602"/>
+			<g>
+				<text transform="matrix(1 0 0 1 1793.5356 1091.1289)" fill="#403F41" font-family="'MicrosoftYaHei'" font-size="39.6006">晚班</text>
+			</g>
+			<g>
+				<text transform="matrix(1 0 0 1 2189.7393 1029.2764)" fill="#231815" font-family="'AgencyFB-Reg'" font-size="52.8008">999.99</text>
+			</g>
+			<rect x="1889.986" y="993.602" fill="#0075D8" width="151.964" height="39.601"/>
+			<g>
+				<text transform="matrix(1 0 0 1 1793.5356 1024.168)" fill="#403F41" font-family="'MicrosoftYaHei'" font-size="39.6006">早班</text>
+			</g>
+		</g>
+	</g>
+	
+		<rect x="1775.997" y="874.335" fill="#D9F0FF" stroke="#004E93" stroke-width="0.25" stroke-miterlimit="10" width="700.328" height="95"/>
+	<g>
+		<text transform="matrix(1 0 0 1 2241.8369 930.5054)" fill="#595757" font-family="'MicrosoftYaHei'" font-size="24">日实绩</text>
+	</g>
+	<rect x="2215.538" y="912.236" fill="#0075D8" width="19.201" height="19.199"/>
+	<g>
+		<text transform="matrix(1 0 0 1 2377.3447 930.5054)" fill="#595757" font-family="'MicrosoftYaHei'" font-size="24">月累计</text>
+	</g>
+	<rect x="2351.048" y="912.236" fill="#00A29A" width="19.199" height="19.199"/>
+	<g>
+		<text transform="matrix(1 0 0 1 1875.0903 941.0024)" fill="#004E93" font-family="'MicrosoftYaHei-Bold'" font-size="42">切边量显示</text>
+	</g>
+	<rect x="1819.608" y="907.671" fill="#004E93" width="36" height="35.999"/>
+	<g>
+		<text transform="matrix(1 0 0 1 1911.5298 1214.1172)" fill="#3E3A39" font-family="'MicrosoftYaHei'" font-size="32.0019">按厚度</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 2230.0117 1214.1191)" fill="#3E3A39" font-family="'MicrosoftYaHei'" font-size="32.0019">按出钢号</text>
+	</g>
+</g>
+<g id="fanxiufashengliang">
+	
+		<rect x="1776.16" y="1308.857" fill="none" stroke="#004E93" stroke-width="0.25" stroke-miterlimit="10" width="700" height="400"/>
+	<g>
+		<path fill="#CAE6F4" d="M1800.74,1672.646c0,6.627,5.373,12,12,12h293.585c6.628,0,12-5.373,12-12v-67.867c0-6.627-5.372-12-12-12
+			H1812.74c-6.627,0-12,5.373-12,12V1672.646z"/>
+		<path fill="none" stroke="#036EB8" stroke-width="0.25" stroke-miterlimit="10" d="M1800.74,1672.646c0,6.627,5.373,12,12,12
+			h293.585c6.628,0,12-5.373,12-12v-67.867c0-6.627-5.372-12-12-12H1812.74c-6.627,0-12,5.373-12,12V1672.646z"/>
+	</g>
+	<g>
+		<path fill="#CAE6F4" d="M2135.224,1672.646c0,6.627,5.372,12,12,12h293.585c6.627,0,12-5.373,12-12v-67.867
+			c0-6.627-5.373-12-12-12h-293.585c-6.628,0-12,5.373-12,12V1672.646z"/>
+		<path fill="none" stroke="#036EB8" stroke-width="0.25" stroke-miterlimit="10" d="M2135.224,1672.646c0,6.627,5.372,12,12,12
+			h293.585c6.627,0,12-5.373,12-12v-67.867c0-6.627-5.373-12-12-12h-293.585c-6.628,0-12,5.373-12,12V1672.646z"/>
+	</g>
+	
+		<line fill="none" stroke="#D0D2D3" stroke-width="2" stroke-miterlimit="10" x1="1784.815" y1="1568.672" x2="2467.505" y2="1568.672"/>
+	<g id="zaobannenghao_5_">
+		<g>
+			<g>
+				<text transform="matrix(1 0 0 1 2284.0488 1526.666)" fill="#231815" font-family="'AgencyFB-Reg'" font-size="52.8008">9999.99</text>
+			</g>
+			<rect x="1799.726" y="1490.363" fill="#0075D8" width="245.144" height="39.602"/>
+			<rect x="2044.869" y="1490.363" fill="#00A29A" width="227.625" height="39.602"/>
+			<rect x="1987.549" y="1425.014" fill="#00A29A" width="140.133" height="39.602"/>
+			<g>
+				<text transform="matrix(1 0 0 1 2158.6816 1460.6875)" fill="#231815" font-family="'AgencyFB-Reg'" font-size="52.8008">999.99</text>
+			</g>
+			<rect x="1799.726" y="1425.014" fill="#0075D8" width="187.823" height="39.601"/>
+		</g>
+	</g>
+	
+		<rect x="1775.997" y="1305.747" fill="#D9F0FF" stroke="#004E93" stroke-width="0.25" stroke-miterlimit="10" width="700.328" height="95"/>
+	<g>
+		<text transform="matrix(1 0 0 1 2241.8369 1361.917)" fill="#595757" font-family="'MicrosoftYaHei'" font-size="24">日实绩</text>
+	</g>
+	<rect x="2215.538" y="1343.647" fill="#0075D8" width="19.201" height="19.199"/>
+	<g>
+		<text transform="matrix(1 0 0 1 2377.3447 1361.917)" fill="#595757" font-family="'MicrosoftYaHei'" font-size="24">月累计</text>
+	</g>
+	<rect x="2351.048" y="1343.647" fill="#00A29A" width="19.199" height="19.199"/>
+	<g>
+		<text transform="matrix(1 0 0 1 1875.0903 1372.4141)" fill="#004E93" font-family="'MicrosoftYaHei-Bold'" font-size="42">返修发生量</text>
+	</g>
+	<rect x="1819.608" y="1339.083" fill="#004E93" width="36" height="35.999"/>
+	<g>
+		<text transform="matrix(1 0 0 1 1911.5298 1645.5293)" fill="#3E3A39" font-family="'MicrosoftYaHei'" font-size="32.0019">按厚度</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 2230.0117 1645.5303)" fill="#3E3A39" font-family="'MicrosoftYaHei'" font-size="32.0019">按出钢号</text>
+	</g>
+</g>
+<g id="benjifanxiuliang">
+	
+		<rect x="1776.16" y="1737.157" fill="none" stroke="#004E93" stroke-width="0.25" stroke-miterlimit="10" width="700" height="400"/>
+	<g>
+		<path fill="#CAE6F4" d="M1800.74,2104.057c0,6.627,5.373,12,12,12h293.585c6.628,0,12-5.373,12-12v-67.867c0-6.627-5.372-12-12-12
+			H1812.74c-6.627,0-12,5.373-12,12V2104.057z"/>
+		<path fill="none" stroke="#036EB8" stroke-width="0.25" stroke-miterlimit="10" d="M1800.74,2104.057c0,6.627,5.373,12,12,12
+			h293.585c6.628,0,12-5.373,12-12v-67.867c0-6.627-5.372-12-12-12H1812.74c-6.627,0-12,5.373-12,12V2104.057z"/>
+	</g>
+	<g>
+		<path fill="#CAE6F4" d="M2135.224,2104.057c0,6.627,5.372,12,12,12h293.585c6.627,0,12-5.373,12-12v-67.867
+			c0-6.627-5.373-12-12-12h-293.585c-6.628,0-12,5.373-12,12V2104.057z"/>
+		<path fill="none" stroke="#036EB8" stroke-width="0.25" stroke-miterlimit="10" d="M2135.224,2104.057c0,6.627,5.372,12,12,12
+			h293.585c6.627,0,12-5.373,12-12v-67.867c0-6.627-5.373-12-12-12h-293.585c-6.628,0-12,5.373-12,12V2104.057z"/>
+	</g>
+	
+		<line fill="none" stroke="#D0D2D3" stroke-width="2" stroke-miterlimit="10" x1="1784.815" y1="2000.082" x2="2467.505" y2="2000.082"/>
+	<g id="zaobannenghao_3_">
+		<g>
+			<g>
+				<text transform="matrix(1 0 0 1 2284.0488 1958.0762)" fill="#231815" font-family="'AgencyFB-Reg'" font-size="52.8008">9999.99</text>
+			</g>
+			<rect x="1796.134" y="1921.773" fill="#0075D8" width="247.006" height="39.602"/>
+			<rect x="2043.141" y="1921.773" fill="#00A29A" width="229.354" height="39.602"/>
+			<rect x="1985.385" y="1856.424" fill="#00A29A" width="141.197" height="39.602"/>
+			<g>
+				<text transform="matrix(1 0 0 1 2141.7422 1892.0977)" fill="#231815" font-family="'AgencyFB-Reg'" font-size="52.8008">999.99</text>
+			</g>
+			<rect x="1796.134" y="1856.424" fill="#0075D8" width="189.25" height="39.601"/>
+		</g>
+	</g>
+	
+		<rect x="1775.997" y="1737.157" fill="#D9F0FF" stroke="#004E93" stroke-width="0.25" stroke-miterlimit="10" width="700.328" height="95"/>
+	<g>
+		<text transform="matrix(1 0 0 1 2241.8369 1793.3271)" fill="#595757" font-family="'MicrosoftYaHei'" font-size="24">日实绩</text>
+	</g>
+	<rect x="2215.538" y="1775.058" fill="#0075D8" width="19.201" height="19.199"/>
+	<g>
+		<text transform="matrix(1 0 0 1 2377.3447 1793.3271)" fill="#595757" font-family="'MicrosoftYaHei'" font-size="24">月累计</text>
+	</g>
+	<rect x="2351.048" y="1775.058" fill="#00A29A" width="19.199" height="19.199"/>
+	<g>
+		<text transform="matrix(1 0 0 1 1875.0903 1803.8242)" fill="#004E93" font-family="'MicrosoftYaHei-Bold'" font-size="42">本机返修量</text>
+	</g>
+	<rect x="1819.608" y="1770.493" fill="#004E93" width="36" height="35.999"/>
+	<g>
+		<text transform="matrix(1 0 0 1 1911.5298 2076.9395)" fill="#3E3A39" font-family="'MicrosoftYaHei'" font-size="32.0019">按厚度</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 2230.0117 2076.9404)" fill="#3E3A39" font-family="'MicrosoftYaHei'" font-size="32.0019">按出钢号</text>
+	</g>
+</g>
+<g id="pingjunkuandu">
+	
+		<rect x="2495.084" y="874.335" fill="none" stroke="#004E93" stroke-width="0.25" stroke-miterlimit="10" width="700" height="263"/>
+	<g id="zaobannenghao_6_">
+		<g>
+			<g>
+				<text transform="matrix(1 0 0 1 3002.9727 1098.2559)" fill="#231815" font-family="'AgencyFB-Reg'" font-size="52.8008">9999.99</text>
+			</g>
+			<rect x="2608.91" y="1061.953" fill="#0075D8" width="198.341" height="39.603"/>
+			<rect x="2807.251" y="1061.953" fill="#00A29A" width="184.167" height="39.603"/>
+			<rect x="2760.874" y="996.603" fill="#00A29A" width="113.379" height="39.602"/>
+			<g>
+				<text transform="matrix(1 0 0 1 2512.46 1094.1309)" fill="#403F41" font-family="'MicrosoftYaHei'" font-size="39.6006">晚班</text>
+			</g>
+			<g>
+				<text transform="matrix(1 0 0 1 2908.6631 1032.2783)" fill="#231815" font-family="'AgencyFB-Reg'" font-size="52.8008">999.99</text>
+			</g>
+			<rect x="2608.91" y="996.604" fill="#0075D8" width="151.964" height="39.601"/>
+			<g>
+				<text transform="matrix(1 0 0 1 2512.46 1027.1699)" fill="#403F41" font-family="'MicrosoftYaHei'" font-size="39.6006">早班</text>
+			</g>
+		</g>
+	</g>
+	
+		<rect x="2494.92" y="874.335" fill="#D9F0FF" stroke="#004E93" stroke-width="0.25" stroke-miterlimit="10" width="700.328" height="95"/>
+	<g>
+		<text transform="matrix(1 0 0 1 2960.7607 930.5054)" fill="#595757" font-family="'MicrosoftYaHei'" font-size="24">日实绩</text>
+	</g>
+	<rect x="2934.462" y="912.236" fill="#0075D8" width="19.201" height="19.199"/>
+	<g>
+		<text transform="matrix(1 0 0 1 3096.2686 930.5054)" fill="#595757" font-family="'MicrosoftYaHei'" font-size="24">月累计</text>
+	</g>
+	<rect x="3069.972" y="912.236" fill="#00A29A" width="19.199" height="19.199"/>
+	<g>
+		<text transform="matrix(1 0 0 1 2594.0146 941.0024)" fill="#004E93" font-family="'MicrosoftYaHei-Bold'" font-size="42">平均宽度</text>
+	</g>
+	<rect x="2538.531" y="907.671" fill="#004E93" width="36" height="35.999"/>
+</g>
+<g id="pingjunzhongliang">
+	
+		<rect x="2494.927" y="1161.992" fill="none" stroke="#004E93" stroke-width="0.25" stroke-miterlimit="10" width="700" height="263"/>
+	<g id="zaobannenghao_1_">
+		<g>
+			<g>
+				<text transform="matrix(1 0 0 1 3002.9727 1385.9131)" fill="#231815" font-family="'AgencyFB-Reg'" font-size="52.8008">9999.99</text>
+			</g>
+			<rect x="2608.91" y="1349.609" fill="#0075D8" width="198.341" height="39.604"/>
+			<rect x="2807.251" y="1349.609" fill="#00A29A" width="184.167" height="39.604"/>
+			<rect x="2760.874" y="1284.26" fill="#00A29A" width="113.379" height="39.602"/>
+			<g>
+				<text transform="matrix(1 0 0 1 2512.46 1381.7881)" fill="#403F41" font-family="'MicrosoftYaHei'" font-size="39.6006">晚班</text>
+			</g>
+			<g>
+				<text transform="matrix(1 0 0 1 2908.6631 1319.9355)" fill="#231815" font-family="'AgencyFB-Reg'" font-size="52.8008">999.99</text>
+			</g>
+			<rect x="2608.91" y="1284.261" fill="#0075D8" width="151.964" height="39.601"/>
+			<g>
+				<text transform="matrix(1 0 0 1 2512.46 1314.8271)" fill="#403F41" font-family="'MicrosoftYaHei'" font-size="39.6006">早班</text>
+			</g>
+		</g>
+	</g>
+	
+		<rect x="2494.92" y="1161.992" fill="#D9F0FF" stroke="#004E93" stroke-width="0.25" stroke-miterlimit="10" width="700.328" height="95"/>
+	<g>
+		<text transform="matrix(1 0 0 1 2960.7607 1218.1631)" fill="#595757" font-family="'MicrosoftYaHei'" font-size="24">日实绩</text>
+	</g>
+	<rect x="2934.462" y="1199.893" fill="#0075D8" width="19.201" height="19.199"/>
+	<g>
+		<text transform="matrix(1 0 0 1 3096.2686 1218.1631)" fill="#595757" font-family="'MicrosoftYaHei'" font-size="24">月累计</text>
+	</g>
+	<rect x="3069.972" y="1199.893" fill="#00A29A" width="19.199" height="19.199"/>
+	<g>
+		<text transform="matrix(1 0 0 1 2594.0146 1228.6602)" fill="#004E93" font-family="'MicrosoftYaHei-Bold'" font-size="42">平均重量</text>
+	</g>
+	<rect x="2538.531" y="1195.328" fill="#004E93" width="36" height="36"/>
+</g>
+<g id="dianjianneirongxianshi" display="none">
+	
+		<rect x="2494.927" y="1431.15" display="inline" fill="none" stroke="#004E93" stroke-width="0.25" stroke-miterlimit="10" width="700" height="275"/>
+	
+		<rect x="2495.049" y="1431.906" display="inline" fill="#D9F0FF" stroke="#004E93" stroke-width="0.25" stroke-miterlimit="10" width="699.756" height="95"/>
+	<g display="inline">
+		<text transform="matrix(1 0 0 1 2594.0146 1491.7285)" fill="#004E93" font-family="'MicrosoftYaHei-Bold'" font-size="42">点检内容显示</text>
+	</g>
+	<rect x="2538.531" y="1462.349" display="inline" fill="#004E93" width="36" height="36"/>
+	<g id="wanbanjixiao_2_" display="inline">
+		<g>
+			<text transform="matrix(1 0 0 1 2830.7793 1686.2559)"><tspan x="0" y="0" fill="#00A29A" font-family="'AgencyFB-Bold'" font-size="70">80 </tspan><tspan x="79.946" y="0" opacity="0.9" fill="#0075D8" font-family="'AgencyFB-Bold'" font-size="70">/100</tspan></text>
+		</g>
+		<g>
+			<g>
+				<path fill="#331E90" d="M2663.688,1686.991c-2.75,0-5-2.25-5-5v-43.119c0-2.75,2.25-5,5-5h89.446c2.75,0,5,2.25,5,5v43.119
+					c0,2.75-2.25,5-5,5H2663.688z"/>
+			</g>
+			<g>
+				<text transform="matrix(0.9 0 0 1 2676.9336 1670.6777)" fill="#FFFFFF" font-family="'MicrosoftYaHei-Bold'" font-size="33.6">晚班</text>
+			</g>
+		</g>
+	</g>
+	<g display="inline">
+		<text transform="matrix(1 0 0 1 2830.7793 1591.4131)"><tspan x="0" y="0" fill="#00A29A" font-family="'AgencyFB-Bold'" font-size="70">80 </tspan><tspan x="79.946" y="0" opacity="0.9" fill="#0075D8" font-family="'AgencyFB-Bold'" font-size="70">/100</tspan></text>
+	</g>
+	<g display="inline">
+		<g>
+			<path fill="#F4A017" d="M2663.688,1593.737c-2.75,0-5-2.25-5-5v-40.172c0-2.75,2.25-5,5-5h89.445c2.75,0,5,2.25,5,5v40.172
+				c0,2.75-2.25,5-5,5H2663.688z"/>
+		</g>
+		<g>
+			<text transform="matrix(0.9 0 0 1 2675.9336 1579.418)" fill="#FFFFFF" font-family="'MicrosoftYaHei-Bold'" font-size="36">早班</text>
+		</g>
+	</g>
+	
+		<line display="inline" fill="none" stroke="#D0D2D3" stroke-width="2" stroke-miterlimit="10" x1="2538.531" y1="1620.224" x2="3174.258" y2="1620.224"/>
+</g>
+<g id="jiaokuliang">
+	
+		<rect x="2494.924" y="1453.24" fill="none" stroke="#004E93" stroke-width="0.25" stroke-miterlimit="10" width="700" height="683"/>
+	
+		<rect x="2494.928" y="1454.056" fill="#D9F0FF" stroke="#004E93" stroke-width="0.25" stroke-miterlimit="10" width="699.993" height="95"/>
+	<g>
+		<text transform="matrix(1 0 0 1 2981.1318 1511.4785)" fill="#595757" font-family="'MicrosoftYaHei'" font-size="24">本日</text>
+	</g>
+	<rect x="2954.833" y="1494.678" fill="#F4A017" width="19.199" height="19.2"/>
+	<g>
+		<text transform="matrix(1 0 0 1 3090.6416 1511.4785)" fill="#595757" font-family="'MicrosoftYaHei'" font-size="24">本月</text>
+	</g>
+	<rect x="3064.341" y="1494.678" fill="#0075D8" width="19.201" height="19.2"/>
+	<g>
+		<text transform="matrix(1 0 0 1 2594.0156 1513.8779)" fill="#004E93" font-family="'MicrosoftYaHei-Bold'" font-size="42">交库量</text>
+	</g>
+	<rect x="2538.531" y="1484.498" fill="#004E93" width="36" height="36"/>
+	<g>
+		<text transform="matrix(1 0 0 1 2517.2656 1645.7168)" fill="#403F41" font-family="'MicrosoftYaHei'" font-size="39.6006">完成情况：</text>
+	</g>
+	<g>
+		
+			<path opacity="0.9" fill="none" stroke="#C9CACA" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+			M2801.914,1862.706c0,73.26-59.395,132.652-132.651,132.652c-73.26,0-132.648-59.393-132.648-132.652
+			s59.389-132.648,132.648-132.648C2742.52,1730.058,2801.914,1789.446,2801.914,1862.706z"/>
+		
+			<path fill="none" stroke="#F4A017" stroke-width="20.0013" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+			M2669.263,1730.058c73.257,0,132.651,59.389,132.651,132.648s-59.395,132.652-132.651,132.652
+			c-41.487,0-78.521-19.052-102.847-48.867"/>
+		<g>
+			<text transform="matrix(1 0 0 1 2627.3623 2051.8721)" fill="#403F41" font-family="'MicrosoftYaHei'" font-size="41.1672">本日</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 2669.2666 1844.2988)" fill="#036EB8" font-family="'AgencyFB-Bold'" font-size="68.6121">99%</text>
+		</g>
+		<text transform="matrix(1 0 0 1 2669.2666 1919.3418)" fill="#F4A017" font-family="'AgencyFB-Bold'" font-size="68.6121">9999</text>
+	</g>
+	<g>
+		
+			<path opacity="0.9" fill="none" stroke="#C9CACA" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+			M3135.372,1850.577c0,73.26-59.396,132.653-132.653,132.653c-73.256,0-132.645-59.394-132.645-132.653
+			s59.389-132.648,132.645-132.648C3075.977,1717.929,3135.372,1777.317,3135.372,1850.577z"/>
+		
+			<path fill="none" stroke="#0075D8" stroke-width="20.0013" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+			M3002.719,1717.929c73.258,0,132.653,59.389,132.653,132.648s-59.396,132.653-132.653,132.653
+			c-41.486,0-78.52-19.053-102.844-48.868"/>
+		<g>
+			<text transform="matrix(1 0 0 1 2960.8174 2039.7432)" fill="#403F41" font-family="'MicrosoftYaHei'" font-size="41.1672">本月</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 3002.7197 1832.1699)" fill="#036EB8" font-family="'AgencyFB-Bold'" font-size="68.6121">99%</text>
+		</g>
+		<text transform="matrix(1 0 0 1 3002.7197 1907.2109)" fill="#0075D8" font-family="'AgencyFB-Bold'" font-size="68.6121">9999</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 2722.2666 1651.7207)"><tspan x="0" y="0" fill="#00A29A" font-family="'AgencyFB-Bold'" font-size="70">9999.99</tspan><tspan x="206.479" y="0" opacity="0.9" fill="#0075D8" font-family="'AgencyFB-Bold'" font-size="70">/9999.99</tspan></text>
+	</g>
+</g>
+<g id="guzhangtingjicishu">
+	
+		<rect x="3210.828" y="874.335" fill="none" stroke="#004E93" stroke-width="0.25" stroke-miterlimit="10" width="580" height="297"/>
+	<g id="guzhangshijian_2_">
+		<g>
+			<g>
+				<text transform="matrix(1 0 0 1 3669.8115 1124.8564)" fill="#403F41" font-family="'MicrosoftYaHei'" font-size="36">次</text>
+			</g>
+			<g>
+				<text transform="matrix(1 0 0 1 3470.9072 1127.2549)" fill="#A40B5D" font-family="'AgencyFB-Bold'" font-size="70">99999</text>
+			</g>
+			<g>
+				<text transform="matrix(1 0 0 1 3293.1563 1121.5557)" fill="#403F41" font-family="'MicrosoftYaHei'" font-size="36">本月</text>
+			</g>
+		</g>
+		<g>
+			<g>
+				<text transform="matrix(1 0 0 1 3669.8535 1046.0771)" fill="#403F41" font-family="'MicrosoftYaHei'" font-size="36">次</text>
+			</g>
+			<g>
+				<text transform="matrix(1 0 0 1 3518.3867 1052.6768)" fill="#A40B5D" font-family="'AgencyFB-Bold'" font-size="70">999</text>
+			</g>
+			<g>
+				<text transform="matrix(1 0 0 1 3293.1563 1046.0771)" fill="#403F41" font-family="'MicrosoftYaHei'" font-size="36">当日</text>
+			</g>
+		</g>
+	</g>
+	
+		<rect x="3211.024" y="874.335" fill="#D9F0FF" stroke="#004E93" stroke-width="0.25" stroke-miterlimit="10" width="579.218" height="96"/>
+	<g>
+		<text transform="matrix(1 0 0 1 3321.2549 938.769)" fill="#004E93" font-family="'MicrosoftYaHei-Bold'" font-size="42">故障停机次数</text>
+	</g>
+	<rect x="3245.76" y="903.914" fill="#004E93" width="36" height="36"/>
+</g>
+<g id="jixiao">
+	
+		<rect x="3210.828" y="1196.594" fill="none" stroke="#004E93" stroke-width="0.25" stroke-miterlimit="10" width="580" height="291"/>
+	<g id="wanbanjixiao_1_">
+		<g>
+			<text transform="matrix(1 0 0 1 3498.4492 1467.2969)"><tspan x="0" y="0" fill="#00A29A" font-family="'AgencyFB-Bold'" font-size="70">80 </tspan><tspan x="79.946" y="0" opacity="0.9" fill="#0075D8" font-family="'AgencyFB-Bold'" font-size="70">/100</tspan></text>
+		</g>
+		<g>
+			<g>
+				<path fill="#331E90" d="M3331.357,1468.031c-2.75,0-5-2.25-5-5v-43.119c0-2.75,2.25-5,5-5h89.446c2.75,0,5,2.25,5,5v43.119
+					c0,2.75-2.25,5-5,5H3331.357z"/>
+			</g>
+			<g>
+				<text transform="matrix(0.9 0 0 1 3344.6035 1451.7188)" fill="#FFFFFF" font-family="'MicrosoftYaHei-Bold'" font-size="33.6">晚班</text>
+			</g>
+		</g>
+	</g>
+	<g id="zaobanjixiao_1_">
+		<g>
+			<text transform="matrix(1 0 0 1 3498.4492 1362.4473)"><tspan x="0" y="0" fill="#00A29A" font-family="'AgencyFB-Bold'" font-size="70">80 </tspan><tspan x="79.946" y="0" opacity="0.9" fill="#0075D8" font-family="'AgencyFB-Bold'" font-size="70">/100</tspan></text>
+		</g>
+		<g>
+			<g>
+				<path fill="#F4A017" d="M3331.357,1364.771c-2.75,0-5-2.25-5-5V1319.6c0-2.75,2.25-5,5-5h89.445c2.75,0,5,2.25,5,5v40.172
+					c0,2.75-2.25,5-5,5H3331.357z"/>
+			</g>
+			<g>
+				<text transform="matrix(0.9 0 0 1 3343.6035 1350.4531)" fill="#FFFFFF" font-family="'MicrosoftYaHei-Bold'" font-size="36">早班</text>
+			</g>
+		</g>
+	</g>
+	
+		<rect x="3211.696" y="1195.857" fill="#D9F0FF" stroke="#004E93" stroke-width="0.25" stroke-miterlimit="10" width="578.264" height="95"/>
+	<g>
+		<text transform="matrix(1 0 0 1 3348.6172 1261.6309)" fill="#004E93" font-family="'MicrosoftYaHei-Bold'" font-size="42">绩效</text>
+	</g>
+	<rect x="3287.133" y="1230.699" fill="#004E93" width="36" height="36"/>
+	
+		<line fill="none" stroke="#D0D2D3" stroke-width="2" stroke-miterlimit="10" x1="3282.438" y1="1391.258" x2="3760.762" y2="1391.258"/>
+</g>
+<g id="anniu">
+	<g id="jizuyuebao_1_">
+		<rect x="3210.832" y="1947.158" fill="#00C5AA" width="580" height="190"/>
+		<g>
+			<text transform="matrix(1 0 0 1 3414.4346 2103.0791)" fill="#FFFFFF" font-family="'MicrosoftYaHei-Bold'" font-size="42">机组月报</text>
+		</g>
+		<path fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" d="M3438.732,1978.939h101.707
+			c-0.688,1.934-1.361,3.863-2.023,5.797h-96.998v56.191h112.088v-23.727c1.111-2.656,2.189-5.34,3.225-8.023l0.043,0.023
+			l1.586-4.313l0.189-0.535c0.115,0.02,0.232,0.055,0.348,0.07v39.402v2.891h-2.691h-117.473h-2.701v-2.891v-61.992v-2.895H3438.732
+			L3438.732,1978.939z M3449.648,2014.439v4.285h54.184v-4.285H3449.648L3449.648,2014.439z M3449.648,2002.256v4.289h73.504v-4.289
+			H3449.648L3449.648,2002.256z M3449.648,1990.084v4.281h73.504v-4.281H3449.648L3449.648,1990.084z M3561.732,1975.799
+			c0.473-1.742,0.793-3.375,0.975-4.84l3.375,1.309c-2.424,5.145-9.537,20.488-8.965,22.379c0.846,2.762,3.182,2.723,3.182,2.723
+			l0.639-3.422c0,0-0.738,0.094-0.871-0.332c-0.264-0.898,9.541-21.477,9.564-21.531l0.801-1.672l-1.641-0.652l-5.906-2.281
+			c-0.283-9.965-8.498-10.195-13.963,3.527c-3.24,8.117-6.023,16.215-8.461,24.297l13.377,5.176
+			C3556.773,1992.482,3559.412,1984.26,3561.732,1975.799L3561.732,1975.799z M3535.141,2017.025l-2.975,3.879l1.531,10.297
+			l1.35,0.516l2.092-6.246c-0.674-0.555-0.957-1.547-0.652-2.449c0.381-1.145,1.551-1.73,2.604-1.316
+			c1.057,0.41,1.596,1.66,1.221,2.797c-0.305,0.895-1.104,1.465-1.955,1.449l-2.09,6.254l1.432,0.543l6.998-6.445l0.283-5.461
+			L3535.141,2017.025L3535.141,2017.025z M3553.141,2002.377l-13.254-5.121c-1.771,5.988-3.346,11.984-4.783,17.953
+			c3.682,1.43,7.361,2.855,11.057,4.289C3548.635,2013.904,3550.965,2008.201,3553.141,2002.377L3553.141,2002.377z
+			 M3494.453,2032.619l2.137,3.078c0.023-0.016,8.672-9.629,8.604-8.254c-0.025,0.48-0.873,1.457-1.613,2.266
+			c-0.932,1.063-1.742,1.973-1.789,3.184c-0.045,1.605,0.818,2.57,3.223,2.668c2.063,0.063,4.053-0.625,5.867-1.266
+			c1.359-0.465,2.578-0.898,3.178-0.852c0.232,0.77,0.832,1.199,1.738,1.344c0.865,0.156,1.84-0.238,2.9-0.66l0.529-0.215
+			l-0.066,0.313h-0.01c-0.416,1.898-0.699,3.168-0.334,4.223c0.563,1.59,1.604,2.016,3.459,1.262
+			c1.453-0.574,5.164-0.055,5.18-0.055l0.418-3.832c0,0-2.984-0.438-5.365-0.086c0.047-0.176,0.086-0.387,0.143-0.609h-0.01
+			c0.115-0.512,0.236-1.07,0.361-1.66c0.465-2.277-0.34-3.348-1.844-3.691c-1.146-0.289-2.48,0.25-3.711,0.75
+			c-0.223,0.078-0.424,0.176-0.588,0.246c-1.848-1.969-4.289-1.117-7.098-0.141c-0.918,0.328-1.893,0.676-2.83,0.867
+			c0.916-1.09,1.762-2.355,1.842-3.855C3509.123,2020.646,3494.494,2032.596,3494.453,2032.619z"/>
+	</g>
+	<g id="meirixinxi_1_">
+		<rect x="3210.832" y="1728.008" fill="#20B73A" width="580" height="190"/>
+		<g>
+			<text transform="matrix(1 0 0 1 3414.4346 1892.6348)" fill="#FFFFFF" font-family="'MicrosoftYaHei-Bold'" font-size="42">每日信息</text>
+		</g>
+		<g>
+			<path fill="#FFFFFF" d="M3432.707,1751.648v72.105h5.885l13.922,14.078l13.922-14.078h100.648v-72.105H3432.707z
+				 M3562.891,1819.512h-98.197l-1.229,1.238l-10.951,11.082l-12.186-12.32h-3.424v-63.629h125.986V1819.512z"/>
+			<rect x="3450.32" y="1770.633" fill="#FFFFFF" width="99.146" height="4.246"/>
+			<rect x="3450.32" y="1785.266" fill="#FFFFFF" width="99.146" height="4.246"/>
+			<rect x="3450.32" y="1799.891" fill="#FFFFFF" width="76.348" height="4.242"/>
+			<path d="M3526.668,1799.891"/>
+			<rect x="3432.725" y="1751.559" fill="none" width="134.383" height="86.398"/>
+		</g>
+	</g>
+	<g id="banzurenshu_1_">
+		<rect x="3210.832" y="1508.857" fill="#0087F2" width="580" height="190"/>
+		<g>
+			<text transform="matrix(1 0 0 1 3371.2354 1666.9082)" fill="#FFFFFF" font-family="'MicrosoftYaHei-Bold'" font-size="42">当前班组人数</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 3368.501 1604.8555)"><tspan x="0" y="0" fill="#FFFF00" font-family="'AgencyFB-Bold'" font-size="90">89</tspan><tspan x="83.716" y="0" fill="#FFFFFF" font-family="'AgencyFB-Bold'" font-size="90"> / 100</tspan></text>
+		</g>
+	</g>
+</g>
+</svg>

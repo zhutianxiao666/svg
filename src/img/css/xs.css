@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'AgencyFB-Reg';
+    src: url("AGENCYR.TTF");
+}
+@font-face {
+    font-family: 'AgencyFB-Bold';
+    src: url("AGENCYB.TTF");
+}
+@keyframes move {
+    from {
+        transform: translateX(0);
+    }
+    to {
+        transform: translateX(-100%);
+    }
+}
+
+
+

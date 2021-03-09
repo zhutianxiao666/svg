@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="../css/xs.css">
+    <script src="../jquery-3.4.1.js"></script>
+    <style>
+        * {
+            padding: 0;
+            margin: 0;
+        }
+        table {
+            border-collapse: collapse;
+        }
+    </style>
+</head>
+<body>
+
+<svg width="3000" height="2000">
+    <foreignObject height="200" width="500" fill="orange">
+        <ul style="height: 200px;overflow-y: auto">
+            <li style="display: flex;border-bottom: 1px solid #004E93;fill: #DBEFFF"></li>
+            <li>1</li>
+            <li>2</li>
+            <li>3</li>
+            <li>4</li>
+            <li>5</li>
+            <li>1</li>
+            <li>2</li>
+            <li>3</li>
+            <li>4</li>
+            <li>5</li>
+        </ul>
+    </foreignObject>
+    
+</svg>
+<script>
+    var $svg = $('svg');
+    // 字体居中
+    const textCenter = function ($ele) {
+        $ele.attr('x',$ele.attr('x') - $ele[0].getBBox().width / 2)
+    }
+    const zhuZhuangTu = function (obj) {
+        obj.margin = obj.margin || 0.3;
+        const length1 = obj.order1.length ;                             // 分类1
+        const length2 = obj.order2.length ;                             // 分类2
+        const width = obj.width / ( length1 + obj.margin);              // 每个分取的宽度（包含左右边距）
+        const width1 = width * (1 - obj.margin);                        // 区域宽度（不包含左右边距）
+        const width2 = width1 * ( length2 > 1 ? 0.7 : 1 ) / length2  ;  // 柱子的实际宽度
+        const margin1 = width * obj.margin ;                            // 大边距
+        const margin2 = length2 >1 ? width1 * 0.3 / (length2 - 1) : 0;  // 小边距
+        const list = [];
+        obj.data.forEach(value => {
+            list.push(...value);
+        });
+        const max = Math.max(...list);
+        // 循环数组
+        const rectArr = [];
+        obj.data.forEach((value , index) => {
+            let str = '<g>';
+            value.forEach((value1 , index1) => {
+                str += `<g>
+                            <rect x="${obj.x + index  * width + margin1 + index1 * width2 + index1 * margin2}" y="${obj.y - value1 / max * obj.height}" width="${width2}" height="${value1 / max * obj.height}" fill="${obj.color[index1]}" >
+                            </rect>
+                            <text x="${obj.x + index  * width + margin1 + index1 * width2 + index1 * margin2 + width2 / 2}" y="${obj.y - value1 / max * obj.height - 10 }" font-size="28.8" style="font-family: 'AgencyFB-Reg'">${Number(value1).toFixed(2)}</text>
+                   </g>`;
+            });
+            str += `
+            <g>
+                <rect x="${margin1 + index * width +obj.x}" y="${obj.textY - 48  }" width="${width1}" height="50" fill="#036EB8" ></rect>
+                <text x="${margin1 + width1 / 2 + index * width + obj.x}" y="${obj.textY }" font-family="AgencyFB-Reg" font-size="48" fill="white">${obj.order1[index]}</text>
+            </g>
+        </g>`;
+            rectArr.push(str);
+        });
+        $svg.find('#' + obj.id).html(rectArr.join(''));
+        $svg.find('#' + obj.id + ' text').each((index ,value ) => {
+            textCenter($(value))
+        });
+    };
+    zhuZhuangTu({
+        x:100,
+        y:1500,
+        width:1200,
+        height:800,
+        data: [
+            [2,2,3],
+            [3,4,5],
+            [2,3,1]
+        ],
+        color: [
+            '#036EB8','#2EA7E0','#9FA0A0'
+        ],
+        order1: [
+            'Q1','Q2','Q3'
+        ],
+        order2:[
+            'a1','a2','a3'
+        ],
+        id:'demo',
+        margin: 0.3,
+        textY: 1560
+    })
+</script>
+
+
+
+
+</body>
+</html>

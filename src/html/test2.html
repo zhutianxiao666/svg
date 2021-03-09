@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="../jquery-3.4.1.js"></script>
+    <style>
+    </style>
+</head>
+<body>
+<div>
+    <svg width="500" height="500">
+        <defs>
+            <rect id="demo2" x="100" y="100" width="120" height="120"></rect>
+        </defs>
+        <clipPath id="demo">
+            <rect id="demo2" x="100" y="100" width="120" height="120"></rect>
+        </clipPath>
+        <path d="M100,100 l200,200 v -100 h-200" clip-path="url(#demo)" fill="yellow" stroke="orange" stroke-width="2"></path>
+        <path d="M"></path>
+    </svg>
+</div>
+
+</body>
+</html>
