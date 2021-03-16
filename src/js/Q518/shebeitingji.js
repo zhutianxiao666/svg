@@ -5,6 +5,7 @@ import {getUnitCode} from "../common/common";
 import jiangsu from "@/js/Q518/shebei/jiangsu";
 
 export default function () {
+    const unit_code= getUnitCode('Q518');
     // 停机次数
     changeText({$ele:'#zhengtitingjicishu',reportName:'report1',tdId:'A43',length:0,type:'number'});
     // 停机时间
@@ -32,7 +33,7 @@ id||'Q_Q'||
 spare_time_1||'-*-' as 明细
 FROM ttmsij4ps
 WHERE SUBSTR(SD_DATE,1,6) = to_char(current date,'yyyymm')
-AND UNIT_CODE = '${getUnitCode() || 'Q518'}'
+AND UNIT_CODE = '${unit_code}'
 AND SD_DESCRIPTION = '成品卷停机'`,
             order:[1,1,1,1,1,1,1,1,1,1,1],
             title:['机组代码','停机开始','停机结束','小计','简述','原因简述','停机类型','停机时间','专业属性','序号','备用时间'],
@@ -43,6 +44,7 @@ AND SD_DESCRIPTION = '成品卷停机'`,
     $svg.find('#tingji .mingxi').click(function () {
         mingxi({
             system:'DBPRODE7',
+            // AND A.LEVEL = '5'
             sqlStr:`
 select 
 A.MAT_NO ||'Q_Q'|| 
@@ -51,9 +53,10 @@ B.SG_SIGN ||'Q_Q'||
 DECODE(B.SHIFT_GROUP,'A','甲','B','乙','C','丙','D','丁') ||'Q_Q'||
 DECODE(B.SHIFT_NO,'2','白班','1','夜班','') ||'-*-' item 
 from IMSIJ4.TIMSIJ4LG A,MMSIJ4.TMMSIJ402 B 
-where A.JUDGE_RULE_CODE = 'Q518001_A0' 
+where (A.JUDGE_RULE_CODE = 'Q518001_G1-1' or  A.JUDGE_RULE_CODE = 'Q518001_A0')
 AND A.RESULT_CODE='0' 
-AND A.UNIT_CODE = '${getUnitCode('Q518')}' 
+AND A.LEVEL = '5'
+AND A.UNIT_CODE = '${unit_code}' 
 AND A.MAT_NO = B.OUT_MAT_NO 
 AND A.UNIT_CODE = B.UNIT_CODE 
 AND B.PROD_END_TIME > to_char(last_day(sysdate - 1 month),'yyyymmdd' )||'220000'`,

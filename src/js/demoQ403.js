@@ -5,8 +5,8 @@ import chengcailv from "./Q403/chengcailv";
 import kucun from "./Q403/kucun";
 import quality from './Q403/quality';
 import nenghao from "./Q403/nenghao";
-import tingji from "@/js/Q403/tingji";
-import jixiao from './Q403/jixiao'
+import tingji from "./Q403/tingji";
+import meirixinxi from './Q403/meirixinxi'
 
 (function () {
     // 初始化svg宽高
@@ -24,9 +24,8 @@ import jixiao from './Q403/jixiao'
         nenghao();
         // 停机
         tingji();
-        // 绩效
-        jixiao();
+        // 每日信息
+        meirixinxi();
 
     },1000);
-
 })();

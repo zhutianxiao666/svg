@@ -552,7 +552,7 @@
 	</g>
 	<rect x="76.001" y="901.93" fill="#004E93" width="36" height="35.999"/>
 </g>
-<g id="dungangnenghao">
+<g id="dungangnenghao" class="hover">
 	
 		<rect x="2173.23" y="870.514" fill="none" stroke="#004E93" stroke-width="0.25" stroke-miterlimit="10" width="1020" height="437"/>
 	<g id="wanbannenghao">
@@ -643,14 +643,38 @@
 		<rect x="2173.23" y="1326.396" fill="none" stroke="#004E93" stroke-width="0.25" stroke-miterlimit="10" width="1020" height="269"/>
 	<g id="tianranqizhengqi_1_">
 		<g>
-			<g>
+			<!-- <g>
 				<text x="3004.791" y="1554.2236" class="num" data-index="1" fill="#231815" font-family="'AgencyFB-Reg'" font-size="48">9999.99</text>
 			</g>
-			<rect class="rect" data-index="1" x="2237.791" y="1520.304" fill="#00A29A" width="726.242" height="36"/>
 			<g>
 				<text x="2666.2305" y="1493.3271" class="num" data-index="0" fill="#231815" font-family="'AgencyFB-Reg'" font-size="48">999.99</text>
+			</g> -->
+			<g>
+				<text class="num" data-index="1" order="0" x="3004.791" y="1554.2236" fill="#00A29A" font-family="'AgencyFB-Reg'" font-size="32">9999.99</text>
+				<text class="num" data-index="1" order="1" x="3094.791" y="1554.2236" fill="#0075D8" font-family="'AgencyFB-Reg'" font-size="32">9999.99</text>
 			</g>
-			<rect class="rect" data-index="0" x="2237.791" y="1460.896" fill="#0075D8" width="375.438" height="36"/>
+			<g>
+				<text class="num" data-index="0" order="0" x="2666.2305" y="1493.3271" fill="#00A29A" font-family="'AgencyFB-Reg'" font-size="32">999.99</text>
+				<text class="num" data-index="0" order="1" x="2756.2305" y="1493.3271" fill="#0075D8" font-family="'AgencyFB-Reg'" font-size="32">999.99</text>
+			</g>
+			<!-- <rect class="rect" data-index="1" x="2337.791" y="1520.304" fill="#00A29A" width="626.242" height="36"/>
+			<rect class="rect" data-index="0" x="2337.791" y="1460.896" fill="#0075D8" width="275.438" height="36"/> -->
+			<rect class="rect" data-index="1" order="0" x="2337.791" y="1520.304" fill="#00A29A" width="198.341" height="39.602"/>
+			<rect class="rect" data-index="1" order="1" x="2536.132" y="1520.304" fill="#0075D8" width="427.901" height="39.602"/>
+			<rect class="rect" data-index="0" order="0" x="2337.791" y="1460.896" fill="#00A29A" width="151.964" height="39.601"/>
+			<rect class="rect" data-index="0" order="1" x="2489.755" y="1460.896" fill="#0075D8" width="123.474" height="39.602"/>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 2193.5356 1552.408)" >
+				<tspan fill="#403F41" font-family="'MicrosoftYaHei'" font-size="29.6006">蒸汽</tspan>
+				<tspan fill="#595757" font-family="'MicrosoftYaHei'" font-size="24">(t)</tspan>
+			</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 2193.5356 1493)" >
+				<tspan fill="#403F41" font-family="'MicrosoftYaHei'" font-size="29.6006">天然气</tspan>
+				<tspan fill="#595757" font-family="'MicrosoftYaHei'" font-size="24">(km³)</tspan>
+			</text>
 		</g>
 	</g>
 	
@@ -664,7 +688,7 @@
 	</g>
 	<rect x="3061.388" y="1371.169" fill="#00A29A" width="19.199" height="19.199"/>
 	<g>
-		<text transform="matrix(1 0 0 1 2259.7764 1392.9326)" fill="#004E93" font-family="'MicrosoftYaHei-Bold'" font-size="42">天燃气蒸汽</text>
+		<text transform="matrix(1 0 0 1 2259.7764 1392.9326)" fill="#004E93" font-family="'MicrosoftYaHei-Bold'" font-size="42">天然气蒸汽</text>
 	</g>
 	<rect x="2204.294" y="1359.602" fill="#004E93" width="36" height="35.999"/>
 </g>

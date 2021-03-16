@@ -1,10 +1,9 @@
 
 import {getData, getTd} from "../common/common";
 import {doubleArc} from "../common/myechars";
-import {$svg} from "@/js/common/init";
+import {$svg} from "../common/init";
 export default function () {
     // 早班
-    console.log($svg.find('#zaobanchengcailv'),'早班');
     doubleArc({
         rIn:158.607,
         rOut:194.271,
@@ -19,7 +18,6 @@ export default function () {
         length:2
     })
     // 晚班
-    console.log($svg.find('#wanbanchengcailv'),'晚班');
     doubleArc({
         rIn:158.607,
         rOut:194.271,

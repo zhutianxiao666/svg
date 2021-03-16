@@ -39,14 +39,14 @@ export default function () {
         if ($(this).attr('data-index') == 'left') {
             mingxi({
                 system:'DBPRODE7',
-                sqlStr:`select  plan_no||'Q_Q'||out_mat_no||'Q_Q'||hold_code||'Q_Q'||hold_defect||'Q_Q'||other_defect||'-*-' as 生产质量  from IMSIJ4.TIMSIJ4GC where PRE_UNIT_CODE='${getUnitCode() || 'Q314'}'`,
+                sqlStr:`select  plan_no||'Q_Q'||out_mat_no||'Q_Q'||hold_code||'Q_Q'||hold_defect||'Q_Q'||other_defect||'-*-' as 生产质量  from IMSIJ4.TIMSIJ4GC where PRE_UNIT_CODE='${getUnitCode('Q314')}' and unit_code = ' '`,
                 order:[1,1,1,2,2],
                 title:["作业计划号","出口材料号","封锁代码","封闭缺陷","其他缺陷"],
                 width:100});
         }else if ($(this).attr('data-index') == 'right') {
             mingxi({
                 system:'DBPRODE7',
-                sqlStr:`select  plan_no||'Q_Q'||in_mat_no||'Q_Q'||hold_code||'Q_Q'||hold_defect||'Q_Q'||other_defect||'-*-' as 生产质量  from IMSIJ4.TIMSIJ4GC where PRE_UNIT_CODE='${getUnitCode() || 'Q314'}'`,
+                sqlStr:`select  plan_no||'Q_Q'||in_mat_no||'Q_Q'||hold_code||'Q_Q'||hold_defect||'Q_Q'||other_defect||'-*-' as 生产质量  from IMSIJ4.TIMSIJ4GC where UNIT_CODE='${getUnitCode('Q314')}'`,
                 order:[1,1,1,2,2],
                 title:["作业计划号","入口材料号","封锁代码","封闭缺陷","其他缺陷"],
                 width:100});
@@ -86,9 +86,11 @@ from
    UNION 
    (SELECT A.MAT_NO,A.SMP_POS,A.TEST_TIMES,A.COAT_THICK_TD,A.COAT_THICK_TC,A.COAT_THICK_TW,A.COAT_THICK_TA,A.COAT_THICK_BD,A.COAT_THICK_BC,A.COAT_THICK_BW,A.COAT_THICK_BA FROM TCMRS11 A,TMMQ314 B,TMMQ175 C 
     WHERE A.MAT_NO = C.OUT_MAT_NO
-      AND C.MAT_TRACK_NO = B.MAT_TRACK_NO
-      AND B.PROD_END_TIME >= to_char(current date - 30 days,'yyyymmdd')||'00000'
-      AND B.PROD_END_TIME <= to_char(current date,'yyyymmdd')||'00000'))`,
+AND C.MAT_TRACK_NO = B.MAT_TRACK_NO
+AND B.PROD_END_TIME >= to_char(current date - 30 days,'yyyymmdd')||'00000'
+AND B.PROD_END_TIME <= to_char(current date,'yyyymmdd')||'00000'))
+where SMP_POS >0 or  COAT_THICK_TD >0 or COAT_THICK_TC >0 or COAT_THICK_TW >0 or COAT_THICK_TA >0 or COAT_THICK_BD >0 or COAT_THICK_BC >0 or COAT_THICK_BW >0 or COAT_THICK_BA > 0
+      `,
                 title: ['材料号','取样位置(实绩)','试验次数','涂层厚度(TD)','涂层厚度(TC)','涂层厚度(TW)','涂层厚度(TA)','涂层厚度(BD)','涂层厚度(BC)','涂层厚度(BW)','涂层厚度(BA)'],
                 width: 150
             });

@@ -15,12 +15,21 @@ let times = 0;
 const width = $('#changeText')[0].getBBox().width;
 let timer = setInterval(function () {
     times++;
-    if (width != $('#changeText')[0].getBBox().width || times > 50) {
+    if (width != $('#changeText')[0].getBBox().width || times > 20) {
         clearInterval(timer);
         // 生产
-        production();
+        try{
+            production();
+        }catch (e) {
+            console.log(e.message);
+        };
         // 成材率
-        chengcailv();
+        try {
+            chengcailv();
+        }catch (e) {
+            console.log(e.message);
+        }
+
         // 库存
         kucun();
         // 质量
@@ -33,8 +42,7 @@ let timer = setInterval(function () {
         meirixinxi();
         // 现实内容
         showSvg();
-
     };
-},10);
+},30);
 
 

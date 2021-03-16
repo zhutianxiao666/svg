@@ -6,39 +6,40 @@
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Document</title>
-    <script src="../jquery-3.4.1.js"></script>
     <style>
-        ul {
-            display: grid;
-            /*grid-template-rows: repeat(4,auto);*/
-            grid-template-columns: repeat(3,auto);
-            width: 300px;
-            height: 400px;
-            list-style-type: none;
+        * {
+            margin: 0;
+            padding: 0;
         }
-        li {
-            box-sizing: border-box;
-            border: 1px solid;
-            border-color: yellow blue;
-            border-width: 0 1px 2px 3px;
-
-            word-break: break-all;
+        html,
+        body {
+            height: 100%;
+            width: 100%;
+        }
+        .content {
+            width: 500%;
+            height: 500%;
+        }
+        .left,
+        .right {
+            float: left;
+            font-size: 12px;
+            width: 50%;
+            background-color: #9a6e3a;
+        }
+        .right {
+            background-color: #55a532;
+        }
+        .change {
+            transform: scale(0.2);
+            transform-origin: top left;
         }
     </style>
-
-
 </head>
 <body>
-
-<div>
-
-    <p>aaa</p>
+<div class="content change">
+    <div class="left">left</div>
+    <div class="right">right</div>
 </div>
-<script>
-    $(function () {
-        $('div').append($('<button class="hover">点击</button>'));
-        console.log($('button').hasClass('hover'));
-    })
-</script>
 </body>
 </html>

@@ -297,8 +297,11 @@ const tiaoXingDuiJi = function (obj) {
     })
     // 求最大值
     const max = Math.max(...obj.total) == 0 ? 100 : Math.max(...obj.total);
+    console.log(max);
     // 循环数组渲染数据
     obj.data.forEach((value,index) => {
+        // 控制柱子x坐标
+        $ele.find(`.rect[data-index="${index}"][order="0"]`).attr('x',obj.x);
         // 控制柱子宽度
         $ele.find(`.rect[data-index="${index}"][order="0"]`).attr('width',value[0] / max * obj.width);
         $ele.find(`.rect[data-index="${index}"][order="1"]`).attr('x',($ele.find(`.rect[data-index="${index}"][order="0"]`).attr('x') * 1 + value[0] / max * obj.width));
@@ -324,7 +327,6 @@ const tiaoXingDuiJi = function (obj) {
             case 'D':
                 str = '丁';
                 break;
-
         };
         $ele.find('.shift_group').text(str);
     }

@@ -21,19 +21,16 @@
     text-align: center;
     position: sticky;
     top: 0;
-    font-size: 1.5rem;
+    font-size: 1.2rem;
     font-weight: bold;
     background-color:rgb(218,228,240) !important;
     color: rgb(3,81,150);
 }
 #content .main>li>span {
     flex: 1;
-
     padding: 2px 0 2px 5px;
     word-break: break-all !important;
 }
 #content .main>li>span:not(:first-child) {
     border-left: rgb(0, 102, 153) 1px solid;
 }
-
-

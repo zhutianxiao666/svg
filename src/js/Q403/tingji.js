@@ -1,18 +1,18 @@
-import {getTd, getUnitCode, textCenter} from "@/js/common/common";
-import {$svg} from "@/js/common/init";
-import mingxi from "@/js/common/mingxi";
+import {getTd, getUnitCode, textCenter} from "../common/common";
+import {$svg} from "../common/init";
+import mingxi from "../common/mingxi";
 
 export default function () {
     // 整体
     const zhengtitimes = getTd('report1','B37').text();
     const zhengtitotal = getTd('report1','C37').text();
-    textCenter($svg.find('#zhengtitingji_times').text(Number(zhengtitimes)));
-    textCenter($svg.find('#zhengtitingji_total').text(Number(zhengtitotal)));
+    $svg.find('#zhengtitingji_times').text(Number(zhengtitimes));
+    $svg.find('#zhengtitingji_total').text(Number(zhengtitotal));
     // 故障
     const guzhangtimes = getTd('report1','B37').text();
     const guzhangtotal = getTd('report1','C37').text();
-    textCenter($svg.find('#guzhangtingji_times').text(Number(guzhangtimes)));
-    textCenter($svg.find('#guzhangtingji_total').text(Number(guzhangtotal)));
+    $svg.find('#guzhangtingji_times').text(Number(guzhangtimes));
+    $svg.find('#guzhangtingji_total').text(Number(guzhangtotal));
     // 停机明细
     $svg.find('#tingji .mingxi').click(function () {
         mingxi({

@@ -1,7 +1,7 @@
 import { doubleArc, table} from "../common/myechars";
 import {getArr, getTd, getUnitCode} from "../common/common";
 import {$svg} from "../common/init";
-import mingxi from "@/js/common/mingxi";
+import mingxi from "../common/mingxi";
 
 export default function () {
     // 缺陷改判率
@@ -97,7 +97,7 @@ export default function () {
     $svg.find('#yichangtixing .mingxi').click(function () {
         mingxi({
             system:'DBPRODE7',
-            sqlStr:`select plan_no||'Q_Q'||in_mat_no||'Q_Q'||out_mat_no||'Q_Q'||hold_code||'Q_Q'||hold_defect||'Q_Q'||other_defect||'-*-' as 来料异常  from IMSIJ4.TIMSIJ4GC where UNIT_CODE='${getUnitCode('Q403')}'`,
+            sqlStr:`select plan_no||'Q_Q'||in_mat_no||'Q_Q'||out_mat_no||'Q_Q'||hold_code||'Q_Q'||hold_defect||'Q_Q'||other_defect||'-*-' as 来料异常  from IMSIJ4.TIMSIJ4GC where UNIT_CODE='${getUnitCode('Q403')}' order by plan_no desc,mat_seq_no `,
             order:[1,1,1,1,2,2],
             title:["作业计划号","入口材料号","出口材料号","封锁代码","封闭缺陷","其他缺陷"],
             width:100});

@@ -1,3 +1,2 @@
-import {getUnitCode} from "@/js/common/common";
-
-FR.doHyperlink(event||window.event, [{"data":`var as=arguments; return FR.tc(function(){FR.doHyperlinkByGet4Reportlet({"url":"/webroot/decision/view/form?viewlet=%252F%25E7%25A1%2585%25E9%2592%25A2%252F%25E5%25BC%25B9%25E5%2587%25BA%25E6%2598%258E%25E7%25BB%2586%252F%25E8%25BD%25A7%25E8%25BE%258A%25E8%25B6%258B%25E5%258A%25BF.frm","para":{"__pi__":true,"unit_code":"${getUnitCode('Q402')}","RLTY":"一中间"},"target":"_dialog","feature":{"width":1500,"height":800,"isCenter":true,"title":""},"title":"网络报表1"})}, this, as)`,"name":"网络报表1"}], true)
+$svg.find('#shengchan .num1').text(Number(100.10675).toFixed(1));
+textCenter($svg.find('#shengchan .num1'))

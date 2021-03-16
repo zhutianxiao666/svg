@@ -8,7 +8,7 @@ export default function () {
         id:'zaobannenghao_2_',
         data:[getData('report1','B63'),getData('report1','C63')],
         width:461.277,
-        shift_group:'A'
+        shift_group:getData('report1','D63')
     });
     // 晚班
     tiaoXinTu({
@@ -16,6 +16,6 @@ export default function () {
         id:'wanbannenghao_2_',
         data:[getData('report1','B64'),getData('report1','C64')],
         width:461.277,
-        shift_group:'B'
+        shift_group:getData('report1','D64')
     })
 }

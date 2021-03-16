@@ -145,6 +145,4 @@ export default function () {
         titles: ['作业计划号','计划通知单号'],
         order: [1,1]
     });
-
 }
-Math.random()
