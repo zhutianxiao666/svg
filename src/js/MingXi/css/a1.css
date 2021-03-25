@@ -27,7 +27,7 @@
     color: rgb(3,81,150);
 }
 #content .main>li>span {
-    flex: 1;
+    /*flex: 1;*/
     padding: 2px 0 2px 5px;
     word-break: break-all !important;
 }

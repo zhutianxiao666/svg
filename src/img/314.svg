@@ -268,7 +268,7 @@
 	</g>
 	</g>
 	<g id="chaoqiyichangtixing">
-		
+
 			<rect x="2825.438" y="198.737" fill="none" stroke="#004E93" stroke-width="0.25" stroke-miterlimit="10" width="910.001" height="592.899"/>
 		
 			<rect x="2833.821" y="293.788" fill="none" stroke="#004E93" stroke-width="0.25" stroke-miterlimit="10" width="890.001" height="471.655"/>
@@ -306,7 +306,7 @@
 		</g>
 		
 			<rect x="2825.438" y="198.737" fill="#D9F0FF" stroke="#004E93" stroke-width="0.25" stroke-miterlimit="10" width="910.001" height="70"/>
-		<g style="visibility: hidden">
+		<g class="mingxi hover">
 			<text transform="matrix(1.0532 0 0 1 3605.7646 249.4121)" fill="#0075D8" font-family="'MicrosoftYaHei'" font-size="36">明细</text>
 			<path fill="none" stroke="#0075D8" stroke-miterlimit="10" d="M3714.662,256.522c0,1.782-1.268,3.227-2.832,3.227h-144.338
 				c-1.563,0-2.83-1.444-2.83-3.227v-43.547c0-1.782,1.268-3.227,2.83-3.227h144.338c1.564,0,2.832,1.444,2.832,3.227V256.522z"/>
@@ -634,7 +634,7 @@
 		</g>
 	</g>
 </g>
-<g id="nenghao">
+<g id="nenghao" class="hover">
 	
 		<rect x="2173.23" y="867.612" fill="none" stroke="#004E93" stroke-width="0.25" stroke-miterlimit="10" width="1020" height="575"/>
 	<g id="wanbannenghao_2_">
@@ -775,7 +775,7 @@
 <g id="tingji">
 	
 		<rect x="2173.23" y="1471.857" fill="none" stroke="#004E93" stroke-width="0.25" stroke-miterlimit="10" width="1020" height="630"/>
-	<g id="guzhangshijian_1_">
+	<g id="guzhangshijian_1_" class="hover">
 		<path fill="#FFC9CB" stroke="#A40B5D" stroke-width="0.25" stroke-miterlimit="10" d="M3129.994,1982.791
 			c0,13.811-11.631,25-25.979,25h-328.049c-14.348,0-25.973-11.189-25.973-25l0,0c0-13.803,11.625-25,25.973-25h328.049
 			C3118.363,1957.791,3129.994,1968.988,3129.994,1982.791L3129.994,1982.791z"/>

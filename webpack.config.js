@@ -1,13 +1,13 @@
 const path = require('path');
-// const htmlwebpack = require('html-webpack-plugin');
-// const html = new htmlwebpack({
-//     template: path.resolve(__dirname,'src','html','test.html'),
-//     minify: true
-// });
+const htmlwebpack = require('html-webpack-plugin');
+const html = new htmlwebpack({
+    template: path.resolve(__dirname,'src','html','test.html'),
+    minify: true
+});
 const {CleanWebpackPlugin} = require('clean-webpack-plugin');
 
 module.exports = {
-    entry: path.resolve(__dirname,'src/js/demoQ518.js'),
+    entry: path.resolve(__dirname,'src/js/gantetu/index.js'),
     output: {
         path: path.resolve(__dirname,'dist'),
         filename: "js/index.js"
@@ -39,7 +39,7 @@ module.exports = {
         quiet: true
     },
     plugins: [
-        // html,
+        html,
         new CleanWebpackPlugin()
     ]
 }

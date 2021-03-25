@@ -172,7 +172,7 @@ AND COMPLEX_DECIDE_TIME < to_char(sysdate - 1 days,'yyyymmdd')||'220000'`,
     // 点击跳转
     // 缺陷改判率
     $svg.find('#quexiangaipanlv_1_').on('click',function () {
-        FR.doHyperlink(event||window.event, [{"data":`var as=arguments; return FR.tc(function(){FR.doHyperlinkByGet4Reportlet({"url":"/webroot/decision/view/form?viewlet=%252F%25E7%25A1%2585%25E9%2592%25A2%252F%25E7%25BC%25BA%25E9%2599%25B7%25E6%2594%25B9%25E5%2588%25A4%25E6%2598%258E%25E7%25BB%2586.cpt","para":{"__pi__":true,"unit_code":"${getUnitCode('Q518')}"},"target":"_dialog","feature":{"width":1500,"height":1000,"isCenter":true,"title":""},"title":"网络报表1"})}, this, as)`,"name":"网络报表1"}], true)
+        FR.doHyperlink(event||window.event, [{"data":`var as=arguments; return FR.tc(function(){FR.doHyperlinkByGet4Reportlet({"url":"/webroot/decision/view/form?viewlet=硅钢/弹出明细/缺陷改判率.frm","para":{"__pi__":true,"unit_code":"${unit_code}"},"target":"_dialog","feature":{"width":1600,"height":1000,"isCenter":true,"title":""},"title":"网络报表1"})}, this, as)`,"name":"网络报表1"}], true)
     });
     // cp符合率
     $svg.find('#CPfuhelv_1_').on('click',function () {
@@ -180,6 +180,6 @@ AND COMPLEX_DECIDE_TIME < to_char(sysdate - 1 days,'yyyymmdd')||'220000'`,
     });
     // 现货发生率
     $svg.find('#xianhuowanchenglv_1_').on('click',function () {
-        FR.doHyperlink(event||window.event, [{"data":`var as=arguments; return FR.tc(function(){FR.doHyperlinkByGet4Reportlet({"url":"/webroot/decision/view/form?viewlet=%252F%25E7%25A1%2585%25E9%2592%25A2%252F%25E7%258E%25B0%25E8%25B4%25A7%25E6%2598%258E%25E7%25BB%2586.cpt","para":{"__pi__":true,"unit_code":"${getUnitCode('Q518')}"},"target":"_dialog","feature":{"width":1600,"height":1000,"isCenter":true,"title":""},"title":"网络报表1"})}, this, as)`,"name":"网络报表1"}], true)
+        FR.doHyperlink(event||window.event, [{"data":`var as=arguments; return FR.tc(function(){FR.doHyperlinkByGet4Reportlet({"url":"/webroot/decision/view/form?viewlet=%252F%25E7%25A1%2585%25E9%2592%25A2%252F%25E7%258E%25B0%25E8%25B4%25A7%25E6%2598%258E%25E7%25BB%2586.cpt","para":{"__pi__":true,"unit_code":"${unit_code}"},"target":"_dialog","feature":{"width":1600,"height":1000,"isCenter":true,"title":""},"title":"网络报表1"})}, this, as)`,"name":"网络报表1"}], true)
     });
 };

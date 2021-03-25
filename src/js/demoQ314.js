@@ -1,5 +1,5 @@
-import {init,$svg} from './common/init';
-import {textCenter} from "./common/common";
+import {init} from './common/init';
+
 import production from './Q314/production';
 import chengcailv from "./Q314/chengcailv";
 import zhiliang from "./Q314/zhiliang";

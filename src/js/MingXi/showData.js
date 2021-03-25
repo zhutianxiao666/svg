@@ -13,8 +13,8 @@ export default function (data) {
     let listSmall = [];
     titles.forEach((value,index) => {
         if (index == 0) {
-            listSmall.push(`<li class="title" style="flex: ${orders[index] || 1}"><span>${value}</span>`)
-        }else if (index == titles.length - 1) {
+            listSmall.push(`<li class="title" ><span style="width: 80px">序列号</span><span style="flex: ${orders[index] || 1}">${value}</span>`)
+        } else if (index == titles.length - 1) {
             listSmall.push(`<span style="flex: ${orders[index] || 1}">${value}</span></li>`);
             listBig.push(listSmall.join(''));
             listSmall = [];
@@ -22,21 +22,39 @@ export default function (data) {
             listSmall.push(`<span style="flex: ${orders[index] || 1}">${value}</span>`);
         };
     })
-    data.forEach((value,index) => {
-        value.forEach((value1 ,index1) => {
-            if (index1 == 0) {
-                listSmall.push(`<li><span style="flex: ${orders[index1] || 1}">${value1}</span>`);
-            }else if (index1 == value.length - 1) {
-                listSmall.push(`<span style="flex: ${orders[index1] || 1}">${value1}</span></li>`);
-            }else {
-                listSmall.push(`<span style="flex: ${orders[index1] || 1}">${value1}</span>`);
-            };
+    function isTrue() {
+        for (let i = 0 ; i < data.length ; i++ ) {
+            for (let j = 0 ; j < data[i].length ; j++) {
+                if (data[i][j] != '') {
+                    return true;
+                    break;
+                }
+            }
+        }
+        return false
+    };
+    isTrue();
+
+    if (isTrue()) {
+        data.forEach((value,index) => {
+
+            value.forEach((value1 ,index1) => {
+                if (index1 == 0) {
+                    listSmall.push(`<li><span style="width: 80px">${index + 1}</span><span style="flex: ${orders[index1] || 1}">${value1}</span>`);
+                }else if (index1 == value.length - 1) {
+                    listSmall.push(`<span style="flex: ${orders[index1] || 1}">${value1}</span></li>`);
+                }else {
+                    listSmall.push(`<span style="flex: ${orders[index1] || 1}">${value1}</span>`);
+                };
+            });
+            listBig.push(listSmall.join(''));
+            listSmall = [];
         });
-        listBig.push(listSmall.join(''));
-        listSmall = [];
-    });
+
+    };
     $('#content .main').html(listBig.join(''));
     $('#content .main li').css({
         'width': widths + '%'
     });
+
 }

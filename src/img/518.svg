@@ -581,7 +581,7 @@
 	</g>
 	<rect x="76.001" y="901.93" fill="#004E93" width="36" height="35.999"/>
 </g>
-<g id="nenghao">
+<g id="nenghao" class="hover">
 	
 		<rect x="2173.23" y="867.612" fill="none" stroke="#004E93" stroke-width="0.25" stroke-miterlimit="10" width="1020" height="575"/>
 	<g id="wanbannenghao_2_">
@@ -726,7 +726,7 @@
 <g id="tingji">
 	
 		<rect x="2173.23" y="1471.857" fill="none" stroke="#004E93" stroke-width="0.25" stroke-miterlimit="10" width="1020" height="630"/>
-	<g id="guzhangshijian_1_">
+	<g id="guzhangshijian_1_" class="hover">
 		<path fill="#FFC9CB" stroke="#A40B5D" stroke-width="0.25" stroke-miterlimit="10" d="M3129.994,1982.791
 			c0,13.811-11.631,25-25.979,25h-328.049c-14.348,0-25.973-11.189-25.973-25l0,0c0-13.803,11.625-25,25.973-25h328.049
 			C3118.363,1957.791,3129.994,1968.988,3129.994,1982.791L3129.994,1982.791z"/>

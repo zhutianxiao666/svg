@@ -22,7 +22,7 @@ export default function () {
     table({
         width:890,
         data:getData('report1','A53'),
-        titles:['产期时间','超期重量','库存号'],
+        titles:['超期时间','超期重量','库存号'],
         $ele: '#chaoqiyichangtixing',
         order:[1,1,1]
     });

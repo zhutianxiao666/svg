@@ -3,15 +3,15 @@ import {getData,getUnitCode} from "../common/common";
 import mingxi from "../common/mingxi";
 
 export default function () {
+    const unit_code = getUnitCode('Q518');
     // 生产
     $svg.find('#zaoban,#wanban').click(function () {
-        console.log('早晚班')
         FR.doHyperlink(event||window.event, [{"data":"var as=arguments; return FR.tc(function(){FR.doHyperlinkByGet4Reportlet({\"url\":\"/webroot/decision/view/form?viewlet=%252F%25E7%25A1%2585%25E9%2592%25A2%252F%25E4%25BA%25A7%25E9%2587%258F%25E8%25B6%258B%25E5%258A%25BF%252B%25E6%2598%258E%25E7%25BB%2586TAB.frm\",\"para\":{\"__pi__\":true,\"COUNTER.FILTERED\":\"true\",\"REF_C\":\"e7c8cfdb-5183-4e58-b37e-1f899de1705f\",\"FORMLETNAME\":\"Form1.frm\",\"WIDGETVERSION\":\"1\",\"REF_T\":\"design\",\"CMD\":\"load_content\",\"HEADERADDED\":\"true\",\"_\":\"1612842446122\",\"type\":\"MD\",\"ITEM_ENAME\":\"PROD_\",\"SORT\":\"\",\"unit\":\"吨\"},\"target\":\"_dialog\",\"feature\":{\"width\":1300,\"height\":800,\"isCenter\":true,\"title\":\"\"},\"title\":\"网络报表1\"})}, this, as)","name":"网络报表1"}], true);
     });
     // 质量
     // 缺陷改判率
     $svg.find('#quexiangaipanlv_1_,#quexiangaipanlvzaoban,#quexiangaipanlvwanban').click(function () {
-        FR.doHyperlink(event||window.event, [{"data":"var as=arguments; return FR.tc(function(){FR.doHyperlinkByGet4Reportlet({\"url\":\"/webroot/decision/view/form?viewlet=%252F%25E7%25A1%2585%25E9%2592%25A2%252F%25E7%25BC%25BA%25E9%2599%25B7%25E6%2594%25B9%25E5%2588%25A4%25E6%2598%258E%25E7%25BB%2586.cpt\",\"para\":{\"__pi__\":true,\"UNIT_CODE\":\"Q314\",\"REF_T\":\"design\",\"HEADERADDED\":\"true\",\"COUNTER.FILTERED\":\"true\",\"REF_C\":\"e7c8cfdb-5183-4e58-b37e-1f899de1705f\",\"FORMLETNAME\":\"硅钢/314热拉伸平整机组可视化画面.frm\",\"WIDGETVERSION\":\"1\",\"TABLEA\":\"TMMQ314\",\"CMD\":\"load_content\",\"_\":\"1612843262471\"},\"target\":\"_dialog\",\"feature\":{\"width\":1300,\"height\":800,\"isCenter\":true,\"title\":\"\"},\"title\":\"网络报表1\"})}, this, as)","name":"网络报表1"}], true);
+        FR.doHyperlink(event||window.event, [{"data":`var as=arguments; return FR.tc(function(){FR.doHyperlinkByGet4Reportlet({"url":"/webroot/decision/view/form?viewlet=硅钢/弹出明细/缺陷改判率.frm","para":{"__pi__":true,"unit_code":"${unit_code}"},"target":"_dialog","feature":{"width":1600,"height":1000,"isCenter":true,"title":""},"title":"网络报表1"})}, this, as)`,"name":"网络报表1"}], true)
     });
     // cp符合率
     $svg.find('#xianhuowanchenglv_1_,#cpgaipanlvzaoban,#cpgaipanlvwanban').click(function () {
@@ -27,12 +27,37 @@ export default function () {
         FR.doHyperlink(event||window.event, [{"data":`var as=arguments; return FR.tc(function(){FR.doHyperlinkByGet4Reportlet({"url":"/webroot/decision/view/form?viewlet=%252F%25E7%25A1%2585%25E9%2592%25A2%252F%25E6%2588%2590%25E6%259D%2590%25E7%258E%2587%25E8%25B6%258B%25E5%258A%25BF%252B%25E6%2598%258E%25E7%25BB%2586TAB.frm","para":{"__pi__":true,"COUNTER.FILTERED":"true","REF_C":"d146747a-f587-4c28-9522-85be3dfb3587","FORMLETNAME":"Form1.frm","WIDGETVERSION":"1","REF_T":"design","CMD":"load_content","HEADERADDED":"true","_":"1612858559410","type":"MD","ITEM_ENAME":"PROD_","SORT":"","unit":"吨","item_ename_day":"OUTPUT_RATE_GROUP_D","item_ename_month":"OUTPUT_RATE_GROUP_M","table_name":"TIMSIJ4GT","unit_code":"Q314","shift_group":"${shift_group}"},"target":"_dialog","feature":{"width":1300,"height":800,"isCenter":true,"title":""},"title":"网络报表1"})}, this, as)`,"name":"网络报表1"}], true);
     });
     // 停机
-    $svg.find('#tingjicishu_1_').click(function () {
-        FR.doHyperlink(event||window.event, [{"data":"var as=arguments; return FR.tc(function(){FR.doHyperlinkByGet4Reportlet({\"url\":\"/webroot/decision/view/form?viewlet=%252F%25E7%25A1%2585%25E9%2592%25A2%252F%25E5%2581%259C%25E6%259C%25BA%25E6%2598%258E%25E7%25BB%2586.cpt\",\"para\":{\"__pi__\":true,\"UNIT_CODE\":\"Q314\",\"REF_T\":\"design\",\"HEADERADDED\":\"true\",\"COUNTER.FILTERED\":\"true\",\"REF_C\":\"d146747a-f587-4c28-9522-85be3dfb3587\",\"FORMLETNAME\":\"硅钢/314热拉伸平整机组可视化画面.frm\",\"WIDGETVERSION\":\"1\",\"TABLEA\":\"TMMQ314\",\"CMD\":\"load_content\",\"_\":\"1612855982976\"},\"target\":\"_dialog\",\"feature\":{\"width\":1100,\"height\":800,\"isCenter\":true,\"title\":\"\"},\"title\":\"网络报表1\"})}, this, as)","name":"网络报表1"}], true);
+    $svg.find('#tingjicishu_1_,#tingjishijian_1_').click(function () {
+
+        mingxi({
+            system:'DBPRODE7',
+            sqlStr:`
+SELECT
+unit_code||'Q_Q'||
+sd_start||'Q_Q'||
+sd_end||'Q_Q'||
+subtotal||'Q_Q'||
+sd_description||'Q_Q'||
+rs_description||'Q_Q'||
+sd_type||'Q_Q'||
+sd_time||'Q_Q'||
+attribute||'Q_Q'||
+id||'Q_Q'||
+spare_time_1||'-*-' as 明细
+FROM ttmsij4ps
+WHERE SUBSTR(SD_DATE,1,6) = to_char(current date,'yyyymm')
+AND UNIT_CODE = 'Q314'
+AND SD_DESCRIPTION IN ('成品卷停机', '过渡卷停机')`,
+            order:[1,1,1,1,1,1,1,1,1,1,1],
+            title:['机组代码','停机开始','停机结束','小计','简述','原因简述','停机类型','停机时间','专业属性','序号','备用时间'],
+            width:150
+        });
+
+        // FR.doHyperlink(event||window.event, [{"data":"var as=arguments; return FR.tc(function(){FR.doHyperlinkByGet4Reportlet({\"url\":\"/webroot/decision/view/form?viewlet=%252F%25E7%25A1%2585%25E9%2592%25A2%252F%25E5%2581%259C%25E6%259C%25BA%25E6%2598%258E%25E7%25BB%2586.cpt\",\"para\":{\"__pi__\":true,\"UNIT_CODE\":\"Q314\",\"REF_T\":\"design\",\"HEADERADDED\":\"true\",\"COUNTER.FILTERED\":\"true\",\"REF_C\":\"d146747a-f587-4c28-9522-85be3dfb3587\",\"FORMLETNAME\":\"硅钢/314热拉伸平整机组可视化画面.frm\",\"WIDGETVERSION\":\"1\",\"TABLEA\":\"TMMQ314\",\"CMD\":\"load_content\",\"_\":\"1612855982976\"},\"target\":\"_dialog\",\"feature\":{\"width\":1100,\"height\":800,\"isCenter\":true,\"title\":\"\"},\"title\":\"网络报表1\"})}, this, as)","name":"网络报表1"}], true);
     });
-    $svg.find('#tingjishijian_1_').click(function () {
-        FR.doHyperlink(event||window.event, [{"data":"var as=arguments; return FR.tc(function(){FR.doHyperlinkByGet4Reportlet({\"url\":\"/webroot/decision/view/form?viewlet=%252F%25E7%25A1%2585%25E9%2592%25A2%252F%25E5%2581%259C%25E6%259C%25BA%25E6%2598%258E%25E7%25BB%2586.cpt\",\"para\":{\"__pi__\":true,\"UNIT_CODE\":\"Q314\",\"REF_T\":\"design\",\"HEADERADDED\":\"true\",\"COUNTER.FILTERED\":\"true\",\"REF_C\":\"d146747a-f587-4c28-9522-85be3dfb3587\",\"FORMLETNAME\":\"硅钢/314热拉伸平整机组可视化画面.frm\",\"WIDGETVERSION\":\"1\",\"TABLEA\":\"TMMQ314\",\"CMD\":\"load_content\",\"_\":\"1612855982976\"},\"target\":\"_dialog\",\"feature\":{\"width\":1100,\"height\":800,\"isCenter\":true,\"title\":\"\"},\"title\":\"网络报表1\"})}, this, as)","name":"网络报表1"}], true)
-    });
+    // $svg.find('#tingjishijian_1_').click(function () {
+    //     FR.doHyperlink(event||window.event, [{"data":"var as=arguments; return FR.tc(function(){FR.doHyperlinkByGet4Reportlet({\"url\":\"/webroot/decision/view/form?viewlet=%252F%25E7%25A1%2585%25E9%2592%25A2%252F%25E5%2581%259C%25E6%259C%25BA%25E6%2598%258E%25E7%25BB%2586.cpt\",\"para\":{\"__pi__\":true,\"UNIT_CODE\":\"Q314\",\"REF_T\":\"design\",\"HEADERADDED\":\"true\",\"COUNTER.FILTERED\":\"true\",\"REF_C\":\"d146747a-f587-4c28-9522-85be3dfb3587\",\"FORMLETNAME\":\"硅钢/314热拉伸平整机组可视化画面.frm\",\"WIDGETVERSION\":\"1\",\"TABLEA\":\"TMMQ314\",\"CMD\":\"load_content\",\"_\":\"1612855982976\"},\"target\":\"_dialog\",\"feature\":{\"width\":1100,\"height\":800,\"isCenter\":true,\"title\":\"\"},\"title\":\"网络报表1\"})}, this, as)","name":"网络报表1"}], true)
+    // });
 
     // 表单明细
     $svg.find('#yichangtixing .mingxi').click(function () {
@@ -108,6 +133,31 @@ order by TEST_TIME desc`,
     });
     $svg.find('#meirixinxi_1_').click(function () {
         FR.doHyperlink(event||window.event, [{"data":`var as=arguments; return FR.tc(function(){FR.doHyperlinkByGet4Reportlet({"url":"/webroot/decision/view/form?viewlet=硅钢/每日信息.frm","para":{"__pi__":true},"target":"_dialog","feature":{"width":1300,"height":800,"isCenter":true,"title":""},"title":"网络报表1"})}, this, as)`,"name":"网络报表1"}], true);
+    });
+    $svg.find('#chaoqiyichangtixing .mingxi').click(function () {
+        mingxi({
+            system: '硅钢L3',
+            sqlStr: `SELECT STOCK_NO||'Q_Q'||MAT_NO||'Q_Q'||MAT_ACT_THICK||'Q_Q'||ST_NO||'Q_Q'||NEXT_UNIT_NO||'Q_Q'||PROD_END_TIME||'Q_Q'||DIFF||'-*-'
+  FROM 
+((SELECT STOCK_NO,MAT_NO,MAT_ACT_THICK,ST_NO,NEXT_UNIT_NO,PROD_END_TIME,(DAYS(current timestamp)-DAYS(to_date(SUBSTR(PROD_END_TIME,1,8),'yyyy-mm-dd'))) AS DIFF
+  FROM TMMCR01 
+ WHERE STOCK_NO IN ('Q15','Q18')
+   AND DAYS(current timestamp)-DAYS(to_date(SUBSTR(PROD_END_TIME,1,8),'yyyy-mm-dd')) >=7
+   AND LENGTH(PROD_END_TIME) = 14)
+ UNION
+(SELECT STOCK_NO,MAT_NO,MAT_ACT_THICK,ST_NO,NEXT_UNIT_NO,PROD_END_TIME,(DAYS(current timestamp)-DAYS(to_date(SUBSTR(PROD_END_TIME,1,8),'yyyy-mm-dd'))) AS DIFF
+  FROM TMMFR01 
+ WHERE STOCK_NO IN ('Q15','Q18')
+   AND DAYS(current timestamp)-DAYS(to_date(SUBSTR(PROD_END_TIME,1,8),'yyyy-mm-dd')) >=7
+   AND LENGTH(PROD_END_TIME) = 14))
+ ORDER BY STOCK_NO,DIFF`,
+            title: ['库区','卷号','厚度','出钢记号','下道机组','产出时间','超期时间'],
+            width: 100
+        });
+    });
+    // 能耗
+    $svg.find('#nenghao').click(function () {
+        FR.doHyperlink(event||window.event, [{"data":`var as=arguments; return FR.tc(function(){FR.doHyperlinkByGet4Reportlet({"url":"/webroot/decision/view/form?viewlet=硅钢/弹出明细/能耗趋势.frm","para":{"__pi__":true,"unit_code":"${unit_code}"},"target":"_dialog","feature":{"width":1300,"height":800,"isCenter":true,"title":""},"title":"网络报表1"})}, this, as)`,"name":"网络报表1"}], true);
     });
 
 };

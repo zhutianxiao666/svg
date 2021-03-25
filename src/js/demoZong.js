@@ -17,6 +17,7 @@ window.f1 = function() {
         times++;
         if(init_width != $('#guzhangcishu')[0].getBBox().width|| times > 50){
             clearInterval(timer);
+
             $('body').append('<div id="TipsText" style="position: absolute;left: 0;top: 0;display: none;color: white;background-color: rgba(0,0,0,0.2)">分类名：机组号</div>')
             // 公共变量
             // 机组号元素
@@ -447,8 +448,12 @@ window.f1 = function() {
             function equipment(obj) {
                 const stopTime = getTd(obj.reportName,obj.stopTime).text();
                 const stopTotal = parseInt(getTd(obj.reportName,obj.stopTotal).text());
+                const guzhangcishu = parseInt(getTd(obj.reportName,obj.guzhangcishu).text());
+                const guzhangshijian = parseInt(getTd(obj.reportName,obj.guzhangshijian).text());
                 $('#stoptime').text(stopTime);
                 $('#stoptotal').text(stopTotal);
+                $('#guzhangcishu').text(guzhangcishu);
+                $('#guzhangshijian').text(guzhangshijian);
 
                 // 靠右对齐
                 const textRight = function ($ele) {
@@ -467,7 +472,9 @@ window.f1 = function() {
             equipment({
                 reportName:'report1',
                 stopTime:'A10-0',
-                stopTotal:'B10-0'
+                stopTotal:'B10-0',
+                guzhangcishu:'C10-0',
+                guzhangshijian:'D10-0'
             })
             // end 设备信息
 
@@ -648,7 +655,11 @@ window.f1 = function() {
                 });
                 codeShowArr.css('cursor','pointer').click(function () {
                     const code = this.getAttribute('id').substr(11);
-                    IPlatInterop.Call4CForm('QMZJJ4CP' + code);
+                    if (code == '518' || code == '318') {
+                        IPlatInterop.Call4CForm('QMCPJ401B1' + code);
+                    }else {
+                        IPlatInterop.Call4CForm('QMZJJ4CP' + code);
+                    }
                 });
 
                 const obj = {
